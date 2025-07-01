@@ -78,7 +78,7 @@
       "manual": "https://archive.org/download/NESManuals/Super%20Mario%20Bros.%203%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//237f73a1-7b42-4ded-af30-87f53a6d31fd.png",
       "gameplay": "https://www.youtube.com/watch?v=Na8rqq47gi0",
-      "soundtrack": "null" 
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/supermario3.m3u" 
     }    
   ]
 }
