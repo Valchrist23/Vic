@@ -1,32 +1,69 @@
-Title
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Title
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/rsmpahcg/02.%20Demon%20Castle%20Dracula%20%28Title%29.mp3
-Draculas Theme Opening
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Draculas Theme Opening
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/aflbqqij/03.%20Dracula%27s%20Theme%20%28Opening%29.mp3
-Epitaph
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Epitaph
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/kmxeyynq/04%20Password.mp3
-Prologue Castle Gate
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Prologue Castle Gate
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/rbikxiuj/05.%20Prologue%20%28Block%201-1%20-%20Castle%20Gate%29.mp3
-Theme Of Simon
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Theme Of Simon
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/uxbdtjdf/06.%20Theme%20of%20Simon%20%28Block%201-2%20-%20The%20Fortress%29.mp3
-Forest Of Evil Spirits
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Forest Of Evil Spirits
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/xmiwukgp/07.%20Forest%20of%20Evil%20Spirits%20%28Block%202%20-%20Forest%20of%20Evil%20Spirits%29.mp3
-Limestone Cavern
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Limestone Cavern
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/mvsvuvha/08.%20Limestone%20Cavern%20%28Block%203-1%20-%20The%20Caverns%29.mp3
-Waterfall
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Waterfall
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/sfvrenfs/09.%20Waterfall%20%28Block%203-2%20-%20The%20Waterfalls%29.mp3
-Submerged City
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Submerged City
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/ptwetrwa/10.%20Submerged%20City%20%28Block%203-3%20-%20The%20Moat%29.mp3
-Trick Manor-Rotating Room
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Trick Manor-Rotating Room
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/rolziayc/11.%20The%20Trick%20Manor%20%28Part%201%29%20%28Block%204-1%20-%20Rotating%20Room%29.mp3
-Trick Manor-Spinning Tower
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Trick Manor-Spinning Tower
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/dfbvdsqx/12.%20The%20Trick%20Manor%20%28Part%202%29%20%28Block%204-3%20-%20Spinning%20Tower%29.mp3
-Boss Theme
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Boss Theme
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/hxgndiar/13.%20Boss%20Theme%201%20%28Boss%20Theme%201%29.mp3
-Stage Map
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Stage Map
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/hurcvthj/15.%20Stage%20Map%20A%20%28Stage%20Map%20A%29.mp3
-Ascention To The Castle Marshes
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Ascention To The Castle Marshes
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/afoedtqe/16.%20Ascension%20to%20the%20Castle%20%28Part%201%29%20%28Block%205-1%20-%20Marshes%29.mp3
-Ascention To The Castle Court
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Ascention To The Castle Court
 https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/zdiwydqa/17.%20Ascension%20to%20the%20Castle%20%28Part%202%29%20%28Block%205-2%20-%20Court%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Knights Corridor-Entrance Hall
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/tdbgxtov/18.%20Knight%20Corridor%20%28Block%206-1%20-%20Entrance%20Hall%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Banquet Hall-Ballroom
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/flsbxmpf/19.%20Banquet%20Hall%20%28Block%206-2%20-%20Ballroom%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Library Collection Space-Store Room
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/zyoryvln/20.%20Library%20-%20Collection%20Space%20%28Block%207%20-%20Storeroom%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Cellar-The Dungeons
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/nwqnaesx/21.%20Cellar%20%28Block%208%20-%20The%20Dungeons%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Stage Map B
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/kwgnmaim/22.%20Stage%20Map%20B%20%28Stage%20Map%20B%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Treasure Room-Treasury
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/wrixylhu/23.%20Treasure%20Room%20%28Block%209%20-%20The%20Treasury%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Boss Theme 2
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/zhvfzthy/24.%20Boss%20Theme%202%20%28Boss%20Theme%202%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Stage Map C
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/milmgnqh/25.%20Stage%20Map%20C%20%28Stage%20Map%20C%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Bloody Tears-Clock Tower Gears
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cfbxmuqf/26.%20Bloody%20Tears%20%28Block%20A%20-%20Clock%20Tower%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Stage Map D
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/olheiyyg/27.%20Stage%20Map%20D%20%28Stage%20Map%20D%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Vampire Killer-Draculas Tower
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/nnrtowrl/28.%20Vampire%20Killer%20%28Block%20B-1%20-%20Dracula%27s%20Tower%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Beginning-Tower Exterior
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/ryphwhbd/29.%20Beginning%20%28Block%20B-2%20-%20Tower%20Exterior%20Walls%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",The Attendants Room-Close Associates
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/vbnexpgc/30.%20The%20Attendants%27%20Rooms%20%28Block%20B-3%20-%20Rooms%20of%20Close%20Associates%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Draculas Room-Draculas Fight
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/qpytcbyc/31.%20Dracula%27s%20Room%20%28Block%20B-4%20-%20Dracula%20Fight%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",Draculas Fight Finale
+https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/uzujnbuo/32.%20Dracula%27s%20Death%20%28Block%20B-4%20-%20Dracula%20Fight%20Finale%29.mp3
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/super-castlevania-iv-snes/cover.jpg" group-title="Music",
+
 
 
