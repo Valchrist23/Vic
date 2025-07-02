@@ -2,6 +2,7 @@
   "games": [
     {
       "title": "Dino Crisis 2",
+      "system": "ps1",
       "fileName": "Dino Crisis 2.chd",
       "cover": "https://images.launchbox-app.com//a4ee3454-6951-44f4-a521-fa51162f3079.png",
       "disc": "https://images.launchbox-app.com//9991fded-316d-4ec5-acb5-64031832108a.png",
@@ -12,6 +13,7 @@
     },
     {
       "title": "MediEvil 2",
+      "system": "ps1",
       "fileName": "MediEvil 2.chd",
       "cover": "https://images.launchbox-app.com//f12fc611-baf1-4bcd-8451-14a8d34b6473.png",
       "disc": "https://images.launchbox-app.com//62609315-c2cc-4600-9d96-f319bdb3fb24.png",
@@ -22,6 +24,7 @@
     },
     {
       "title": "MediEvil",
+      "system": "ps1",
       "fileName": "MediEvil.chd",
       "cover": "https://images.launchbox-app.com//ed7b25f9-3f8a-4e66-a498-ee40748cf0a4.png",
       "disc": "https://images.launchbox-app.com//1a9e3e62-91f9-4ca8-81d1-77a08b7a3c6c.png",
@@ -32,6 +35,7 @@
     },
     {
       "title": "Mega Man X4",
+      "system": "ps1",
       "fileName": "Mega Man X4.chd",
       "cover": "https://images.launchbox-app.com//24979c9a-5c43-4ed9-a1a0-3c64a4acfcb6.png",
       "disc": "https://images.launchbox-app.com//f89e3fd5-2cfd-400d-bdcf-f3a9b470fa10.png",
@@ -42,6 +46,7 @@
     },
     {
       "title": "Breath Of Fire III",
+      "system": "ps1",
       "fileName": "Breath Of Fire III.chd",
       "cover": "https://images.launchbox-app.com//e064fc74-3530-4a33-b87c-f3b9c2e3778a.png",
       "disc": "https://images.launchbox-app.com//a3d6b011-9a73-4bb1-b1f1-28aca699cfae.png",
@@ -52,6 +57,7 @@
     },
     {
       "title": "Castlevania Symphony Of The Night",
+      "system": "ps1",
       "fileName": "Castlevania - Symphony of the Night (USA).chd",
       "cover": "https://images.launchbox-app.com//52066f45-52a0-4920-a636-63e15e942678.png",
       "disc": "https://images.launchbox-app.com//d0c807f4-734d-40c4-8636-b1250b882eb2.png",
@@ -62,6 +68,7 @@
     },
     {
       "title": "Metal Gear Solid",
+      "system": "ps1",
       "fileName": "Metal_Gear_Solid.pbp",
       "cover": "https://images.launchbox-app.com//5d3d25b2-7850-4b60-8446-491251a3b76c.png",
       "disc": "https://images.launchbox-app.com//96aa0fcf-1afe-4215-b6dc-141e12b3cf3e.png",
