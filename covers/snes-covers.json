@@ -9,67 +9,6 @@
       "logo": "https://images.launchbox-app.com//702db1ac-e552-4f83-a1de-cac1ba847d57.png",
       "gameplay": "https://www.youtube.com/watch?v=f_rskSkXjZs",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/actriser.m3u"
-    },
-    {
-      "title": "ActRiser 2",
-      "fileName": "ActRser_2.sfc",
-      "cover": "https://emumovies.com/storage/downloads/screenshots/monthly_2024_05/ActRaiser2(USA).png.41c95218b1c90861074615139f165fac.png",
-      "disc": "https://images.launchbox-app.com//2800b552-b939-4f1c-b912-690091d82174.png",
-      "manual": "https://archive.org/download/snes-manual-archive/ActRaiser%202%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//f44d5639-037c-4015-ac64-064fd52acdf5.png",
-      "gameplay": "https://www.youtube.com/watch?v=22SOTDNQvkI",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/music/snes/fzero.m3u"
-    },
-    {
-      "title": "Aladdin",
-      "fileName": "Aladdin (U) [!].zip",
-      "cover": "https://images.launchbox-app.com//ad810627-d76b-490a-af00-4887b75b0711.png",
-      "disc": "https://images.launchbox-app.com//42c6f9e2-bcc4-40b9-93ab-43ef88d55cc2.png",
-      "manual": "https://archive.org/download/snes-manual-archive/Disney%27s%20Aladdin%20%28USA%29.pdf",
-      "logo": "https://gamesdb-images.launchbox.gg/r2_4b8abc48-2b4b-460c-a201-c683ab19c6df.png",
-      "gameplay": "https://www.youtube.com/watch?v=_inY8qT5UT4",
-      "soundtrack": "null",
-      "url": "https://archive.org/download/snesromsetcompleate/Aladdin%20%28U%29%20%5B%21%5D.zip"
-    },
-    {
-      "title": "Super Mario All Stars + Super Mario World",
-      "fileName": "super_mario_world.sfc",
-      "cover": "https://images.launchbox-app.com//a7ebaf64-93a3-4a25-b9b1-499aad86cd74.jpg",
-      "disc": "https://images.launchbox-app.com//301f53ec-1c4b-4ef7-a67e-4aea146a339c.png",
-      "manual": "https://archive.org/download/snes-manual-archive/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//d46d249b-5d32-4761-b117-64125965bd4f.png",
-      "gameplay": "null",
-      "soundtrack": "null"
-    },
-    {
-      "title": "Battletoads In Battlemaniacs",
-      "fileName": "Battletoards.sfc",
-      "cover": "https://images.launchbox-app.com//224a7df4-6360-4d05-9cb9-d0ee9a6c695c.jpg",
-      "disc": "https://images.launchbox-app.com//99e80c2b-f5b8-477b-b491-d6c8c010a853.png",
-      "manual": "https://archive.org/download/snes-manual-archive/Battletoads%20in%20Battlemaniacs%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//7634be74-4ddd-4f90-af6d-88c0c71e436b.png",
-      "gameplay": "https://www.youtube.com/watch?v=WjzP6u6ayjc",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/battletoadsinbattlemaniacs.m3u"
-    },
-    {
-      "title": "Castlevania Dracula X",
-      "fileName": "Castlevania - Dracula X (U) [!].zip",
-      "cover": "https://emumovies.com/storage/downloads/screenshots/monthly_2024_05/Castlevania-DraculaX(USA).png.fe9508874116e306963224270b5ec73a.png",
-      "disc": "https://forums.cdn.launchbox.gg/monthly_2020_02/1022131630_Castlevania-DraculaX(USA).png.06514d44659d877863d8980025a432fb.png",
-      "manual": "https://archive.org/download/snes-manual-archive/Castlevania%20-%20Dracula%20X%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//58e08f8d-daa8-4069-b00a-d84f997609f5.png",
-      "gameplay": "https://www.youtube.com/watch?v=fzCZuRS1LYM",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniadraculax.m3u"
-    },
-    {
-      "title": "Super Castlevania IV",
-      "fileName": "Super_castlevania_IV.sfc",
-      "cover": "https://images.launchbox-app.com//ad4f940a-3d1a-4ee5-86eb-8c75ce196eac.png",
-      "disc": "https://images.launchbox-app.com//77440fb4-f256-49e3-a8da-462b0a3cc21e.png",
-      "manual": "https://archive.org/download/snes-manual-archive/Super%20Castlevania%20IV%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//b412a3d5-e582-4bfb-87d3-3b6e36199cc0.png",
-      "gameplay": "https://www.youtube.com/watch?v=0fQ54I5N2kU",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/supercastlevaniaiv.m3u"
-    }    
+    } 
   ]
 }
