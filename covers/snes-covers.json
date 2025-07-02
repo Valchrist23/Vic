@@ -2,6 +2,7 @@
   "games": [
     {
       "title": "ActRiser",
+      "system": "snes",
       "fileName": "ActRiser.sfc",
       "cover": "https://emumovies.com/storage/downloads/screenshots/monthly_2024_05/ActRaiser(USA).png.71a0e5796da6e47c596afb7e57c0fb47.png",
       "disc": "https://images.launchbox-app.com//6334d71b-3753-4959-8c00-ff9690601611.png",
@@ -13,6 +14,7 @@
     },
     {
       "title": "ActRiser 2",
+      "system": "snes",
       "fileName": "ActRser_2.sfc",
       "cover": "https://emumovies.com/storage/downloads/screenshots/monthly_2024_05/ActRaiser2(USA).png.41c95218b1c90861074615139f165fac.png",
       "disc": "https://images.launchbox-app.com//2800b552-b939-4f1c-b912-690091d82174.png",
@@ -23,6 +25,7 @@
     },
     {
       "title": "Aladdin",
+      "system": "snes",
       "fileName": "Aladdin (U) [!].zip",
       "cover": "https://images.launchbox-app.com//ad810627-d76b-490a-af00-4887b75b0711.png",
       "disc": "https://images.launchbox-app.com//42c6f9e2-bcc4-40b9-93ab-43ef88d55cc2.png",
@@ -34,6 +37,7 @@
     },
     {
       "title": "Super Mario All Stars + Super Mario World",
+      "system": "snes",
       "fileName": "super_mario_world.sfc",
       "cover": "https://images.launchbox-app.com//a7ebaf64-93a3-4a25-b9b1-499aad86cd74.jpg",
       "disc": "https://images.launchbox-app.com//301f53ec-1c4b-4ef7-a67e-4aea146a339c.png",
@@ -45,6 +49,7 @@
     },
     {
       "title": "Battletoads In Battlemaniacs",
+      "system": "snes",
       "fileName": "Battletoards.sfc",
       "cover": "https://images.launchbox-app.com//224a7df4-6360-4d05-9cb9-d0ee9a6c695c.jpg",
       "disc": "https://images.launchbox-app.com//99e80c2b-f5b8-477b-b491-d6c8c010a853.png",
@@ -56,6 +61,7 @@
     },
     {
       "title": "Castlevania Dracula X",
+      "system": "snes",
       "fileName": "Castlevania - Dracula X (U) [!].zip",
       "cover": "https://emumovies.com/storage/downloads/screenshots/monthly_2024_05/Castlevania-DraculaX(USA).png.fe9508874116e306963224270b5ec73a.png",
       "disc": "https://forums.cdn.launchbox.gg/monthly_2020_02/1022131630_Castlevania-DraculaX(USA).png.06514d44659d877863d8980025a432fb.png",
@@ -67,6 +73,7 @@
     },
     {
       "title": "Super Castlevania IV",
+      "system": "snes",
       "fileName": "Super_castlevania_IV.sfc",
       "cover": "https://images.launchbox-app.com//ad4f940a-3d1a-4ee5-86eb-8c75ce196eac.png",
       "disc": "https://images.launchbox-app.com//77440fb4-f256-49e3-a8da-462b0a3cc21e.png",
