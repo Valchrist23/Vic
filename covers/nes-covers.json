@@ -154,6 +154,7 @@
     },
     {
       "title": "Castlevania 2 Simons Quest",
+      "system": "nes",
       "fileName": "Castlevania2-Simons.Quest.zip",
       "cover": "https://images.launchbox-app.com//0a456c93-2206-4484-bbf1-3268f325feb5.png",
       "disc": "https://images.launchbox-app.com//13e81ab1-f656-4024-8663-3cac7b53682a.png",
@@ -165,6 +166,7 @@
     },
     {
       "title": "Castlevania 3 Draculas Curse",
+      "system": "nes",
       "fileName": "Castlevania3-Draculas.Curse.zip",
       "cover": "https://images.launchbox-app.com//ac727c49-c0ef-4298-aa18-7ed6d658cd74.png",
       "disc": "https://images.launchbox-app.com//4bc9d51b-3f9c-4023-ba77-e9471ee881ad.png",
@@ -176,6 +178,7 @@
     },
      {
       "title": "Contra",
+       "system": "nes",
       "fileName": "CONTRA.zip",
       "cover": "https://images.launchbox-app.com//334db7d2-c0e8-4b1b-8c79-8ba87a594a86.png",
       "disc": "https://images.launchbox-app.com//74146769-b179-44ce-aa70-6a34cce1b78b.png",
@@ -198,6 +201,7 @@
     },
      {
       "title": "Crystalis",
+       "system": "nes",
       "fileName": "CRYSTALI.zip",
       "cover": "https://images.launchbox-app.com//4ea76d38-3bc5-431c-b66b-e511fe0be7b1.png",
       "disc": "https://images.launchbox-app.com//6153b9c0-443d-42e6-8906-faf83386e1e9.png",
@@ -209,6 +213,7 @@
     },
     {
       "title": "Double Dragon",
+      "system": "nes",
       "fileName": "Double.Dragon(Chs).zip",
       "cover": "https://images.launchbox-app.com//791b0412-fc64-4605-b382-dcd23dafc0f7.png",
       "disc": "https://images.launchbox-app.com//47dd120f-3101-4b03-ab95-5f23ba97480e.png",
@@ -220,6 +225,7 @@
     },
     {
       "title": "Double Dragon II The Revenge",
+      "system": "nes",
       "fileName": "Double.Dragon.2(Chs).zip",
       "cover": "https://images.launchbox-app.com//6b59b847-6fff-4f56-b44a-f7e7ce049686.png",
       "disc": "https://images.launchbox-app.com//281de6d4-bf1d-4bdc-badf-ed0be66c7d98.png",
@@ -231,6 +237,7 @@
     },
     {
       "title": "Double Dragon III The Rosetta Stones",
+      "system": "nes",
       "fileName": "Double.Dragon.3-The.Rosetta.Stone(J).zip",
       "cover": "https://images.launchbox-app.com//0442ccba-61d6-4d4f-a3b5-8558b171f7ab.png",
       "disc": "https://images.launchbox-app.com//01daf2b7-be5a-44a9-8486-a24590808d59.png",
@@ -242,6 +249,7 @@
     },
     {
       "title": "Ducktales 2",
+      "system": "nes",
       "fileName": "Duck.Tales.2(J).zip",
       "cover": "https://images.launchbox-app.com//de9b457e-589c-419f-89e1-67bd21c3d370.png",
       "disc": "https://images.launchbox-app.com//f52e5d60-920b-46a5-8204-04fc0fd690f4.png",
@@ -253,6 +261,7 @@
     },
     {
       "title": "Festers Quest",
+      "system": "nes",
       "fileName": "Fester.s.Quest.zip",
       "cover": "https://images.launchbox-app.com//f9c0b593-be86-4e2b-816e-c1862d7ebc29.png",
       "disc": "https://images.launchbox-app.com//d885e9b7-22ed-4f35-9e71-1c3e037924c6.png",
@@ -264,6 +273,7 @@
     },
     {
       "title": "Fliying Warriors",
+      "system": "nes",
       "fileName": "Flintstones-The.Rescue.of.Dino.Hoppy.The(J).zip",
       "cover": "https://images.launchbox-app.com//06ee0f7c-66a8-4d7f-ab94-683b659b22d7.png",
       "disc": "https://images.launchbox-app.com//bd3a6547-f8cf-4dc5-b8ee-355bbe5a5934.png",
@@ -275,6 +285,7 @@
     },
     {
       "title": "The Flintstones: The Rescue of Dino & Hoppy",
+      "system": "nes",
       "fileName": "Flintstones-The.Rescue.of.Dino.Hoppy.The(J).zip",
       "cover": "https://images.launchbox-app.com//f9507c74-8523-4d10-b2c7-0156c3a15067.png",
       "disc": "https://images.launchbox-app.com//ac3d8736-1b1b-420d-ac1f-71602149d00a.png",
@@ -286,6 +297,7 @@
     },
     {
       "title": "Friday The 13th",
+      "system": "nes",
       "fileName": "Friday.The.13.zip",
       "cover": "https://images.launchbox-app.com//5c122750-f205-4432-9d76-f9fc16eadd6e.png",
       "disc": "https://images.launchbox-app.com//0e0daa4f-9f2f-46fc-b5ad-0c3ea065453c.png",
@@ -308,6 +320,7 @@
     },
     {
       "title": "G.I. Joe: The Atlantis Factor",
+      "system": "nes",
       "fileName": "GIJOE.zip",
       "cover": "https://images.launchbox-app.com//3f078471-9fcf-4b8e-9288-21aeedb4c1bd.png",
       "disc": "https://images.launchbox-app.com//c7c3513e-361a-4022-b4e5-3ffbd66a2789.png",
@@ -330,6 +343,7 @@
     },
     {
       "title": "Graduis",
+      "system": "nes",
       "fileName": "Gradius(J).zip",
       "cover": "https://images.launchbox-app.com//49384b6e-15df-481f-8fe8-1049f3e993c2.png",
       "disc": "https://images.launchbox-app.com//25aacd80-3965-44a7-ad66-0d7081718b32.png",
@@ -352,6 +366,7 @@
     },
     {
       "title": "Mega Man",
+      "system": "nes",
       "fileName": "Mega Man.zip",
       "cover": "https://images.launchbox-app.com//333eb17c-04cc-4e6f-b4aa-4323c7c62691.png",
       "disc": "https://images.launchbox-app.com//8a2e01c6-ac9c-4986-a134-968f6a90a7ad.jpg",
@@ -363,6 +378,7 @@
     },
     {
       "title": "Metal Gear",
+      "system": "nes",
       "fileName": "Metal Gear.zip",
       "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
       "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
@@ -374,6 +390,7 @@
     },
     {
       "title": "Super Robin Hood",
+      "system": "nes",
       "fileName": "Super.Robin.Hood.zip",
       "cover": "null",
       "disc": "null",
@@ -385,6 +402,7 @@
     },
     {
       "title": "Super Mario Bros",
+      "system": "nes",
       "fileName": "Super Mario Bros.chd",
       "cover": "https://images.launchbox-app.com//713ad66d-6083-4e89-b1e9-b895c87dffbd.png",
       "disc": "https://images.launchbox-app.com//d6cb1b14-4825-4ef5-8fd1-9e0645d64a38.png",
@@ -396,6 +414,7 @@
     },
     {
       "title": "Super Mario Bros 2",
+      "system": "nes",
       "fileName": "supermario 2.zip",
       "cover": "https://images.launchbox-app.com//f3506f48-5f8c-44e9-90ea-7bc4ba22f9df.png",
       "disc": "https://images.launchbox-app.com//c5cb20aa-38c3-443d-afa7-3f5bf0cd9b56.png",
@@ -407,6 +426,7 @@
     },
     {
       "title": "Super Mario Bros 3",
+      "system": "nes",
       "fileName": "Super.Mario.Bros3(J).zip",
       "cover": "https://images.launchbox-app.com//174ffd17-c402-46f3-a298-da381f49bb23.png",
       "disc": "https://images.launchbox-app.com//773d9360-52e3-45a9-b474-163b4c4b3eb6.png",
@@ -418,39 +438,43 @@
     },
     {
       "title": "Super Mario Bros World",
+      "system": "nes",
       "fileName": "Super.Mario.World.zip",
-      "cover": "null",
-      "disc": "null",
+      "cover": "https://images.launchbox-app.com//b4263616-be4a-4551-98a7-d0e022e2606b.png",
+      "disc": "https://images.launchbox-app.com//fe060620-6baf-410b-a614-106edb2a69a3.png",
       "manual": "null",
-      "logo": "https://images.launchbox-app.com//237f73a1-7b42-4ded-af30-87f53a6d31fd.png",
+      "logo": "https://images.launchbox-app.com//d12b1f3d-e33e-47bf-b463-4e6ecece986e.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/Super.Mario.World.zip",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/supermario3.m3u" 
     },
     {
       "title": "Star Wars",
+      "system": "nes",
       "fileName": "Star.Wars(Namco)(J).zip",
-      "cover": "null",
-      "disc": "null",
+      "cover": "https://images.launchbox-app.com//0d360e1a-8b7f-43d9-9885-2fe23c2ec4af.png",
+      "disc": "https://images.launchbox-app.com//44dd4de9-d91b-4da3-862b-8eb03a705f79.png",
       "manual": "null",
-      "logo": "null",
+      "logo": "https://images.launchbox-app.com//0e404dce-0fc6-4d46-bc95-21fd4ef03c69.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/Star.Wars%28Namco%29%28J%29.zip",
       "soundtrack": "null" 
     },
     {
       "title": "Empire Strikes Back",
+      "system": "nes",
       "fileName": "Empire.Strikes.Back.The(J).zip",
-      "cover": "null",
-      "disc": "null",
-      "manual": "null",
-      "logo": "null",
+      "cover": "https://images.launchbox-app.com//429ddde3-7131-4a1d-ac62-39d160068ca0.png",
+      "disc": "https://images.launchbox-app.com//efa6d589-764f-41b9-9b9a-b85c49dfcf0f.png",
+      "manual": "https://archive.org/download/NESManuals/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//fb69239c-f9d5-4b67-98c4-4345f9cf33d7.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/Empire.Strikes.Back.The%28J%29.zip",
       "soundtrack": "null" 
     },
     {
       "title": "Street Fighter 2010 The Final Fight",
+      "system": "nes",
       "fileName": "Street.Fighter2010(J).zip",
       "cover": "https://images.launchbox-app.com//7f5d3857-601b-40e4-bec0-8b893709379a.png",
       "disc": "https://images.launchbox-app.com//543a3603-3a5b-4847-94d7-90793073250c.png",
@@ -462,44 +486,48 @@
     },
     {
       "title": "Strider",
+      "system": "nes",
       "fileName": "STRIDER.zip",
-      "cover": "null",
-      "disc": "null",
-      "manual": "null",
-      "logo": "null",
+      "cover": "https://images.launchbox-app.com//cab8d628-14fe-41a8-8a92-538ba55a4e50.png",
+      "disc": "https://images.launchbox-app.com//7ef56234-b3a2-4b41-a27e-3601d7af8fb3.png",
+      "manual": "https://archive.org/download/NESManuals/Strider%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//11a95f24-52c0-4c6c-a751-1361d6f63437.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/STRIDER.zip",
       "soundtrack": "null" 
     }, 
     {
       "title": "Teenage Mutant Ninja Turtles",
+      "system": "nes",
       "fileName": "TMNT.zip",
-      "cover": "null",
-      "disc": "null",
-      "manual": "null",
-      "logo": "null",
+      "cover": "https://images.launchbox-app.com//ba1a00a9-d48d-4e21-84d8-056bb0b8ad2c.png",
+      "disc": "https://images.launchbox-app.com//780287f1-3854-4246-828b-4c39d870a8e8.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//a8c29c33-2384-4a92-9f52-f575cf9e6bf6.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/TMNT.zip",
       "soundtrack": "null" 
     }, 
     {
       "title": "Teenage Mutant Ninja Turtles II The Arcade",
+      "system": "nes",
       "fileName": "TMNT2.zip",
-      "cover": "null",
-      "disc": "null",
-      "manual": "null",
-      "logo": "null",
+      "cover": "https://images.launchbox-app.com//bc782ee8-ab8d-4ca6-a38c-6b37dce42ba7.png",
+      "disc": "https://images.launchbox-app.com//873ce091-0a18-4d6e-8eae-4c1b0d7f89bf.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//679e05c6-2916-41a1-94d0-d347610d85dd.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/TMNT2.zip",
       "soundtrack": "null" 
     }, 
     {
       "title": "Teenage Mutant Ninja Turtles III The Manhattan Project",
+      "system": "nes",
       "fileName": "TMNT3.zip",
-      "cover": "null",
-      "disc": "null",
-      "manual": "null",
-      "logo": "null",
+      "cover": "https://images.launchbox-app.com//7c3dd63c-3b24-4ec7-a68a-06b66cb146c4.png",
+      "disc": "https://images.launchbox-app.com//10e7192e-6319-4e7b-b0a8-fa2900b76211.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20III%20-%20The%20Manhattan%20Project%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//7cb5410b-d5d2-4578-8eaa-c617814d4020.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/TMNT3.zip",
       "soundtrack": "null" 
