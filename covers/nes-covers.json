@@ -217,6 +217,28 @@
       "soundtrack": "null"
     },
     {
+      "title": "Double Dragon III The Rosetta Stones",
+      "fileName": "Double.Dragon.3-The.Rosetta.Stone(J).zip",
+      "cover": "https://images.launchbox-app.com//0442ccba-61d6-4d4f-a3b5-8558b171f7ab.png",
+      "disc": "https://images.launchbox-app.com//01daf2b7-be5a-44a9-8486-a24590808d59.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//62f2cc87-f7b4-47fe-9ab0-51a8c09df8d2.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Double.Dragon.3-The.Rosetta.Stone%28J%29.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Ducktales 2",
+      "fileName": "Duck.Tales.2(J).zip",
+      "cover": "https://images.launchbox-app.com//de9b457e-589c-419f-89e1-67bd21c3d370.png",
+      "disc": "https://images.launchbox-app.com//f52e5d60-920b-46a5-8204-04fc0fd690f4.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//d4729f74-b341-473e-974e-e4a7d110867e.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Duck.Tales.2%28J%29.zip",
+      "soundtrack": "null"
+    },
+    {
       "title": "Mega Man",
       "fileName": "Mega Man.zip",
       "cover": "https://images.launchbox-app.com//333eb17c-04cc-4e6f-b4aa-4323c7c62691.png",
@@ -262,7 +284,7 @@
     },
     {
       "title": "Super Mario Bros 3",
-      "fileName": "super mario 3.zip",
+      "fileName": "Super.Mario.Bros3(J).zip",
       "cover": "https://images.launchbox-app.com//174ffd17-c402-46f3-a298-da381f49bb23.png",
       "disc": "https://images.launchbox-app.com//773d9360-52e3-45a9-b474-163b4c4b3eb6.png",
       "manual": "https://archive.org/download/NESManuals/Super%20Mario%20Bros.%203%20%28USA%29.pdf",
@@ -292,15 +314,54 @@
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/Empire.Strikes.Back.The%28J%29.zip",
       "soundtrack": "null" 
-    }            
+    },
+    {
+      "title": "Strider",
+      "fileName": "STRIDER.zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/STRIDER.zip",
+      "soundtrack": "null" 
+    }, 
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "fileName": "TMNT.zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/TMNT.zip",
+      "soundtrack": "null" 
+    }, 
+    {
+      "title": "Teenage Mutant Ninja Turtles II The Arcade",
+      "fileName": "TMNT2.zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/TMNT2.zip",
+      "soundtrack": "null" 
+    }, 
+    {
+      "title": "Teenage Mutant Ninja Turtles III The Manhattan Project",
+      "fileName": "TMNT3.zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/TMNT3.zip",
+      "soundtrack": "null" 
+    }
   ]
 }
 
-
-
-Double Dragon 3 The Roseta Stones|https://archive.org/download/famicomnes-games/Double.Dragon.3-The.Rosetta.Stone%28J%29.zip
-Double Dragon 4|https://archive.org/download/famicomnes-games/Double.Dragon.4%28J%29.zip
-Ducktales 2|https://archive.org/download/famicomnes-games/Duck.Tales.2%28J%29.zip
 Festers Quest|https://archive.org/download/famicomnes-games/Fester.s.Quest.zip
 Flintstones Rescue Dino Hoppy|https://archive.org/download/famicomnes-games/Flintstones-The.Rescue.of.Dino.Hoppy.The%28J%29.zip
 Flying Warriors|https://archive.org/download/famicomnes-games/Flying.Warriors%28U%29.zip
@@ -312,14 +373,10 @@ Goonies 2|https://archive.org/download/famicomnes-games/Goonies.2-Furatterii.Sai
 Gradius|https://archive.org/download/famicomnes-games/Gradius%28J%29.zip
 Gradius 2|https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip
 Gyruss|https://archive.org/download/famicomnes-games/Gyruss.zip
-Star Wars|
+
 Star Wars Victor|https://archive.org/download/famicomnes-games/Star.Wars%28Victor%29%28J%29.zip
 Street Fighter 2010|https://archive.org/download/famicomnes-games/Street.Fighter2010%28J%29.zip
-Star Wars Empire Strikes Back|https://archive.org/download/famicomnes-games/Empire.Strikes.Back.The%28J%29.zip
-Strider|https://archive.org/download/famicomnes-games/STRIDER.zip
 
 Super Mario World|https://archive.org/download/famicomnes-games/Super.Mario.World.zip
 Super Robin Hood|https://archive.org/download/famicomnes-games/Super.Robin.Hood.zip
-Teenage Mutant Ninja Turtles|https://archive.org/download/famicomnes-games/TMNT.zip
-Teenage Mutant Ninja Turtles 2 The Arcade|https://archive.org/download/famicomnes-games/TMNT2.zip
-Teenage Mutant Ninja Turtles 3 The Manhattan Project|https://archive.org/download/famicomnes-games/TMNT3.zip
+
