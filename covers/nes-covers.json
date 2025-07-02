@@ -14,10 +14,10 @@
     {
       "title": "Back To The Future",
       "fileName": "Back.to.the.Future(U).zip",
-      "cover": "null",
-      "disc": "null",
-      "manual": "null",
-      "logo": "null",
+      "cover": "https://images.launchbox-app.com//01f6c8b7-0c56-4230-8518-a0ae20bf18ee.png",
+      "disc": "https://images.launchbox-app.com//078e48be-8d06-4dcf-ba08-b88d986ce41c.png",
+      "manual": "https://archive.org/download/NESManuals/Back%20to%20the%20Future%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//31fd2ce6-f4ef-49ce-9a13-37918a518db0.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/Back.to.the.Future%28U%29.zip",
       "soundtrack": "null"
@@ -25,10 +25,10 @@
     {
       "title": "Back To The Future 2 & 3",
       "fileName": "Back.to.the.Future.2.3(U).zip",
-      "cover": "null",
-      "disc": "null",
-      "manual": "null",
-      "logo": "null",
+      "cover": "https://images.launchbox-app.com//9a0e4a7b-afd6-456f-b03f-1839aa7ff69a.png",
+      "disc": "https://images.launchbox-app.com//d3f60ed3-8342-4ae2-b258-840d16e59021.png",
+      "manual": "https://archive.org/download/NESManuals/Back%20to%20the%20Future%20Part%20II%20%26%20III%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//96564b41-20fe-4426-b42a-1dd913a034e0.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/Back.to.the.Future.2.3%28U%29.zip",
       "soundtrack": "null"
