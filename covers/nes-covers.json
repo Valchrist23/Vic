@@ -1,23 +1,131 @@
 { 
   "games": [
     {
-      "title": "Contra",
-      "fileName": "CONTRA.zip",
-      "cover": "https://images.launchbox-app.com//334db7d2-c0e8-4b1b-8c79-8ba87a594a86.png",
-      "disc": "https://images.launchbox-app.com//74146769-b179-44ce-aa70-6a34cce1b78b.png",
-      "manual": "https://archive.org/download/NESManuals/Contra%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//ccbc3de6-fc20-4f1c-90f3-e026c807b02b.png",
-      "gameplay": "https://www.youtube.com/watch?v=2mWZlNOzdv8",
+      "title": "Adventures In The Magic Kingdom",
+      "fileName": "Adventures.In.The.Magic.Kingdom.zip",
+      "cover": "https://images.launchbox-app.com//5fb22732-d8bc-4ec4-881f-e7067060e574.png",
+      "disc": "https://images.launchbox-app.com//5d34995c-f0c4-4d9c-bdff-b23d273e4ed8.png",
+      "manual": "null",
+      "logo": "https://gamesdb.launchbox-app.com/games/details/994-adventures-in-the-magic-kingdom",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Adventures.In.The.Magic.Kingdom.zip",
+      "soundtrack": "null" 
+    },
+    {
+      "title": "Back To The Future",
+      "fileName": "Back.to.the.Future(U).zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Back.to.the.Future%28U%29.zip",
       "soundtrack": "null"
     },
     {
-      "title": "Blaster Master",
+      "title": "Back To The Future 2 & 3",
+      "fileName": "Back.to.the.Future.2.3(U).zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Back.to.the.Future.2.3%28U%29.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Bad Dudes",
+      "fileName": "BADDUDES.zip",
+      "cover": "https://images.launchbox-app.com//a2103ccc-473b-40e4-af1d-b02bfec5a823.png",
+      "disc": "https://images.launchbox-app.com//5c74d92a-1c54-4694-962a-99e9a5de0046.png",
+      "manual": "https://archive.org/download/NESManuals/Contra%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//758790c5-50c2-4a2e-95a5-9b11911074cb.png",
+      "gameplay": "https://www.youtube.com/watch?v=2mWZlNOzdv8",
+      "url":"https://archive.org/download/famicomnes-games/BADDUDES.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Batman",
+      "fileName": "Batman(U)[T+Chi].zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Batman%28U%29%5BT%2BChi%5D.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Batman Return Of The Joker",
+      "fileName": "Batman(J).zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Batman%28J%29.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Battle Toads And Double Dragon",
+      "fileName": "Battletoads.Double.Dragon(U).zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Battletoads.Double.Dragon%28U%29.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Bionic Commando",
+      "fileName": "BIONIC.C.zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/BIONIC.C.zip",
+      "soundtrack": "null"
+    },
+    { "title": "Blaster Master",
       "fileName": "Blaster Master.zip",
       "cover": "https://images.launchbox-app.com//ef2ec5e0-3cf1-456b-b45a-dc89e508a60c.png",
       "disc": "https://images.launchbox-app.com//cb53d858-2ea6-40c8-a59b-c22f2d573207.png",
       "manual": "https://archive.org/download/NESManuals/Blaster%20Master%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//be7a13b4-2b09-47ea-97c1-aafe5ec29e14.png",
       "gameplay": "https://www.youtube.com/watch?v=2STUx_9bkB4",
+      "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
+      "soundtrack": "null"
+    },
+    { "title": "Bucky O' Hare",
+      "fileName": "Bucky.O.Hare(J).zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Bucky.O.Hare%28J%29.zip",
+      "soundtrack": "null"
+    },
+    { "title": "Captain America",
+      "fileName": "CAPAMERI.zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/CAPAMERI.zip",
+      "soundtrack": "null"
+    },
+    { "title": "Captain Skyhawk",
+      "fileName": "CAPTSKYH.zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/CAPTSKYH.zip",
       "soundtrack": "null"
     },
     {
@@ -28,6 +136,84 @@
       "manual": "https://archive.org/download/NESManuals/Castlevania%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//940b085b-587b-4fd5-9101-62cc74908c60.png",
       "gameplay": "https://www.youtube.com/watch?v=gev1_Qwjze0",
+      "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Castlevania 2 Simons Quest",
+      "fileName": "Castlevania2-Simons.Quest.zip",
+      "cover": "https://images.launchbox-app.com//0a456c93-2206-4484-bbf1-3268f325feb5.png",
+      "disc": "https://images.launchbox-app.com//13e81ab1-f656-4024-8663-3cac7b53682a.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//4060179c-2fd3-457d-a6a2-a3466619aeb6.png",
+      "gameplay": "https://www.youtube.com/watch?v=gev1_Qwjze0",
+      "url":"https://archive.org/download/famicomnes-games/Castlevania2-Simons.Quest.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Castlevania 3 Draculas Curse",
+      "fileName": "Castlevania3-Draculas.Curse.zip",
+      "cover": "https://images.launchbox-app.com//ac727c49-c0ef-4298-aa18-7ed6d658cd74.png",
+      "disc": "https://images.launchbox-app.com//4bc9d51b-3f9c-4023-ba77-e9471ee881ad.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//60ee9fe8-e6cc-4fd6-a167-edbdf8a2d582.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Castlevania3-Draculas.Curse.zip",
+      "soundtrack": "null"
+    },
+     {
+      "title": "Contra",
+      "fileName": "CONTRA.zip",
+      "cover": "https://images.launchbox-app.com//334db7d2-c0e8-4b1b-8c79-8ba87a594a86.png",
+      "disc": "https://images.launchbox-app.com//74146769-b179-44ce-aa70-6a34cce1b78b.png",
+      "manual": "https://archive.org/download/NESManuals/Contra%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//ccbc3de6-fc20-4f1c-90f3-e026c807b02b.png",
+      "gameplay": "https://www.youtube.com/watch?v=2mWZlNOzdv8",
+      "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
+      "soundtrack": "null"
+    },
+     {
+      "title": "Super C",
+      "fileName": "SUPERC.zip",
+      "cover": "https://images.launchbox-app.com//9b778b84-415a-40e3-8d40-edb59c2d513e.png",
+      "disc": "https://images.launchbox-app.com//bbab7482-3c78-4f5e-97cc-591e8d382971.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//31af2ab7-dc1a-4cfe-8fce-bb1b49964f6e.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/SUPERC.zip",
+      "soundtrack": "null"
+    },
+     {
+      "title": "Crystalis",
+      "fileName": "CRYSTALI.zip",
+      "cover": "https://images.launchbox-app.com//4ea76d38-3bc5-431c-b66b-e511fe0be7b1.png",
+      "disc": "https://images.launchbox-app.com//6153b9c0-443d-42e6-8906-faf83386e1e9.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//d5026320-e76d-4908-9dfc-955c959f5452.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/CRYSTALI.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Double Dragon",
+      "fileName": "Double.Dragon(Chs).zip",
+      "cover": "https://images.launchbox-app.com//791b0412-fc64-4605-b382-dcd23dafc0f7.png",
+      "disc": "https://images.launchbox-app.com//47dd120f-3101-4b03-ab95-5f23ba97480e.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//8f9c9fe8-9c54-4b3e-b143-c0e45cec44e2.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Double.Dragon%28Chs%29.zip",
+      "soundtrack": "null"
+    },
+    {
+      "title": "Double Dragon II The Revenge",
+      "fileName": "Double.Dragon.2(Chs).zip",
+      "cover": "https://images.launchbox-app.com//6b59b847-6fff-4f56-b44a-f7e7ce049686.png",
+      "disc": "https://images.launchbox-app.com//281de6d4-bf1d-4bdc-badf-ed0be66c7d98.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//9b44fa71-44b7-4a4c-8abd-bd3be3aba3cd.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Double.Dragon.2%28Chs%29.zip",
       "soundtrack": "null"
     },
     {
@@ -38,6 +224,7 @@
       "manual": "https://archive.org/download/NESManuals/Mega%20Man%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//245525e9-e179-4990-9474-14d02f345ca9.png",
       "gameplay": "https://www.youtube.com/watch?v=PxyLui5LdCc",
+      "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
       "soundtrack": "null"
     },
     {
@@ -48,6 +235,7 @@
       "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
       "gameplay": "https://www.youtube.com/watch?v=NJPVTylzt80",
+      "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
       "soundtrack": "null"
     },
     {
@@ -58,6 +246,7 @@
       "manual": "https://archive.org/download/snes-manual-archive/Battletoads%20in%20Battlemaniacs%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//e7773b41-a643-4a54-9bf0-fdbf700764c0.png",
       "gameplay": "https://www.youtube.com/watch?v=cWOkHQXw0JQ",
+      "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
       "soundtrack": "null"
     },
     {
@@ -68,6 +257,7 @@
       "manual": "https://archive.org/download/NESManuals/Super%20Mario%20Bros.%202%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//50e5e865-5d6f-41d7-82ab-a58dfca7fe33.png",
       "gameplay": "https://www.youtube.com/watch?v=v3YZnbT02P8",
+      "url":"https://archive.org/download/famicomnes-games/Super.Mario.Bros.2.zip",
       "soundtrack": "null"
     },
     {
@@ -78,7 +268,58 @@
       "manual": "https://archive.org/download/NESManuals/Super%20Mario%20Bros.%203%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//237f73a1-7b42-4ded-af30-87f53a6d31fd.png",
       "gameplay": "https://www.youtube.com/watch?v=Na8rqq47gi0",
+      "url":"https://archive.org/download/famicomnes-games/Super.Mario.Bros3%28J%29.zip",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/supermario3.m3u" 
-    }    
+    },
+    {
+      "title": "Star Wars",
+      "fileName": "Star.Wars(Namco)(J).zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Star.Wars%28Namco%29%28J%29.zip",
+      "soundtrack": "null" 
+    },
+    {
+      "title": "Empire Strikes Back",
+      "fileName": "Empire.Strikes.Back.The(J).zip",
+      "cover": "null",
+      "disc": "null",
+      "manual": "null",
+      "logo": "null",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Empire.Strikes.Back.The%28J%29.zip",
+      "soundtrack": "null" 
+    }            
   ]
 }
+
+
+
+Double Dragon 3 The Roseta Stones|https://archive.org/download/famicomnes-games/Double.Dragon.3-The.Rosetta.Stone%28J%29.zip
+Double Dragon 4|https://archive.org/download/famicomnes-games/Double.Dragon.4%28J%29.zip
+Ducktales 2|https://archive.org/download/famicomnes-games/Duck.Tales.2%28J%29.zip
+Festers Quest|https://archive.org/download/famicomnes-games/Fester.s.Quest.zip
+Flintstones Rescue Dino Hoppy|https://archive.org/download/famicomnes-games/Flintstones-The.Rescue.of.Dino.Hoppy.The%28J%29.zip
+Flying Warriors|https://archive.org/download/famicomnes-games/Flying.Warriors%28U%29.zip
+Friday The 13th|https://archive.org/download/famicomnes-games/Friday.The.13.zip
+GIJoe|https://archive.org/download/famicomnes-games/GIJOE.zip
+GIJoe Atlantis Mission|https://archive.org/download/famicomnes-games/GIJOEAF.zip
+Goonies|https://archive.org/download/famicomnes-games/Goonies.The%28J%29.zip
+Goonies 2|https://archive.org/download/famicomnes-games/Goonies.2-Furatterii.Saigo.No.Chousen%28J%29.zip
+Gradius|https://archive.org/download/famicomnes-games/Gradius%28J%29.zip
+Gradius 2|https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip
+Gyruss|https://archive.org/download/famicomnes-games/Gyruss.zip
+Star Wars|
+Star Wars Victor|https://archive.org/download/famicomnes-games/Star.Wars%28Victor%29%28J%29.zip
+Street Fighter 2010|https://archive.org/download/famicomnes-games/Street.Fighter2010%28J%29.zip
+Star Wars Empire Strikes Back|https://archive.org/download/famicomnes-games/Empire.Strikes.Back.The%28J%29.zip
+Strider|https://archive.org/download/famicomnes-games/STRIDER.zip
+
+Super Mario World|https://archive.org/download/famicomnes-games/Super.Mario.World.zip
+Super Robin Hood|https://archive.org/download/famicomnes-games/Super.Robin.Hood.zip
+Teenage Mutant Ninja Turtles|https://archive.org/download/famicomnes-games/TMNT.zip
+Teenage Mutant Ninja Turtles 2 The Arcade|https://archive.org/download/famicomnes-games/TMNT2.zip
+Teenage Mutant Ninja Turtles 3 The Manhattan Project|https://archive.org/download/famicomnes-games/TMNT3.zip
