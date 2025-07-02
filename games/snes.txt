@@ -1,6 +1,6 @@
-Actriser|https://archive.org/download/snesromsetcompleate/ActRaiser%20%28U%29%20%5B%21%5D.zip
-Actriser Arcade|https://archive.org/download/snesromsetcompleate/ActRaiser%20%28USA%29%20%28Arcade%29.zip
-Actriser 2|https://archive.org/download/snesromsetcompleate/ActRaiser%202%20%28U%29%20%5B%21%5D.zip
+Actraiser|https://archive.org/download/snesromsetcompleate/ActRaiser%20%28U%29%20%5B%21%5D.zip
+Actraiser Arcade|https://archive.org/download/snesromsetcompleate/ActRaiser%20%28USA%29%20%28Arcade%29.zip
+Actraiser 2|https://archive.org/download/snesromsetcompleate/ActRaiser%202%20%28U%29%20%5B%21%5D.zip
 Addams Family Values|https://archive.org/download/snesromsetcompleate/Addams%20Family%20Values%20%28U%29%20%5B%21%5D.zip
 The Addams Family|https://archive.org/download/snesromsetcompleate/Addams%20Family%2C%20The%20%28U%29%20%5B%21%5D.zip
 The Adventures Of Batman And Robin|https://archive.org/download/snesromsetcompleate/Adventures%20of%20Batman%20%26%20Robin%2C%20The%20%28U%29.zip
