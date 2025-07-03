@@ -1,5 +1,5 @@
 {
-  "games": [
+  "games": [   
     {
       "title": "Dino Crisis 2",
       "system": "ps1",
@@ -11,6 +11,17 @@
       "gameplay": "https://www.youtube.com/watch?v=vaEMpf-9Z7s",
       "soundtrack": "null"
     },
+    {
+      "title": "Final Fantasy VII",
+      "system": "ps1",
+      "fileName": "Final Fantasy.pbp",
+      "cover": "https://images.launchbox-app.com//70f12809-c886-4b8f-8821-f4070b6ae853.png",
+      "disc": "https://images.launchbox-app.com//1d32493a-61ad-41fa-a492-6311f84f114b.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%201%29.pdf",
+      "logo": "https://images.launchbox-app.com//2aed1267-b7be-48ad-a5c4-9a27d29fd6ea.png",
+      "gameplay": "null",
+      "soundtrack": "null"
+    }
     {
       "title": "MediEvil 2",
       "system": "ps1",
