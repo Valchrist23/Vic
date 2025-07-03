@@ -2,6 +2,7 @@
   "games": [
     {
       "title": "Castlevania Rondo Of Blood",
+      "system": "pcecd",
       "fileName": "Akumajou Dracula X - Chi No Rondo (English Translated With PSP Audio Patch, Rev 1.01, by Shortfilms.tk and Burnt Lasagna).chd",
       "cover": "https://images.launchbox-app.com/ac61db5d-b611-4585-b08b-bb6fefe1898a.png",
       "disc": "https://images.launchbox-app.com/b3c4fdc8-2f3b-4cfb-a23d-cc0b6946c310.png",
@@ -13,6 +14,7 @@
      },
     {
       "title": "Lords Of Thunder",
+      "system": "pcecd",
       "fileName": "Lords of Thunder.chd",
       "cover": "https://images.launchbox-app.com/71939434-c016-41b6-a5e2-543cc4ea2e34.png",
       "disc": "https://images.launchbox-app.com/ca12ae60-4487-4dfc-895c-d384b3410c7d.png",
