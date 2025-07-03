@@ -150,7 +150,7 @@
       "logo": "https://images.launchbox-app.com//940b085b-587b-4fd5-9101-62cc74908c60.png",
       "gameplay": "https://www.youtube.com/watch?v=gev1_Qwjze0",
       "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
-      "soundtrack": "null"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanianes.m3u"
     },
     {
       "title": "Castlevania 2 Simons Quest",
