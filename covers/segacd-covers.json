@@ -1,7 +1,40 @@
+{
+  "games": [
+    {
+      "title": "Final Fight",
+      "fileName": "Final Fight CD (JP) (1993) (Beat Em Up) (CHD) (Mega CD).chd",
+      "system": "segacd",
+      "cover": "https://images.launchbox-app.com//3428cdb3-eee2-4a09-8efc-73d8a27181ad.png",
+      "disc": "https://images.launchbox-app.com//5dc362af-5d1f-4a2b-afc8-362d3f6149a5.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Marvel%20vs.%20Capcom%202%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//29b52036-3150-4eee-9cdf-f118cecab328.png",
+      "gameplay": "https://www.youtube.com/watch?v=ORhz1Ql9Vl8",
+      "soundtrack": "null"
+      "url": "https://archive.org/download/final-fight-cd-eu-jp-us-1993-beat-em-up-chd-iso-mega-cd-sega-cd/Final%20Fight%20CD%20%28JP%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29.zip/Final%20Fight%20CD%20%28JP%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29%2FFinal%20Fight%20CD%20%28JP%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29.chd"
+    },
+    {
+      "title": "Final Fight",
+      "fileName": "Final Fight CD EU.chd",
+      "system": "segacd",
+      "cover": "https://images.launchbox-app.com//3428cdb3-eee2-4a09-8efc-73d8a27181ad.png",
+      "disc": "https://images.launchbox-app.com//5dc362af-5d1f-4a2b-afc8-362d3f6149a5.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Marvel%20vs.%20Capcom%202%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//29b52036-3150-4eee-9cdf-f118cecab328.png",
+      "gameplay": "https://www.youtube.com/watch?v=ORhz1Ql9Vl8",
+      "soundtrack": "null",
+      "url": "https://archive.org/download/final-fight-cd-eu-jp-us-1993-beat-em-up-chd-iso-mega-cd-sega-cd/Final%20Fight%20CD%20%28EU%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29.zip/Final%20Fight%20CD%20%28EU%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29%2FFinal%20Fight%20CD%20%28EU%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29.chd"
+    },
+    {
+      "title": "Snatcher",
+      "fileName": "Final Fight CD EU.chd",
+      "system": "segacd",
+      "cover": "https://images.launchbox-app.com//3428cdb3-eee2-4a09-8efc-73d8a27181ad.png",
+      "disc": "https://images.launchbox-app.com//5dc362af-5d1f-4a2b-afc8-362d3f6149a5.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Marvel%20vs.%20Capcom%202%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//29b52036-3150-4eee-9cdf-f118cecab328.png",
+      "gameplay": "https://www.youtube.com/watch?v=ORhz1Ql9Vl8",
+      "soundtrack": "null",
+      "url": "https://archive.org/download/chd_segacd/CHD-SegaCD-NTSC/Snatcher%20%28USA%29.chd"
+      }
 
 
-
-
-Final Fight|https://archive.org/download/final-fight-cd-eu-jp-us-1993-beat-em-up-chd-iso-mega-cd-sega-cd/Final%20Fight%20CD%20%28JP%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29.zip/Final%20Fight%20CD%20%28JP%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29%2FFinal%20Fight%20CD%20%28JP%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29.chd
-Final Fight CD EU|https://archive.org/download/final-fight-cd-eu-jp-us-1993-beat-em-up-chd-iso-mega-cd-sega-cd/Final%20Fight%20CD%20%28EU%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29.zip/Final%20Fight%20CD%20%28EU%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29%2FFinal%20Fight%20CD%20%28EU%29%20%281993%29%20%28Beat%20Em%20Up%29%20%28CHD%29%20%28Mega%20CD%29.chd
-Snatcher|https://archive.org/download/chd_segacd/CHD-SegaCD-NTSC/Snatcher%20%28USA%29.chd
