@@ -2,6 +2,7 @@
   "games": [
     {
       "title": "Castlevania Legacy Of Darkness",
+      "system": "n64",
       "fileName": "Castlevania Legacy Of Darkness.zip",
       "cover": "https://images.launchbox-app.com//54c23e01-8a37-405a-a110-5a04466ba2ea.png",
       "disc": "https://images.launchbox-app.com//4b990d9b-65ab-4374-bd23-6dc7686bb157.png",
@@ -12,6 +13,7 @@
     },
     {
       "title": "F-Zero X",
+      "system": "n64",
       "fileName": "F-Zero X.zip",
       "cover": "https://images.launchbox-app.com//8134f65a-dfdf-4340-bd16-9fcb1c175c88.png",
       "disc": "https://images.launchbox-app.com//6d22725f-a515-426a-8a3c-672f969bfb6f.png",
