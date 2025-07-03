@@ -248,6 +248,18 @@
       "soundtrack": "null"
     },
     {
+      "title": "Ducktales",
+      "system": "nes",
+      "fileName": "Duck.Tales(J).zip",
+      "cover": "https://images.launchbox-app.com//e8b4a2fc-59bc-40f5-bd5f-6b17f5781f63.png",
+      "disc": "https://images.launchbox-app.com//0eebc035-2b36-4ea4-8b97-91c8b1512766.png",
+      "manual": "https://archive.org/download/NESManuals/DuckTales%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//203fbffd-51f5-480a-bb06-229617a2ec58.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/famicomnes-games/Duck.Tales%28J%29.zip",
+      "soundtrack": "null"
+    },
+    {
       "title": "Ducktales 2",
       "system": "nes",
       "fileName": "Duck.Tales.2(J).zip",
