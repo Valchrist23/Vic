@@ -3,6 +3,7 @@
     {
       "title": "Marvel VS Capcom 2 New Age Of Heroes",
       "fileName": "Marvel VS Capcom 2 New Age Of Heroes.chd",
+      "system": "ps2",
       "cover": "https://images.launchbox-app.com//3428cdb3-eee2-4a09-8efc-73d8a27181ad.png",
       "disc": "https://images.launchbox-app.com//5dc362af-5d1f-4a2b-afc8-362d3f6149a5.png",
       "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Marvel%20vs.%20Capcom%202%20%28USA%29.pdf",
@@ -12,6 +13,7 @@
     },
     {
       "title": "Castlevania Lament Of Innocence",
+      "system": "ps2",
       "fileName": "Castlevania Lament Of Innocence.chd",
       "cover": "https://images.launchbox-app.com//1b0e65d4-9a5b-4957-acfc-058a47459c16.png",
       "disc": "https://images.launchbox-app.com//747f4e55-e8d7-42ef-829d-00264de9fd9d.png",
@@ -22,6 +24,7 @@
     },
     {
       "title": "Castlevania Curse Of Darkness",
+      "system": "ps2",
       "fileName": "Castlevania Curse Of Darkness.chd",
       "cover": "https://images.launchbox-app.com//75c222ad-1040-4d0b-a878-5908ec5790f6.png",
       "disc": "https://images.launchbox-app.com//cda546d6-b68c-493c-98e1-ca4491d88d41.png",
@@ -32,6 +35,7 @@
     },
     {
       "title": "Metal Gear Solid 2 Substance",
+      "system": "ps2",
       "fileName": "Metal Gear Substance.chd",
       "cover": "https://images.launchbox-app.com//4fc1d592-f58f-4b65-b0ba-721b2fe35506.png",
       "disc": "https://images.launchbox-app.com//d9ff68ae-7126-47e3-86c0-b6b2901720bf.png",
@@ -42,6 +46,7 @@
     },
     {
       "title": "Metal Gear Solid 3 Subsistance",
+      "system": "ps2",
       "fileName": "Metal Gear Solid 3 Subsistance.chd",
       "cover": "https://images.launchbox-app.com//fc75e3a8-b701-4532-85fa-e39e5e9f0487.png",
       "disc": "https://images.launchbox-app.com//d83a8a4a-9b26-40cb-93c8-637ea4c819f7.png",
@@ -52,6 +57,7 @@
     },
     {
       "title": "The Prince Of Persia The Sands Of Time",
+      "system": "ps2",
       "fileName": "The Prince Of Persia The Sands Of Time.chd",
       "cover": "https://images.launchbox-app.com//32840ab6-64ee-4033-9513-710937d6a5e4.png",
       "disc": "https://images.launchbox-app.com//828c4416-5345-465a-afd5-543dc438bb09.png",
@@ -62,6 +68,7 @@
     },
     {
       "title": "The Prince Of Persia Warrior Within",
+      "system": "ps2",
       "fileName": "The Prince Of Persia Warrior Within.chd",
       "cover": "https://images.launchbox-app.com//79e2f6f0-2a49-44e9-875e-64dbfdc1cbcb.png",
       "disc": "https://images.launchbox-app.com//2eced448-133c-432a-a2d4-15a09be53053.png",
@@ -72,6 +79,7 @@
     },
     {
       "title": "The Prince Of Persia The Two Thrones",
+      "system": "ps2",
       "fileName": "The Prince Of Persia The Two Thrones.chd",
       "cover": "https://images.launchbox-app.com//6f65453b-a2d3-4ebc-a083-c606adbec0b0.png",
       "disc": "https://images.launchbox-app.com//91f98209-9d81-42b4-890b-8c960208116c.png",
