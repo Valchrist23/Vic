@@ -82,6 +82,30 @@
       "gameplay": "https://www.youtube.com/watch?v=0fQ54I5N2kU",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/supercastlevaniaiv.m3u",
       "url": "null"
-    }    
+    },
+    {
+      "title": "Chrono Trigger",
+      "system": "snes",
+      "fileName": "Chrono Trigger (U) [!].zip",
+      "cover": "https://images.launchbox-app.com//4f139083-5b08-4ecd-8e76-8f969cc5800c.png",
+      "disc": "https://images.launchbox-app.com//a96b3c3e-20aa-4ef1-8452-52eb4865a6f2.png",
+      "manual": "https://archive.org/download/snes-manual-archive/Chrono%20Trigger%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//9d028e25-de29-476e-bd74-781c15b96ef9.png",
+      "gameplay": "null",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chronotrigger.m3u",
+      "url": "https://archive.org/download/snesromsetcompleate/Chrono%20Trigger%20%28U%29%20%5B%21%5D.zip"
+    },
+    {
+      "title": "Final Fantasy III",
+      "system": "snes",
+      "fileName": "Final Fantasy III (U) (V1.1) [!].zip",
+      "cover": "https://images.launchbox-app.com//6ab27435-b728-42c6-882d-3518f246b0be.png",
+      "disc": "https://images.launchbox-app.com//2b24ffff-a3a1-4d33-9c3b-3c1081636a3e.png",
+      "manual": "https://archive.org/download/snes-manual-archive/Final%20Fantasy%20III%20%28USA%29%20%28Rev%201%29.pdf",
+      "logo": "https://images.launchbox-app.com//4b05c6f5-8da9-449f-bb7f-f09e3f48abc4.png",
+      "gameplay": "null",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chronotrigger.m3u",
+      "url": "https://archive.org/download/snesromsetcompleate/Final%20Fantasy%20III%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip"
+    }
   ]
 }
