@@ -257,7 +257,7 @@
       "logo": "https://images.launchbox-app.com//203fbffd-51f5-480a-bb06-229617a2ec58.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/Duck.Tales%28J%29.zip",
-      "soundtrack": "null"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/ducktales.m3u"
     },
     {
       "title": "Ducktales 2",
