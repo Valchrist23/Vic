@@ -107,13 +107,14 @@
     {
       "title": "Castlevania Symphony Of The Night",
       "system": "ps1",
-      "fileName": "Castlevania - Symphony of the Night (USA)",
+      "fileName": "Symphony of the Night.PBP",
       "cover": "https://images.launchbox-app.com/52066f45-52a0-4920-a636-63e15e942678.png",
       "disc": "https://images.launchbox-app.com/d0c807f4-734d-40c4-8636-b1250b882eb2.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/e0111472-3f37-441e-b925-3ca1dbce6e4a.png",
       "gameplay": "https://www.youtube.com/watch?v=Vke_g3-jgWU",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u"
+      "url": "https://archive.org/download/rr-super-console-x/roms/psx.7z/-%20Symphony%20of%20the%20Night.PBP"
     },
     {
       "title": "Metal Gear Solid",
