@@ -16,9 +16,9 @@ Final Fantasy VII|https://archive.org/download/cylums-playstation-rom-collection
 Final Fantasy VIII|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20VIII.pbp
 MediEvil|https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20%28USA%29.chd
 MediEvil2|https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20II%20%28USA%29.chd
-Megaman X4|https://archive.org/download/ps1lollo/Mega%20Man%20X4%20%28USA%29%20%5BT-It%20by%20Raviolo%20v1.1%5D.chd
-Megaman X5|https://archive.org/download/ps1lollo/Mega%20Man%20X5%20%28USA%29.chd
-Megaman X6|https://archive.org/download/ps1lollo/Mega%20Man%20X6%20%28USA%29%20%28Rev%201%29.chd
+Mega Man X4|https://archive.org/download/ps1lollo/Mega%20Man%20X4%20%28USA%29%20%5BT-It%20by%20Raviolo%20v1.1%5D.chd
+Mega Man X5|https://archive.org/download/ps1lollo/Mega%20Man%20X5%20%28USA%29.chd
+Mega Man X6|https://archive.org/download/ps1lollo/Mega%20Man%20X6%20%28USA%29%20%28Rev%201%29.chd
 Metal Gear Solid|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Metal%20Gear%20Solid.pbp|https://upload.wikimedia.org/wikipedia/en/3/33/Metal_Gear_Solid_cover_art.png?20161108143427|https://archive.org/download/SonyPlaystationManuals/Metal%20Gear%20Solid%20%28USA%29%20%28Disc%201%29.pdf
 Policenauts|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Translations/Policenauts.pbp
 Resident Evil|https://archive.org/download/chd_psx/CHD-PSX-USA/Resident%20Evil%20-%20Director%27s%20Cut%20-%20Dual%20Shock%20Ver.%20%28USA%29.chd
