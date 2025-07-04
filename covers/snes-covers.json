@@ -32,7 +32,7 @@
       "manual": "https://archive.org/download/snes-manual-archive/Disney%27s%20Aladdin%20%28USA%29.pdf",
       "logo": "https://gamesdb-images.launchbox.gg/r2_4b8abc48-2b4b-460c-a201-c683ab19c6df.png",
       "gameplay": "https://www.youtube.com/watch?v=_inY8qT5UT4",
-      "soundtrack": "null",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/aladdin.m3u",
       "url": "https://archive.org/download/snesromsetcompleate/Aladdin%20%28U%29%20%5B%21%5D.zip"
     },
     {
