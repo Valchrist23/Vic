@@ -1,12 +1,12 @@
-Breath Of Fire III|https://archive.org/download/ps1lollo/Breath%20of%20Fire%20III%20%28USA%29%20%5BT-It%20by%20SadNES%20cITy%20v1.0%5D.chd|https://archive.org/download/img-20220401-0009/IMG_20220401_0002.jpg|https://archive.org/download/SonyPlaystationManuals/Breath%20of%20Fire%20III%20%28USA%29.pdf
+Breath Of Fire III|https://archive.org/download/ps1lollo/Breath%20of%20Fire%20III%20%28USA%29%20%5BT-It%20by%20SadNES%20cITy%20v1.0%5D.chd
 Breath Of Fire IV|https://archive.org/download/ps1lollo/Breath%20of%20Fire%20IV%20%28USA%29%20%5BT-It%20by%20Locke%20v1.0%5D.chd
 Castlevania Chronicles|https://archive.org/download/ps1lollo/Castlevania%20Chronicles%20%28USA%29.chd
-Castlevania Symphony Of The Night|https://archive.org/download/chd_psx/CHD-PSX-USA/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.chd|https://www.covercentury.com/covers/psx/c/Castlevania-Symphony-Of-The-Night-NTSC-PSX-CD.jpg|https://archive.org/download/SonyPlaystationManuals/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.pdf
+Castlevania Symphony Of The Night|https://archive.org/download/chd_psx/CHD-PSX-USA/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.chd
 Chrono Cross|https://archive.org/download/rr-super-console-x/roms/psx.7z/psx%2FChrono%20Cross%20%28USA%29.PBP
 Clock Tower|https://archive.org/download/chd_psx/CHD-PSX-USA/Clock%20Tower%20%28USA%29.chd
 Clock Tower 2|https://archive.org/download/chd_psx/CHD-PSX-USA/Clock%20Tower%20II%20-%20The%20Struggle%20Within%20%28USA%29.chd
 Dino Crisis 2|https://archive.org/download/chd_psx/CHD-PSX-USA/Dino%20Crisis%202%20%28USA%29.chd
-Einhander|https://archive.org/download/gamelist_202205/Einhander.chd|https://archive.org/download/einhander-jp-us-1997-shoot-em-up-bin-chd-playstation/Cover%20%20Einh%C3%A4nder%20%28US%29%20%281997%29%20%28Shoot%20Em%20Up%29%20%28Playstation%29.jpg|https://archive.org/download/SonyPlaystationManuals/Einhander%20%28USA%29.pdf
+Einhander|https://archive.org/download/gamelist_202205/Einhander.chd
 Fear Effect|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Fear%20Effect.pbp
 Fear Effect 2 Retro Helix|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Fear%20Effect%202%20-%20Retro%20Helix.pbp
 Final Fantasy Chronicles|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20Chronicles%20%28Chrono%20Trigger%29.pbp
@@ -19,7 +19,7 @@ MediEvil2|https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20II%20%28US
 Mega Man X4|https://archive.org/download/ps1lollo/Mega%20Man%20X4%20%28USA%29%20%5BT-It%20by%20Raviolo%20v1.1%5D.chd
 Mega Man X5|https://archive.org/download/ps1lollo/Mega%20Man%20X5%20%28USA%29.chd
 Mega Man X6|https://archive.org/download/ps1lollo/Mega%20Man%20X6%20%28USA%29%20%28Rev%201%29.chd
-Metal Gear Solid|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Metal%20Gear%20Solid.pbp|https://upload.wikimedia.org/wikipedia/en/3/33/Metal_Gear_Solid_cover_art.png?20161108143427|https://archive.org/download/SonyPlaystationManuals/Metal%20Gear%20Solid%20%28USA%29%20%28Disc%201%29.pdf
+Metal Gear Solid|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Metal%20Gear%20Solid.pbp
 Policenauts|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Translations/Policenauts.pbp
 Resident Evil|https://archive.org/download/chd_psx/CHD-PSX-USA/Resident%20Evil%20-%20Director%27s%20Cut%20-%20Dual%20Shock%20Ver.%20%28USA%29.chd
 Resident Evil 2|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Resident%20Evil%202.pbp
