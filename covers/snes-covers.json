@@ -118,6 +118,18 @@
       "gameplay": "null",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/master/gamesoundtracks/illusionofgaia.m3u",
       "url": "https://archive.org/download/snesromsetcompleate/Illusion%20of%20Gaia%20%28U%29%20%5B%21%5D.zip"
+    },
+    {
+      "title": "Mega Man X",
+      "system": "snes",
+      "fileName": "Mega Man X (U) (V1.1) [!].zip",
+      "cover": "https://images.launchbox-app.com//2de2829b-33ae-4ca7-b85a-2cf6469a96f3.png",
+      "disc": "https://images.launchbox-app.com//0eff5fe5-c943-46c1-a218-10705bbcab57.png",
+      "manual": "https://archive.org/download/snes-manual-archive/Mega%20Man%20X%20%28USA%29%20%28Rev%201%29.pdf",
+      "logo": "https://gamesdb-images.launchbox.gg/r2_e5c682ea-a0bd-4c93-b923-2e70fcdeb77b.png",
+      "gameplay": "null",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/megamanx.m3u",
+      "url": "https://archive.org/download/snesromsetcompleate/Mega%20Man%20X%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip"
     }
   ]
 }
