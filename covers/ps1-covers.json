@@ -12,6 +12,18 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chronocross.m3u"
     }, 
     {
+      "title": "Clock Tower",
+      "system": "ps1",
+      "fileName": "Clock Tower",
+      "cover": "https://images.launchbox-app.com//fe3f00fc-bcf8-4bf2-9c4b-79a514811d37.png",
+      "disc": "https://images.launchbox-app.com//28601ff2-8e49-4700-bec5-9b73b1e88dd5.png",
+      "manual": "https://www.videogamemanual.com/ps1/Clock%20Tower%20(USA).pdf",
+      "logo": "https://images.launchbox-app.com//b487e569-ca2e-4219-9ddf-9599c22c1141.png",
+      "gameplay": "https://www.youtube.com/watch?v=vaEMpf-9Z7s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chronocross.m3u"
+      "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/Clock%20Tower%20%28USA%29.chd"
+    },    
+    {
       "title": "Dino Crisis 2",
       "system": "ps1",
       "fileName": "Dino Crisis 2.chd",
