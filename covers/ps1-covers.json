@@ -14,7 +14,7 @@
     {
       "title": "Clock Tower",
       "system": "ps1",
-      "fileName": "Clock Tower",
+      "fileName": "Clock Tower (USA).chd",
       "cover": "https://images.launchbox-app.com/fe3f00fc-bcf8-4bf2-9c4b-79a514811d37.png",
       "disc": "https://images.launchbox-app.com/28601ff2-8e49-4700-bec5-9b73b1e88dd5.png",
       "manual": "https://www.videogamemanual.com/ps1/Clock%20Tower%20(USA).pdf",
@@ -26,18 +26,19 @@
     {
       "title": "Dino Crisis 2",
       "system": "ps1",
-      "fileName": "Dino Crisis 2.chd",
+      "fileName": "Dino Crisis 2 (USA).chd",
       "cover": "https://images.launchbox-app.com/a4ee3454-6951-44f4-a521-fa51162f3079.png",
       "disc": "https://images.launchbox-app.com/9991fded-316d-4ec5-acb5-64031832108a.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Dino%20Crisis%202%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/de7b56aa-e280-40bd-9aa4-78d5e2a2056b.png",
       "gameplay": "https://www.youtube.com/watch?v=vaEMpf-9Z7s",
-      "soundtrack": null
+      "soundtrack": null,
+      "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/Dino%20Crisis%202%20%28USA%29.chd"
     },            
     {
       "title": "Final Fantasy VII",
       "system": "ps1",
-      "fileName": "Final Fantasy VII",
+      "fileName": "Final Fantasy VII.pbp",
       "cover": "https://images.launchbox-app.com/70f12809-c886-4b8f-8821-f4070b6ae853.png",
       "disc": "https://images.launchbox-app.com/1d32493a-61ad-41fa-a492-6311f84f114b.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%201%29.pdf",
@@ -47,7 +48,7 @@
       "url": "https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20VII.pbp"
      },
     {
-      "title": "MediEvil 2",
+      "title": "MediEvil II",
       "system": "ps1",
       "fileName": "MediEvil II (USA).chd",
       "cover": "https://images.launchbox-app.com/f12fc611-baf1-4bcd-8451-14a8d34b6473.png",
@@ -55,7 +56,8 @@
       "manual": "https://archive.org/download/SonyPlaystationManuals/MediEvil%20II%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/2af2886a-95af-45e6-a9b8-6d9868c4da17.png",
       "gameplay": "https://www.youtube.com/watch?v=ATSxw2FSHdA",
-      "soundtrack": null
+      "soundtrack": null,
+      "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20II%20%28USA%29.chd"
     },
     {
       "title": "MediEvil",
