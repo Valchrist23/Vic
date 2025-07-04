@@ -130,6 +130,19 @@
       "gameplay": "null",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/megamanx.m3u",
       "url": "https://archive.org/download/snesromsetcompleate/Mega%20Man%20X%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip"
-    }
+    },
+    {
+      "title": "The Legend Of Zelda A Link To The Past",
+      "system": "snes",
+      "fileName": "Legend of Zelda, The - A Link to the Past (U) [!].zip",
+      "cover": "https://images.launchbox-app.com//b4d870f8-01aa-47b1-a984-fb26fecdd80f.png",
+      "disc": "https://images.launchbox-app.com//7de8570b-5750-4917-bc37-5df77e28cb97.png",
+      "manual": "https://archive.org/download/snes-manual-archive/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//357d463b-8d65-4fdd-9a4e-7fdcc408de8c.png",
+      "gameplay": "null",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/thelegendofzeldaalinktotepast.m3u",
+      "url": "https://archive.org/download/snesromsetcompleate/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28U%29%20%5B%21%5D.zip"
+
   ]
 }
+
