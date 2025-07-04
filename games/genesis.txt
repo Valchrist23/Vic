@@ -4,6 +4,7 @@ Alien Soldier|
 Alien Storm|https://archive.org/download/sega-genesis-romset-ultra-usa/Alien%20Storm%20%28World%29.zip
 Altered Beasts|https://archive.org/download/sega-genesis-romset-ultra-usa/Altered%20Beast%20%28USA%2C%20Europe%29.zip
 Animaniacs|https://archive.org/download/sega-genesis-romset-ultra-usa/Animaniacs%20%28USA%29.zip
+Adventures of Batman & Robin, The (USA)|https://archive.org/download/sega-genesis-romset-ultra-usa/Adventures%20of%20Batman%20%26%20Robin%2C%20The%20%28USA%29.zip/Adventures%20of%20Batman%20%26%20Robin%2C%20The%20%28USA%29.md
 Batman Revenge Of The Joker|https://archive.org/download/sega-genesis-romset-ultra-usa/Batman%20-%20Revenge%20of%20the%20Joker%20%28USA%29.zip
 Batman The Video Game|https://archive.org/download/sega-genesis-romset-ultra-usa/Batman%20-%20The%20Video%20Game%20%28USA%29.zip
 Batman Returns|https://archive.org/download/sega-genesis-romset-ultra-usa/Batman%20Returns%20%28World%29.zip
