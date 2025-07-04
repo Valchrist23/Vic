@@ -1,7 +1,7 @@
 Breath Of Fire III|https://archive.org/download/ps1lollo/Breath%20of%20Fire%20III%20%28USA%29%20%5BT-It%20by%20SadNES%20cITy%20v1.0%5D.chd
 Breath Of Fire IV|https://archive.org/download/ps1lollo/Breath%20of%20Fire%20IV%20%28USA%29%20%5BT-It%20by%20Locke%20v1.0%5D.chd
 Castlevania Chronicles|https://archive.org/download/ps1lollo/Castlevania%20Chronicles%20%28USA%29.chd
-Castlevania - Symphony of the Night|https://archive.org/download/chd_psx/CHD-PSX-USA/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.chd
+Symphony of the Night|https://archive.org/download/rr-super-console-x/roms/psx.7z/-%20Symphony%20of%20the%20Night.PBP
 Chrono Cross|https://archive.org/download/rr-super-console-x/roms/psx.7z/psx%2FChrono%20Cross%20%28USA%29.PBP
 Legend Of Dragoon|https://archive.org/download/rr-super-console-x/roms/psx.7z/psx%2FDragon.pbp
 Clock Tower|https://archive.org/download/chd_psx/CHD-PSX-USA/Clock%20Tower%20%28USA%29.chd
