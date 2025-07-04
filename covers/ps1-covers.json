@@ -92,6 +92,17 @@
       "logo": "https://images.launchbox-app.com/64c22e75-d686-4306-9619-8698c4acbb6b.png",
       "gameplay": "https://www.youtube.com/watch?v=Kkpf6f7J5Xc",
       "soundtrack": null
+       {
+      "title": "Mega Man X6",
+      "system": "ps1",
+      "fileName": "Mega Man X5 (Europe).chd",
+      "cover": "https://images.launchbox-app.com/f4d5587b-b1fa-4049-9cfd-769713d00885.png",
+      "disc": "https://images.launchbox-app.com/4d34194f-89f3-408f-b431-a872a7b527a0.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Mega%20Man%20X6%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/9efba83a-f696-49fd-8a73-9ea0e2d21b61.png",
+      "gameplay": "https://www.youtube.com/watch?v=sbKBbTqTeT8",
+      "soundtrack": null,
+      "url": "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Mega%20Man%20X5%20%28Europe%29.chd"
     },
     {
       "title": "Breath Of Fire III",
