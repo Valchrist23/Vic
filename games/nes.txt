@@ -1,5 +1,5 @@
 Adventures In The Magic Kingdom|https://archive.org/download/famicomnes-games/Adventures.In.The.Magic.Kingdom.zip
-Bad Dudes|https://archive.org/download/famicomnes-games/BADDUDES.zip
+BADDUDES|https://archive.org/download/famicomnes-games/BADDUDES.zip
 Bionic Commando|https://archive.org/download/famicomnes-games/BIONIC.C.zip
 Back.to.the.Future(U)|https://archive.org/download/famicomnes-games/Back.to.the.Future%28U%29.zip
 Back To The Future 2 & 3|https://archive.org/download/famicomnes-games/Back.to.the.Future.2.3%28U%29.zip
