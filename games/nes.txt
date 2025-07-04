@@ -9,8 +9,9 @@ Battletoads and Double Dragons|https://archive.org/download/famicomnes-games/Bat
 Bucky O Hare|https://archive.org/download/famicomnes-games/Bucky.O.Hare%28J%29.zip
 Captain America|https://archive.org/download/famicomnes-games/CAPAMERI.zip
 Captain Skyhawk|https://archive.org/download/famicomnes-games/CAPTSKYH.zip
-Castlevania2-Simons.Quest|https://archive.org/download/famicomnes-games/Castlevania2-Simons.Quest.zip
-Castlevania 3 Draculas Curse|https://archive.org/download/famicomnes-games/Castlevania3-Draculas.Curse.zip
+Castlevania|https://archive.org/download/action-52-usa-rev-a-unl_202306/Castlevania%20%28USA%29%20%28Rev%20A%29.zip/Castlevania%20%28USA%29%20%28Rev%20A%29.nes
+Castlevania II - Simon's Quest (USA)|https://archive.org/download/action-52-usa-rev-a-unl_202306/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.zip/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.nes
+Castlevania III - Dracula's Curse (USA)|https://archive.org/download/action-52-usa-rev-a-unl_202306/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.zip/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.nes
 Contra|https://archive.org/download/famicomnes-games/CONTRA.zip
 SuperC|https://archive.org/download/famicomnes-games/SUPERC.zip
 Crystalis|https://archive.org/download/famicomnes-games/CRYSTALI.zip
