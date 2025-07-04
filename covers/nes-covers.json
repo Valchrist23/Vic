@@ -51,13 +51,13 @@
     {
       "title": "Batman",
       "system": "nes",
-      "fileName": "Batman(U)[T+Chi]",
+      "fileName": "Batman - The Video Game (USA).nes",
       "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
       "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//25afa21f-edd3-4982-8c77-1be1c73f26f9.png",
       "gameplay": "null",
-      "url":"https://archive.org/download/famicomnes-games/Batman%28U%29%5BT%2BChi%5D.zip",
+      "url":"https://archive.org/download/action-52-usa-rev-a-unl_202306/Batman%20-%20The%20Video%20Game%20%28USA%29.zip/Batman%20-%20The%20Video%20Game%20%28USA%29.nes",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/batman.m3u"
     },
     {
