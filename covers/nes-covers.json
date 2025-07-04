@@ -94,7 +94,7 @@
       "logo": "https://images.launchbox-app.com//ce67e7e3-59c0-4704-af4b-0c51b146a928.png",
       "gameplay": null,
       "url":"https://archive.org/download/famicomnes-games/BIONIC.C.zip",
-      "soundtrack": "null"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/bioniccomandones.m3u"
     },
     { "title": "Blaster Master",
       "system": "nes",
