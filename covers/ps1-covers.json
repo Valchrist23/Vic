@@ -1,6 +1,17 @@
 {
   "games": [
     {
+      "title": "Chrono Cross",
+      "system": "ps1",
+      "fileName": "Chrono Cross.pbp",
+      "cover": "https://images.launchbox-app.com//80508527-7a17-4e76-b344-aaf5cd97e0f8.png",
+      "disc": "https://images.launchbox-app.com//c7dea940-132f-4b0b-846a-ab47e5577332.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Chrono%20Cross%20%28USA%29%20%28Disc%201%29.pdf",
+      "logo": "https://images.launchbox-app.com//064a1c3c-637d-4ed5-a963-6c9db6c1d1a7.png",
+      "gameplay": "https://www.youtube.com/watch?v=vaEMpf-9Z7s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chronocross.m3u"
+    }, 
+    {
       "title": "Dino Crisis 2",
       "system": "ps1",
       "fileName": "Dino Crisis 2.chd",
@@ -10,7 +21,7 @@
       "logo": "https://images.launchbox-app.com//de7b56aa-e280-40bd-9aa4-78d5e2a2056b.png",
       "gameplay": "https://www.youtube.com/watch?v=vaEMpf-9Z7s",
       "soundtrack": null
-    },
+    },            
     {
       "title": "Final Fantasy VII",
       "system": "ps1",
