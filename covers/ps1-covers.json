@@ -113,7 +113,7 @@
       "manual": "https://archive.org/download/SonyPlaystationManuals/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/e0111472-3f37-441e-b925-3ca1dbce6e4a.png",
       "gameplay": "https://www.youtube.com/watch?v=Vke_g3-jgWU",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
       "url": "https://archive.org/download/rr-super-console-x/roms/psx.7z/-%20Symphony%20of%20the%20Night.PBP"
     },
     {
@@ -136,7 +136,7 @@
       "manual": "https://archive.org/download/SonyPlaystationManuals/Metal%20Gear%20Solid%20%28USA%29%20%28Disc%201%29.pdf",
       "logo": "https://images.launchbox-app.com//d9842c38-39ef-4da3-a673-4835cc1c63cb.png",
       "gameplay": null,
-      "soundtrack": "",
+      "soundtrack": null,
       "url": "https://archive.org/download/rr-super-console-x/roms/psx.7z/psx%2FDragon.pbp"
     }
   ]
