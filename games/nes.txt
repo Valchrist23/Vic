@@ -3,7 +3,7 @@ BADDUDES|https://archive.org/download/famicomnes-games/BADDUDES.zip
 Bionic Commando|https://archive.org/download/famicomnes-games/BIONIC.C.zip
 Back to the Future (USA)|https://archive.org/download/action-52-usa-rev-a-unl_202306/Back%20to%20the%20Future%20%28USA%29.zip/Back%20to%20the%20Future%20%28USA%29.nes
 Back To The Future 2 & 3|https://archive.org/download/famicomnes-games/Back.to.the.Future.2.3%28U%29.zip
-Batman - The Video Game (USA)|https://archive.org/download/action-52-usa-rev-a-unl_202306/Batman%20-%20The%20Video%20Game%20%28USA%29.zip/Batman%20-%20The%20Video%20Game%20%28USA%29.nes
+Batman - The Video Game (USA)|https://archive.org/download/action-52-usa-rev-a-unl_202306/Batman%20-%20The%20Video%20Game%20%28USA%29.zip
 Batman(J)|https://archive.org/download/famicomnes-games/Batman%28J%29.zip
 Battletoads and Double Dragons|https://archive.org/download/famicomnes-games/Battletoads.Double.Dragon%28U%29.zip
 Bucky O Hare|https://archive.org/download/famicomnes-games/Bucky.O.Hare%28J%29.zip
