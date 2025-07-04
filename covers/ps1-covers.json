@@ -25,14 +25,15 @@
     {
       "title": "Final Fantasy VII",
       "system": "ps1",
-      "fileName": "Final Fantasy.pbp",
+      "fileName": "Final Fantasy VII",
       "cover": "https://images.launchbox-app.com/70f12809-c886-4b8f-8821-f4070b6ae853.png",
       "disc": "https://images.launchbox-app.com/1d32493a-61ad-41fa-a492-6311f84f114b.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Final%20Fantasy%20VII%20%28USA%29%20%28Disc%201%29.pdf",
       "logo": "https://images.launchbox-app.com/2aed1267-b7be-48ad-a5c4-9a27d29fd6ea.png",
       "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/finalfantasyvii.m3u"
-    },
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/finalfantasyvii.m3u",
+      "url": "https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20VII.pbp"
+     },
     {
       "title": "MediEvil 2",
       "system": "ps1",
