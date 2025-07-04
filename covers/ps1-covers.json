@@ -91,10 +91,11 @@
       "manual": "https://archive.org/download/SonyPlaystationManuals/Mega%20Man%20X4%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/64c22e75-d686-4306-9619-8698c4acbb6b.png",
       "gameplay": "https://www.youtube.com/watch?v=Kkpf6f7J5Xc",
-      "soundtrack": null
+      "soundtrack": null,
+      "url": "https://archive.org/download/ps1lollo/Mega%20Man%20X4%20%28USA%29%20%5BT-It%20by%20Raviolo%20v1.1%5D.chd"
     },
     {
-      "title": "Mega Man X6",
+      "title": "Mega Man X5",
       "system": "ps1",
       "fileName": "Mega Man X5 (Europe).chd",
       "cover": "https://images.launchbox-app.com/f4d5587b-b1fa-4049-9cfd-769713d00885.png",
@@ -126,7 +127,7 @@
       "logo": "https://images.launchbox-app.com/e0111472-3f37-441e-b925-3ca1dbce6e4a.png",
       "gameplay": "https://www.youtube.com/watch?v=Vke_g3-jgWU",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
-      "url": "https://archive.org/download/rr-super-console-x/roms/psx.7z/-%20Symphony%20of%20the%20Night.PBP"
+      "url": null
     },
     {
       "title": "Metal Gear Solid",
@@ -138,18 +139,6 @@
       "logo": "https://gamesdb-images.launchbox.gg/r2_4afff946-6d09-4523-b99f-9791a6bcbc3d.png",
       "gameplay": "https://www.youtube.com/watch?v=vOcJK_SKiOc",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u"
-    },
-    {
-      "title": "Legend Of Dragoon",
-      "system": "ps1",
-      "fileName": "Dragon.pbp",
-      "cover": "https://images.launchbox-app.com/03e6aff0-6789-48f4-a1a4-3db1eaff2cda.png",
-      "disc": "https://images.launchbox-app.com/5ce84020-ebb6-4f80-aaa0-95915a956521.png",
-      "manual": "https://archive.org/download/SonyPlaystationManuals/Metal%20Gear%20Solid%20%28USA%29%20%28Disc%201%29.pdf",
-      "logo": "https://images.launchbox-app.com/d9842c38-39ef-4da3-a673-4835cc1c63cb.png",
-      "gameplay": null,
-      "soundtrack": null,
-      "url": "https://archive.org/download/rr-super-console-x/roms/psx.7z/psx%2FDragon.pbp"
     }
   ]
 }
