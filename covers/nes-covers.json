@@ -61,9 +61,21 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/batman.m3u"
     },
     {
+      "title": "Batman Returns",
+      "system": "nes",
+      "fileName": "Batman Returns (USA).zip",
+      "cover": "https://images.launchbox-app.com//badebf4d-c1d7-4375-8841-ace58b1bec84.png",
+      "disc": "https://images.launchbox-app.com//f1d639f0-09ea-4077-b2db-f947e4636b31.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://gamesdb-images.launchbox.gg/r2_f72defeb-b93e-48fc-ba5c-00c73d3d7282.png",
+      "gameplay": "null",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20Returns%20%28USA%29.zip",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/batman.m3u"
+    },
+    {
       "title": "Batman Return Of The Joker",
       "system": "nes",
-      "fileName": "Batman(J)",
+      "fileName": "Batman - Return of the Joker (USA).zip",
       "cover": "https://images.launchbox-app.com//f45b727f-8bf3-4a08-94fa-a7dd690275b8.png",
       "disc": "https://images.launchbox-app.com//2ee5bb2b-3b21-4f17-9227-e584c70d17fb.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20Return%20of%20the%20Joker%20%28USA%29.pdf",
@@ -103,7 +115,7 @@
       "disc": "https://images.launchbox-app.com//cb53d858-2ea6-40c8-a59b-c22f2d573207.png",
       "manual": "https://archive.org/download/NESManuals/Blaster%20Master%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//be7a13b4-2b09-47ea-97c1-aafe5ec29e14.png",
-      "gameplay": "https://www.youtube.com/watch?v=2STUx_9bkB4",
+      "gameplay": "https://www.youtube.com/embed/-2STUx_9bkB4",
       "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
       "soundtrack": "null"
     },
@@ -148,7 +160,7 @@
       "disc": "https://images.launchbox-app.com//7619e048-2eee-404b-992e-053976b7b1a7.png",
       "manual": "https://archive.org/download/NESManuals/Castlevania%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//940b085b-587b-4fd5-9101-62cc74908c60.png",
-      "gameplay": "https://www.youtube.com/watch?v=gev1_Qwjze0",
+      "gameplay": "https://www.youtube.com/embed/-gev1_Qwjze0",
       "url":"",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanianes.m3u"
     },
@@ -160,7 +172,7 @@
       "disc": "https://images.launchbox-app.com//13e81ab1-f656-4024-8663-3cac7b53682a.png",
       "manual": "https://archive.org/download/NESManuals/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//4060179c-2fd3-457d-a6a2-a3466619aeb6.png",
-      "gameplay": "https://www.youtube.com/watch?v=gev1_Qwjze0",
+      "gameplay": "https://www.youtube.com/embed/-gev1_Qwjze0",
       "url":"https://archive.org/download/famicomnes-games/Castlevania2-Simons.Quest.zip",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevania2simonsquest.m3u"
     },
