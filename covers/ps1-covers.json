@@ -142,16 +142,28 @@
       "gameplay": "https://archive.org/download/psx-chd-roms-b/Breath%20of%20Fire%20IV%20%28USA%29.chd"
     },
     {
-      "title": "Castlevania Symphony Of The Night",
+      "title": "Castlevania - Symphony of the Night",
       "system": "ps1",
-      "fileName": "Symphony of the Night.PBP",
+      "fileName": "Castlevania - Symphony of the Night (USA).chd",
       "cover": "https://images.launchbox-app.com/52066f45-52a0-4920-a636-63e15e942678.png",
       "disc": "https://images.launchbox-app.com/d0c807f4-734d-40c4-8636-b1250b882eb2.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/e0111472-3f37-441e-b925-3ca1dbce6e4a.png",
       "gameplay": "https://www.youtube.com/watch?v=Vke_g3-jgWU",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
-      "url": null
+      "url": "https://archive.org/download/psx-chd-roms-c/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.chd"
+    },
+    {
+      "title": "Castlevania Chronicles",
+      "system": "ps1",
+      "fileName": "Castlevania Chronicles (USA).chd",
+      "cover": "https://images.launchbox-app.com/52066f45-52a0-4920-a636-63e15e942678.png",
+      "disc": "https://images.launchbox-app.com/d0c807f4-734d-40c4-8636-b1250b882eb2.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/e0111472-3f37-441e-b925-3ca1dbce6e4a.png",
+      "gameplay": "https://www.youtube.com/watch?v=Vke_g3-jgWU",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
+      "url": "https://archive.org/download/psx-chd-roms-c/Castlevania%20Chronicles%20%28USA%29.chd"
     },
     {
       "title": "Metal Gear Solid",
@@ -163,6 +175,18 @@
       "logo": "https://gamesdb-images.launchbox.gg/r2_4afff946-6d09-4523-b99f-9791a6bcbc3d.png",
       "gameplay": "https://www.youtube.com/watch?v=vOcJK_SKiOc",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u"
-    }
+    },
+    {
+      "title": "Metal Gear Solid - VR Missions",
+      "system": "ps1",
+      "fileName": "Metal Gear Solid - VR Missions (USA).chd",
+      "cover": "https://images.launchbox-app.com/5d3d25b2-7850-4b60-8446-491251a3b76c.png",
+      "disc": "https://images.launchbox-app.com/96aa0fcf-1afe-4215-b6dc-141e12b3cf3e.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Metal%20Gear%20Solid%20%28USA%29%20%28Disc%201%29.pdf",
+      "logo": "https://gamesdb-images.launchbox.gg/r2_4afff946-6d09-4523-b99f-9791a6bcbc3d.png",
+      "gameplay": "https://www.youtube.com/watch?v=vOcJK_SKiOc",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u",
+      "gameplay": "https://archive.org/download/psx-chd-roms-m/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.chd"
+     }
   ]
 }
