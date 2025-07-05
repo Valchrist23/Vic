@@ -72,6 +72,17 @@
       "url": "https://archive.org/download/psx-chd-roms-g/Gex%20%28USA%29.chd"
      },
      {
+      "title": "MediEvil",
+      "system": "ps1",
+      "fileName": "MediEvil.chd",
+      "cover": "https://images.launchbox-app.com/ed7b25f9-3f8a-4e66-a498-ee40748cf0a4.png",
+      "disc": "https://images.launchbox-app.com/1a9e3e62-91f9-4ca8-81d1-77a08b7a3c6c.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/MediEvil%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/03a1ce28-8120-4c12-9dc9-b9c007e850cb.png",
+      "gameplay": "https://www.youtube.com/watch?v=sbKBbTqTeT8",
+      "soundtrack": null
+    },
+     {
       "title": "MediEvil II",
       "system": "ps1",
       "fileName": "MediEvil II (USA).chd",
@@ -82,17 +93,6 @@
       "gameplay": "https://www.youtube.com/watch?v=ATSxw2FSHdA",
       "soundtrack": null,
       "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20II%20%28USA%29.chd"
-    },
-    {
-      "title": "MediEvil",
-      "system": "ps1",
-      "fileName": "MediEvil.chd",
-      "cover": "https://images.launchbox-app.com/ed7b25f9-3f8a-4e66-a498-ee40748cf0a4.png",
-      "disc": "https://images.launchbox-app.com/1a9e3e62-91f9-4ca8-81d1-77a08b7a3c6c.png",
-      "manual": "https://archive.org/download/SonyPlaystationManuals/MediEvil%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com/03a1ce28-8120-4c12-9dc9-b9c007e850cb.png",
-      "gameplay": "https://www.youtube.com/watch?v=sbKBbTqTeT8",
-      "soundtrack": null
     },
     {
       "title": "Mega Man X4",
