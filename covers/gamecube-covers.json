@@ -6,7 +6,7 @@
       "fileName": "Resident Evil Zero (Disc 1)(USA).iso",
       "cover": "https://images.launchbox-app.com//cc7feaf0-3e9c-4885-95e9-b35236dd2d96.png",
       "disc": "https://images.launchbox-app.com//6b434ee2-c2d1-4185-927e-be9e8bb345b0.png",
-      "manual": "https://archive.org/download/Nintendo64Manuals_201812/Castlevania%20-%20Legacy%20of%20Darkness%20%28USA%29.pdf",
+      "manual": "https://archive.org/download/NintendoGameCubeManuals/Resident%20Evil%20Zero%20%28USA%29%20%28Disc%201%29.pdf",
       "logo": "https://images.launchbox-app.com//327edcac-ff85-4a8f-b7d9-d4f117688762.png",
       "gameplay": null,
       "soundtrack": null,
@@ -16,25 +16,25 @@
       "title": "Legend of Zelda, The - Twilight Princess",
       "system": "gamecube",
       "fileName": "Legend of Zelda, The - Twilight Princess (USA).iso",
-      "cover": "https://images.launchbox-app.com//8134f65a-dfdf-4340-bd16-9fcb1c175c88.png",
-      "disc": "https://images.launchbox-app.com//6d22725f-a515-426a-8a3c-672f969bfb6f.png",
-      "manual": "https://archive.org/download/Nintendo64Manuals_201812/F-Zero%20X%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "cover": "https://images.launchbox-app.com//a6b372e5-d59b-4381-b23c-2c63fd88b364.png",
+      "disc": "https://images.launchbox-app.com//a721520d-1ae9-4a7d-9a79-f450ab07d004.png",
+      "manual": "https://archive.org/download/NintendoGameCubeManuals/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//567b9cbf-bead-470c-94fd-bb1c2889a64b.png",
       "gameplay": "https://www.youtube.com/watch?v=ugPX0W7sag0",
       "soundtrack": null,
       "url": "https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.iso"
      },
     {
-      "title": "Super Smash Bros",
-      "system": "n64",
-      "fileName": "Super Smash Bros. (USA).zip",
-      "cover": "https://images.launchbox-app.com//8ead0ec0-5358-4008-87fb-a2d807290558.png",
-      "disc": "https://images.launchbox-app.com//c4146a83-368b-446d-abf0-46b2ea56d5cb.png",
-      "manual": "https://archive.org/download/Nintendo64Manuals_201812/Super%20Smash%20Bros.%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//4a10749a-17b8-45e0-b003-1dcec42bf6a9.png",
+      "title": "TMNT",
+      "system": "gamecube",
+      "fileName": "TMNT (USA).iso",
+      "cover": "https://images.launchbox-app.com//b7a50454-8a8d-4aed-b9e0-2ffcf6e0fa1f.png",
+      "disc": "https://images.launchbox-app.com//55b9e483-f7ef-4cf7-a4a9-02894e67a654.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//cd896f74-6dab-42aa-85e7-e8fb4d11cb1c.png",
       "gameplay": "null",
       "soundtrack": "null",
-      "url": "https://archive.org/download/resident-evil-2-usa-rev-a/Super%20Smash%20Bros.%20%28USA%29.zip"
+      "url": "https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/TMNT%20%28USA%29.iso"
     } 
   ]
 }
