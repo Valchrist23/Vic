@@ -439,13 +439,13 @@
     {
       "title": "Super Mario Bros",
       "system": "nes",
-      "fileName": "Super Mario Bros.chd",
+      "fileName": "Mario Bros. (World).zip",
       "cover": "https://images.launchbox-app.com/713ad66d-6083-4e89-b1e9-b895c87dffbd.png",
       "disc": "https://images.launchbox-app.com/d6cb1b14-4825-4ef5-8fd1-9e0645d64a38.png",
-      "manual": "https://archive.org/download/snes-manual-archive/Battletoads%20in%20Battlemaniacs%20%28USA%29.pdf",
+      "manual": "https://archive.org/download/NESManuals/Mario%20Bros.%20%28World%29.pdf",
       "logo": "https://images.launchbox-app.com/e7773b41-a643-4a54-9bf0-fdbf700764c0.png",
       "gameplay": "https://www.youtube.com/watch?v=cWOkHQXw0JQ",
-      "url":"https://archive.org/download/famicomnes-games/CONTRA.zip",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Mario%20Bros.%20%28World%29.zip",
       "soundtrack": "null"
     },
     {
@@ -487,25 +487,25 @@
     {
       "title": "Star Wars",
       "system": "nes",
-      "fileName": "Star.Wars(Namco)(J).zip",
+      "fileName": "Star Wars (USA).zip",
       "cover": "https://images.launchbox-app.com/0d360e1a-8b7f-43d9-9885-2fe23c2ec4af.png",
       "disc": "https://images.launchbox-app.com/44dd4de9-d91b-4da3-862b-8eb03a705f79.png",
       "manual": "null",
       "logo": "https://images.launchbox-app.com/0e404dce-0fc6-4d46-bc95-21fd4ef03c69.png",
       "gameplay": "null",
-      "url":"https://archive.org/download/famicomnes-games/Star.Wars%28Namco%29%28J%29.zip",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Star%20Wars%20%28USA%29.zip",
       "soundtrack": "null" 
     },
     {
       "title": "Empire Strikes Back",
       "system": "nes",
-      "fileName": "Empire.Strikes.Back.The(J).zip",
+      "fileName": "Star Wars - The Empire Strikes Back (USA).zip",
       "cover": "https://images.launchbox-app.com/429ddde3-7131-4a1d-ac62-39d160068ca0.png",
       "disc": "https://images.launchbox-app.com/efa6d589-764f-41b9-9b9a-b85c49dfcf0f.png",
       "manual": "https://archive.org/download/NESManuals/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/fb69239c-f9d5-4b67-98c4-4345f9cf33d7.png",
       "gameplay": "null",
-      "url":"https://archive.org/download/famicomnes-games/Empire.Strikes.Back.The%28J%29.zip",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.zip",
       "soundtrack": "null" 
     },
     {
