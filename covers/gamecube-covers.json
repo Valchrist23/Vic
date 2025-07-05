@@ -1,16 +1,16 @@
 {
   "games": [
     {
-      "title": "Castlevania Legacy Of Darkness",
-      "system": "n64",
-      "fileName": "Castlevania Legacy Of Darkness.zip",
-      "cover": "https://images.launchbox-app.com//54c23e01-8a37-405a-a110-5a04466ba2ea.png",
-      "disc": "https://images.launchbox-app.com//4b990d9b-65ab-4374-bd23-6dc7686bb157.png",
+      "title": "Resident Evil Zero",
+      "system": "gamecube",
+      "fileName": "Resident Evil Zero (Disc 1)(USA).iso",
+      "cover": "https://images.launchbox-app.com//cc7feaf0-3e9c-4885-95e9-b35236dd2d96.png",
+      "disc": "https://images.launchbox-app.com//6b434ee2-c2d1-4185-927e-be9e8bb345b0.png",
       "manual": "https://archive.org/download/Nintendo64Manuals_201812/Castlevania%20-%20Legacy%20of%20Darkness%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//327edcac-ff85-4a8f-b7d9-d4f117688762.png",
-      "gameplay": "https://www.youtube.com/watch?v=TjUMNVDOzNE",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanialegacyofdarkness.m3u",
-      "url": "https://archive.org/download/resident-evil-2-usa-rev-a/Castlevania%20-%20Legacy%20of%20Darkness%20%28USA%29.zip"
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%20Zero%20%28Disc%201%29%28USA%29.iso"
     },
     {
       "title": "The Legend Of Zelda Twilight Princess",
