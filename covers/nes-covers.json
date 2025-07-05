@@ -75,14 +75,14 @@
     {
       "title": "Batman Return Of The Joker",
       "system": "nes",
-      "fileName": "Batman - Return of the Joker",
+      "fileName": "Batman - Return of the Joker (USA).zip",
       "cover": "https://images.launchbox-app.com//f45b727f-8bf3-4a08-94fa-a7dd690275b8.png",
       "disc": "https://images.launchbox-app.com//2ee5bb2b-3b21-4f17-9227-e584c70d17fb.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20Return%20of%20the%20Joker%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//3721551a-3687-4d53-bae7-f2d97081090a.png",
       "gameplay": "null",
       "url":"https://archive.org/download/famicomnes-games/Batman%28J%29.zip",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/batmanreturnofthejoker.m3u"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/batmanreturnofthejoker.m3u"
     },
     {
       "title": "Battle Toads And Double Dragon",
