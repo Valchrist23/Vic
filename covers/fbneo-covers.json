@@ -11,7 +11,19 @@
       "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
       "soundtrack": null,
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/3wonders.7z"
-     }    
+     },            
+     {
+      "title": "X-Men",
+      "system": "fbneo",
+      "fileName": "xmen6p",
+      "cover": "https://images.launchbox-app.com//0f9a86b3-1aaf-42cc-b7d0-29a70352e8b8.png",
+      "disc": "https://images.launchbox-app.com//b906e2f8-065a-4978-9c95-2a95e52f19aa.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//25d63163-905e-46ab-b665-cb03ca72c028.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmen6p.7z"
+     }
   ]
 }
 
