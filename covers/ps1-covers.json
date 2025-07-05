@@ -130,6 +130,18 @@
       "soundtrack": null
     },
     {
+      "title": "Breath Of Fire IV",
+      "system": "ps1",
+      "fileName": "Breath Of Fire IV.chd",
+      "cover": "https://images.launchbox-app.com//bdb2ad69-3772-4576-a3a2-d66a56a9c56b.png",
+      "disc": "https://images.launchbox-app.com//f93e316e-d177-4b83-9593-61a8d6611fd0.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//ad700493-3314-4774-89c5-647836033905.png",
+      "gameplay": "https://www.youtube.com/watch?v=2qJKRdJHnJU",
+      "soundtrack": null,  
+      "gameplay": "https://archive.org/download/psx-chd-roms-b/Breath%20of%20Fire%20IV%20%28USA%29.chd"
+    },
+    {
       "title": "Castlevania Symphony Of The Night",
       "system": "ps1",
       "fileName": "Symphony of the Night.PBP",
