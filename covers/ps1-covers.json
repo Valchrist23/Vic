@@ -37,6 +37,18 @@
       "url": "https://archive.org/download/psx-chd-roms-c/Clock%20Tower%20II%20-%20The%20Struggle%20Within%20%28USA%29.chd"
     }, 
     {
+      "title": "Cool Boarders 3",
+      "system": "ps1",
+      "fileName": "Cool Boarders 3 (USA).chd",
+      "cover": "https://images.launchbox-app.com//1f00ea4f-aef1-42e6-ad69-6cc943ea101a.png",
+      "disc": "https://images.launchbox-app.com//48f69b5c-afcd-4425-a379-aa51302e425f.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Dino%20Crisis%202%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//2e85f002-3302-47e8-860c-1b88d111438f.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/psx-chd-roms-c/Cool%20Boarders%203%20%28USA%29.chd"
+    },
+    {
       "title": "Dino Crisis 2",
       "system": "ps1",
       "fileName": "Dino Crisis 2 (USA).chd",
