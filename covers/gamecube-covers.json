@@ -13,16 +13,17 @@
       "url": "https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%20Zero%20%28Disc%201%29%28USA%29.iso"
     },
     {
-      "title": "The Legend Of Zelda Twilight Princess",
+      "title": "Legend of Zelda, The - Twilight Princess",
       "system": "gamecube",
-      "fileName": "F-Zero X.iso",
+      "fileName": "Legend of Zelda, The - Twilight Princess (USA).iso",
       "cover": "https://images.launchbox-app.com//8134f65a-dfdf-4340-bd16-9fcb1c175c88.png",
       "disc": "https://images.launchbox-app.com//6d22725f-a515-426a-8a3c-672f969bfb6f.png",
       "manual": "https://archive.org/download/Nintendo64Manuals_201812/F-Zero%20X%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
       "gameplay": "https://www.youtube.com/watch?v=ugPX0W7sag0",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u"
-    },
+      "soundtrack": null,
+      "url": "https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.iso"
+     },
     {
       "title": "Super Smash Bros",
       "system": "n64",
