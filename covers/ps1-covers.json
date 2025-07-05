@@ -22,7 +22,19 @@
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/Clock%20Tower%20%28USA%29.chd"
-    },    
+    }, 
+    {
+      "title": "Clock Tower II - The Struggle Within",
+      "system": "ps1",
+      "fileName": "Clock Tower II - The Struggle Within (USA).chd",
+      "cover": "null",
+      "disc": "null",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Dino%20Crisis%202%20%28USA%29.pdf",
+      "logo": "null",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/Dino%20Crisis%202%20%28USA%29.chd"
+    }, 
     {
       "title": "Dino Crisis 2",
       "system": "ps1",
