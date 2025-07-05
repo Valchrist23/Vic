@@ -1,5 +1,5 @@
 3wonders|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/3wonders.7z
-64 Street|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/64street.zip
+64Street|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/64street.zip
 Alien VS Predator|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/avspu.zip
 Avengers|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/avengers.zip
 Battletoads|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/btoads.zip
@@ -56,6 +56,7 @@ Strider|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%
 Vampire Saviour|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsavu.zip
 Vampire Saviour 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsav2.zip
 Vampire Hunter 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vhunt2.zip
+X-Men|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmen6p.7z
 X-Men Children Of The Atom|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/xmcotau.zip
 X-Men VS Street Fighter|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/xmvsfu.zip
 
