@@ -15,10 +15,10 @@ Castlevania II - Simon's Quest|https://archive.org/download/star-wars-the-empire
 Castlevania III - Dracula's Curse|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.zip
 Contra|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Contra%20%28USA%29.zip
 Super C|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20C%20%28USA%29.zip
-Crystalis|https://archive.org/download/famicomnes-games/CRYSTALI.zip
-Double Dragon|https://archive.org/download/famicomnes-games/Double.Dragon%28Chs%29.zip
-Double Dragon 2 The Revenge|https://archive.org/download/famicomnes-games/Double.Dragon.2%28Chs%29.zip
-Double Dragon 3 The Roseta Stones|https://archive.org/download/famicomnes-games/Double.Dragon.3-The.Rosetta.Stone%28J%29.zip
+Crystalis|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Crystalis%20%28USA%29.zip
+Double Dragon|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip
+Double Dragon II - The Revenge|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.zip
+Double Dragon III - The Sacred Stones|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip
 Double Dragon 4|https://archive.org/download/famicomnes-games/Double.Dragon.4%28J%29.zip
 Ducktales 2|https://archive.org/download/famicomnes-games/Duck.Tales.2%28J%29.zip
 Festers Quest|https://archive.org/download/famicomnes-games/Fester.s.Quest.zip
