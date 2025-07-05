@@ -96,6 +96,18 @@
       "url": "https://archive.org/download/snesromsetcompleate/Chrono%20Trigger%20%28U%29%20%5B%21%5D.zip"
     },
     {
+      "title": "Contra III - The Alien Wars",
+      "system": "snes",
+      "fileName": "Contra III - The Alien Wars (U) [!].zip",
+      "cover": "https://images.launchbox-app.com//4f139083-5b08-4ecd-8e76-8f969cc5800c.png",
+      "disc": "https://images.launchbox-app.com//a96b3c3e-20aa-4ef1-8452-52eb4865a6f2.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//9d028e25-de29-476e-bd74-781c15b96ef9.png",
+      "gameplay": "null",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/contra3alienwars.m3u",
+      "url": "https://archive.org/download/snesromsetcompleate/Contra%20III%20-%20The%20Alien%20Wars%20%28U%29%20%5B%21%5D.zip"
+    },
+    {
       "title": "Final Fantasy III",
       "system": "snes",
       "fileName": "Final Fantasy III (U) (V1.1) [!].zip",
