@@ -14,7 +14,7 @@ Castlevania|https://archive.org/download/action-52-usa-rev-a-unl_202306/Castleva
 Castlevania II - Simon's Quest|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.zip
 Castlevania III - Dracula's Curse|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.zip
 Contra|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Contra%20%28USA%29.zip
-SuperC|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20C%20%28USA%29.zip
+Super C|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20C%20%28USA%29.zip
 Crystalis|https://archive.org/download/famicomnes-games/CRYSTALI.zip
 Double Dragon|https://archive.org/download/famicomnes-games/Double.Dragon%28Chs%29.zip
 Double Dragon 2 The Revenge|https://archive.org/download/famicomnes-games/Double.Dragon.2%28Chs%29.zip
