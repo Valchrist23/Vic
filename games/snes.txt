@@ -87,7 +87,7 @@ Street Fighter 2 Turbo Hyper Fighting|https://archive.org/download/snesromsetcom
 Street Fighter 3 Super Version|https://archive.org/download/snesromsetcompleate/Street%20Fighter%20III%20-%20Super%20Version.zip
 Super Adventure Island|https://archive.org/download/snesromsetcompleate/Super%20Adventure%20Island%20%28U%29%20%5B%21%5D.zip
 Super Adventure Island 2|https://archive.org/download/snesromsetcompleate/Super%20Adventure%20Island%20II%20%28U%29%20%5B%21%5D.zip
-Super Castlevania IV|https://archive.org/download/snesromsetcompleate/Super%20Castlevania%20IV%20%28U%29%20%5B%21%5D.zip
+Super_castlevania_IV|https://archive.org/download/snesromsetcompleate/Super%20Castlevania%20IV%20%28U%29%20%5B%21%5D.zip
 Super Ghouls And Ghosts|https://archive.org/download/snesromsetcompleate/Super%20Ghouls%20%27N%20Ghosts%20%28U%29%20%5B%21%5D.zip
 Super Mario All Stars|https://archive.org/download/snesromsetcompleate/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20%28U%29%20%5B%21%5D.zip
 Super Metroid|https://archive.org/download/snesromsetcompleate/Super%20Metroid%20%28USA%2C%20Europe%29%20%28En%2CJa%29%20%28Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online%29.zip
