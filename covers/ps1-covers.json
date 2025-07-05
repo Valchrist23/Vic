@@ -109,14 +109,26 @@
     {
       "title": "Mega Man X5",
       "system": "ps1",
-      "fileName": "Mega Man X5 (Europe).chd",
+      "fileName": "Mega Man X5 (USA).chd",
+      "cover": "https://images.launchbox-app.com//3f4c00ac-1f0b-4c0a-96eb-2211569645d3.png",
+      "disc": "https://images.launchbox-app.com//e7f5eb9c-e036-4699-93dc-076a11d71d39.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Mega%20Man%20X5%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//a7f87324-f8fa-4c25-aa57-c87e7f244489.png",
+      "gameplay": "https://www.youtube.com/watch?v=Kkpf6f7J5Xc",
+      "soundtrack": null,
+      "url": "https://archive.org/download/psx-chd-roms-m/Mega%20Man%20X5%20%28USA%29.chd"
+    },
+    {
+      "title": "Mega Man X6",
+      "system": "ps1",
+      "fileName": "Mega Man X6 (USA).chd",
       "cover": "https://images.launchbox-app.com/f4d5587b-b1fa-4049-9cfd-769713d00885.png",
       "disc": "https://images.launchbox-app.com/4d34194f-89f3-408f-b431-a872a7b527a0.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Mega%20Man%20X6%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/9efba83a-f696-49fd-8a73-9ea0e2d21b61.png",
       "gameplay": "https://www.youtube.com/watch?v=sbKBbTqTeT8",
       "soundtrack": null,
-      "url": "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Mega%20Man%20X5%20%28Europe%29.chd"
+      "url": "https://archive.org/download/psx-chd-roms-m/Mega%20Man%20X6%20%28USA%29.chd"
     },
     {
       "title": "Breath Of Fire III",
@@ -124,7 +136,7 @@
       "fileName": "Breath Of Fire III.chd",
       "cover": "https://images.launchbox-app.com/e064fc74-3530-4a33-b87c-f3b9c2e3778a.png",
       "disc": "https://images.launchbox-app.com/a3d6b011-9a73-4bb1-b1f1-28aca699cfae.png",
-      "manual": null,
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Breath%20of%20Fire%20III%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/7ac004cd-05f6-4f7b-a75d-502f04f6697c.png",
       "gameplay": "https://www.youtube.com/watch?v=2qJKRdJHnJU",
       "soundtrack": null
@@ -157,10 +169,10 @@
       "title": "Castlevania Chronicles",
       "system": "ps1",
       "fileName": "Castlevania Chronicles (USA).chd",
-      "cover": "https://images.launchbox-app.com/52066f45-52a0-4920-a636-63e15e942678.png",
-      "disc": "https://images.launchbox-app.com/d0c807f4-734d-40c4-8636-b1250b882eb2.png",
-      "manual": "https://archive.org/download/SonyPlaystationManuals/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com/e0111472-3f37-441e-b925-3ca1dbce6e4a.png",
+      "cover": "https://images.launchbox-app.com//11438936-1666-482d-8b0f-6b2cefd8bc6d.png",
+      "disc": "https://images.launchbox-app.com//c2d581b9-2cb8-4177-a88c-cbb80473a53e.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Castlevania%20Chronicles%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//eaae2192-9d6f-450a-9bc8-4ebe48974890.png",
       "gameplay": "https://www.youtube.com/watch?v=Vke_g3-jgWU",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
       "url": "https://archive.org/download/psx-chd-roms-c/Castlevania%20Chronicles%20%28USA%29.chd"
