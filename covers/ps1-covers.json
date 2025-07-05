@@ -1,6 +1,30 @@
 {
   "games": [
     {
+      "title": "Area 51",
+      "system": "ps1",
+      "fileName": "Area 51 (USA).chd",
+      "cover": "https://images.launchbox-app.com//26d5346e-b2e7-4ab5-a20f-a14e78205bb0.png",
+      "disc": "https://images.launchbox-app.com//ec04da27-ee8b-4c62-aa7b-b5b74bfef94b.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Area%2051%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//7dc64390-a53a-4751-b566-216d8239365a.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/psxchda/Area%2051%20%28USA%29.chd"
+    }, 
+    {
+      "title": "Bloody Roar II",
+      "system": "ps1",
+      "fileName": "Bloody Roar II (USA).chd",
+      "cover": "https://images.launchbox-app.com//81c77844-a601-402e-b41f-a58ac5fd0f3b.png",
+      "disc": "https://images.launchbox-app.com//62c1a20c-af94-4fcb-8228-40f7774cbc84.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Bloody%20Roar%20II%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//639ce357-42e8-4de5-9f18-0901e3d5a20a.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/psx-chd-roms-b/Bloody%20Roar%20II%20%28USA%29.chd"
+    },
+    {
       "title": "Chrono Cross",
       "system": "ps1", 
       "fileName": "Chrono Cross (USA).pbp",
