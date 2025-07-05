@@ -3,14 +3,14 @@
     {
       "title": "Chrono Cross",
       "system": "ps1", 
-      "fileName": "Chrono Cross (USA).PBP",
+      "fileName": "Chrono Cross (USA).pbp",
       "cover": "https://images.launchbox-app.com/80508527-7a17-4e76-b344-aaf5cd97e0f8.png",
       "disc": "https://images.launchbox-app.com/c7dea940-132f-4b0b-846a-ab47e5577332.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Chrono%20Cross%20%28USA%29%20%28Disc%201%29.pdf",
       "logo": "https://images.launchbox-app.com/064a1c3c-637d-4ed5-a963-6c9db6c1d1a7.png",
       "gameplay": "https://www.youtube.com/watch?v=vaEMpf-9Z7s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chronocross.m3u",
-      "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/Clock%20Tower%20%28USA%29.chd"
+      "url": "https://archive.org/download/rr-super-console-x/roms/psx.7z/psx%2FChrono%20Cross%20%28USA%29.PBP"
     }, 
     {
       "title": "Clock Tower",
