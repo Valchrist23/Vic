@@ -189,15 +189,15 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevania2simonsquest.m3u"
     },
     {
-      "title": "Castlevania 3 Draculas Curse",
+      "title": "Castlevania III - Dracula's Curse",
       "system": "nes",
-      "fileName": "Castlevania3-Draculas.Curse.zip",
+      "fileName": "Castlevania III - Dracula's Curse (USA).zip",
       "cover": "https://images.launchbox-app.com/ac727c49-c0ef-4298-aa18-7ed6d658cd74.png",
       "disc": "https://images.launchbox-app.com/4bc9d51b-3f9c-4023-ba77-e9471ee881ad.png",
       "manual": "https://archive.org/download/NESManuals/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/60ee9fe8-e6cc-4fd6-a167-edbdf8a2d582.png",
       "gameplay": "null",
-      "url":"https://archive.org/download/famicomnes-games/Castlevania3-Draculas.Curse.zip",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.zip",
       "soundtrack": "null"
     },
      {
@@ -272,27 +272,27 @@
       "soundtrack": "null"
     },
     {
-      "title": "Ducktales",
+      "title": "DuckTales",
       "system": "nes",
-      "fileName": "Duck.Tales(J).zip",
+      "fileName": "DuckTales (USA).zip",
       "cover": "https://images.launchbox-app.com/e8b4a2fc-59bc-40f5-bd5f-6b17f5781f63.png",
       "disc": "https://images.launchbox-app.com/0eebc035-2b36-4ea4-8b97-91c8b1512766.png",
       "manual": "https://archive.org/download/NESManuals/DuckTales%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/203fbffd-51f5-480a-bb06-229617a2ec58.png",
       "gameplay": "null",
-      "url":"https://archive.org/download/famicomnes-games/Duck.Tales%28J%29.zip",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/DuckTales%20%28USA%29.zip",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/ducktales.m3u"
     },
     {
-      "title": "Ducktales 2",
+      "title": "DuckTales 2",
       "system": "nes",
-      "fileName": "Duck.Tales.2(J).zip",
+      "fileName": "DuckTales 2 (USA).zip",
       "cover": "https://images.launchbox-app.com/de9b457e-589c-419f-89e1-67bd21c3d370.png",
       "disc": "https://images.launchbox-app.com/f52e5d60-920b-46a5-8204-04fc0fd690f4.png",
       "manual": "null",
       "logo": "https://images.launchbox-app.com/d4729f74-b341-473e-974e-e4a7d110867e.png",
       "gameplay": "null",
-      "url":"https://archive.org/download/famicomnes-games/Duck.Tales.2%28J%29.zip",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/DuckTales%202%20%28USA%29.zip",
       "soundtrack": "null"
     },
     {
