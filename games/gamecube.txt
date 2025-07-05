@@ -2,7 +2,7 @@ Megaman X Command Mission|https://archive.org/download/efgamecubeusa/Game%20Cube
 Metroid Prime|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Metroid%20Prime%20%28v1.00%29%28USA%29.iso
 Metroid Prime 2|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Metroid%20Prime%202%20-%20Echoes%20%28USA%29.iso
 Prince Of Persia The Sands Of Time|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28v1.00%29%28USA%29.iso
-Resident Evil Zero Disc1|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%20Zero%20%28Disc%201%29%28USA%29.iso
+Resident Evil Zero (Disc 1)|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%20Zero%20%28Disc%201%29%28USA%29.iso
 Resident Evil Zero Disc2|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%20Zero%20%28Disc%202%29%28USA%29.iso
 Resident Evil Disc1|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%20%28Disc%201%29%28USA%29.iso
 Resident Evil Disc2|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%20%28Disc%202%29%28USA%29.iso
@@ -12,7 +12,7 @@ Resident Evil Code Veronica Disc1|https://archive.org/download/efgamecubeusa/Gam
 Resident Evil Code Veronica Disc2|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%20-%20Code%20-%20Veronica%20X%20%28Disc%202%29%28USA%29.iso
 Resident Evil 4 Disc1|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%204%20%28Disc%201%29%28USA%29.iso
 Resident Evil 4 Disc2|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Resident%20Evil%204%20%28Disc%202%29%28USA%29.iso
-The Legend Of Zelda Twilight Princess|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.iso
+Legend of Zelda, The - Twilight Princess (USA).iso|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.iso
 The Legend Of Zelda Wind Waker|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Legend%20of%20Zelda%2C%20The%20-%20The%20Wind%20Waker%20%28USA%29.iso
 The Legend Of Zelda Four Swords Adventures|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/Legend%20of%20Zelda%2C%20The%20-%20Four%20Swords%20Adventures%20%28USA%29.iso
 TMNT|https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/TMNT%20%28USA%29.iso
