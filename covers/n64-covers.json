@@ -24,13 +24,13 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u"
     },
     {
-      "title": "Super Smash Bros",
+      "title": "Super Smash Bros.",
       "system": "n64",
       "fileName": "Super Smash Bros. (USA).zip",
-      "cover": "https://images.launchbox-app.com//8ead0ec0-5358-4008-87fb-a2d807290558.png",
-      "disc": "https://images.launchbox-app.com//c4146a83-368b-446d-abf0-46b2ea56d5cb.png",
+      "cover": "https://images.launchbox-app.com/8ead0ec0-5358-4008-87fb-a2d807290558.png",
+      "disc": "https://images.launchbox-app.com/c4146a83-368b-446d-abf0-46b2ea56d5cb.png",
       "manual": "https://archive.org/download/Nintendo64Manuals_201812/Super%20Smash%20Bros.%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//4a10749a-17b8-45e0-b003-1dcec42bf6a9.png",
+      "logo": "https://images.launchbox-app.com/4a10749a-17b8-45e0-b003-1dcec42bf6a9.png",
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/resident-evil-2-usa-rev-a/Super%20Smash%20Bros.%20%28USA%29.zip"
