@@ -6,20 +6,21 @@ Breath Of Fire IV|https://archive.org/download/ps1lollo/Breath%20of%20Fire%20IV%
 Castlevania Chronicles|https://archive.org/download/ps1lollo/Castlevania%20Chronicles%20%28USA%29.chd
 Castlevania Chronicles|https://archive.org/download/psx-chd-roms-c/Castlevania%20Chronicles%20%28USA%29.chd
 Castlevania - Symphony of the Night|https://archive.org/download/psx-chd-roms-c/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.chd
-Chrono Cross|https://archive.org/download/rr-super-console-x/roms/psx.7z/psx%2FChrono%20Cross%20%28USA%29.pbp
+Chrono Cross|
 Clock Tower|https://archive.org/download/chd_psx/CHD-PSX-USA/Clock%20Tower%20%28USA%29.chd
 Clock Tower 2|https://archive.org/download/chd_psx/CHD-PSX-USA/Clock%20Tower%20II%20-%20The%20Struggle%20Within%20%28USA%29.chd
 Clock Tower II - The Struggle Within|https://archive.org/download/psx-chd-roms-c/Clock%20Tower%20II%20-%20The%20Struggle%20Within%20%28USA%29.chd
 Cool Boarders 3|https://archive.org/download/psx-chd-roms-c/Cool%20Boarders%203%20%28USA%29.chd
 Dino Crisis 2|https://archive.org/download/psx-chd-roms-d/Dino%20Crisis%202%20%28USA%29.chd
-Einhander|https://archive.org/download/gamelist_202205/Einhander.chd
+Einhander|https://archive.org/download/final-fantasy-viii-usa_202507/Einhaender%20%28USA%29.chd
+Ehrgeiz - God Bless the Ring|https://archive.org/download/final-fantasy-viii-usa_202507/Ehrgeiz%20-%20God%20Bless%20the%20Ring%20%28USA%29.chd
 Fear Effect|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Fear%20Effect.pbp
 Fear Effect 2 Retro Helix|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Fear%20Effect%202%20-%20Retro%20Helix.pbp
 Final Fantasy Chronicles|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20Chronicles%20%28Chrono%20Trigger%29.pbp
 Final Fantasy V|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20Anthology%20%28Final%20Fantasy%20V%29.pbp
 Final Fantasy VI|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20Anthology%20%28Final%20Fantasy%20VI%29.pbp
-Final Fantasy VII|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20VII.pbp
-Final Fantasy VIII|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Final%20Fantasy%20VIII.pbp
+Final Fantasy VII|https://archive.org/download/final-fantasy-viii-usa_202507/Final%20Fantasy%20VII%20%28USA%29.PBP
+Final Fantasy VIII|https://archive.org/download/final-fantasy-viii-usa_202507/Final%20Fantasy%20VIII%20%28USA%29.PBP
 Gex|https://archive.org/download/psx-chd-roms-g/Gex%20%28USA%29.chd
 Gex Enter the Gecko|https://archive.org/download/psx-chd-roms-g/Gex%20-%20Enter%20the%20Gecko%20%28USA%29.chd
 Gex 3 Deep Cover Gecko|https://archive.org/download/psx-chd-roms-g/Gex%203%20-%20Deep%20Cover%20Gecko%20%28USA%29.chd
@@ -30,7 +31,7 @@ Grand Thef Auto|https://archive.org/download/psx-chd-roms-g/Grand%20Theft%20Auto
 Guardians Crusade|https://archive.org/download/psx-chd-roms-g/Guardian%27s%20Crusade%20%28USA%29.chd
 Guilty Grear|https://archive.org/download/psx-chd-roms-g/Guilty%20Gear%20%28USA%29.chd
 G. Darius|https://archive.org/download/psx-chd-roms-g/G.%20Darius%20%28USA%29.chd
-Legend Of Dragoon|https://archive.org/download/rr-super-console-x/roms/psx.7z/psx%2FDragon.pbp
+The Legend Of Dragoon|https://archive.org/download/final-fantasy-viii-usa_202507/Legend%20of%20Dragoon%2C%20The%20%28USA%29.PBP
 MediEvil|https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20%28USA%29.chd
 MediEvil II|https://archive.org/download/psx-chd-roms-m/MediEvil%20II%20%28USA%29.chd
 Mega Man X4|https://archive.org/download/psx-chd-roms-m/Mega%20Man%20X4%20%28USA%29.chd
@@ -42,6 +43,7 @@ Metal Gear Solid - VR Missions|https://archive.org/download/psx-chd-roms-m/Metal
 Parasite Eve|https://archive.org/download/metal-gear-solid-usa_202507/Parasite%20Eve%20%28USA%29.PBP
 Parasite Eve II|https://archive.org/download/metal-gear-solid-usa_202507/Parasite%20Eve%20II%20%28USA%29.PBP
 Policenauts|https://archive.org/download/metal-gear-solid-usa_202507/Policenauts%20%28Japan%29.PBP
+Resident Evil 0 Demake|https://archive.org/download/final-fantasy-viii-usa_202507/Resident%20Evil%200%20Demake%20%28v0.1%29.chd
 Resident Evil|https://archive.org/download/chd_psx/CHD-PSX-USA/Resident%20Evil%20-%20Director%27s%20Cut%20-%20Dual%20Shock%20Ver.%20%28USA%29.chd
 Resident Evil 2|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Resident%20Evil%202.pbp
 Resident Evil Nemesis|https://archive.org/download/chd_psx/CHD-PSX-USA/Resident%20Evil%203%20-%20Nemesis%20%28USA%29.chd
