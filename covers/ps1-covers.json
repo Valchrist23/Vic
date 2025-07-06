@@ -237,8 +237,20 @@
       "gameplay": "https://www.youtube.com/watch?v=vOcJK_SKiOc",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u",
       "url": "https://archive.org/download/psx-chd-roms-m/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.chd"
-      },
-      {
+    },
+    {
+      "title": "Parasite Eve",
+      "system": "ps1",
+      "fileName": "Parasite Eve (USA).pbp",
+      "cover": "https://images.launchbox-app.com//963606f1-945f-441e-bda1-345bf3e7d541.png",
+      "disc": "https://images.launchbox-app.com//dd6d60a3-c872-46cc-bddf-989ec1ce8a7f.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Parasite%20Eve%20%28USA%29%20%28Disc%201%29.pdf",
+      "logo": "https://images.launchbox-app.com//b1ca4034-7082-4134-bfcc-f7ca5de00de0.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/metal-gear-solid-usa_202507/Parasite%20Eve%20%28USA%29.PBP"
+    },
+    {
       "title": "Policenauts",
       "system": "ps1",
       "fileName": "Policenauts (Japan).PBP",
@@ -249,6 +261,6 @@
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/metal-gear-solid-usa_202507/Policenauts%20%28Japan%29.PBP"
-     }
+     } 
    ]
 }
