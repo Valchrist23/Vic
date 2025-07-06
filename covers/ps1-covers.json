@@ -217,13 +217,14 @@
     {
       "title": "Metal Gear Solid",
       "system": "ps1",
-      "fileName": "Metal_Gear_Solid.pbp",
+      "fileName": "Metal Gear Solid (USA).pbp",
       "cover": "https://images.launchbox-app.com/5d3d25b2-7850-4b60-8446-491251a3b76c.png",
       "disc": "https://images.launchbox-app.com/96aa0fcf-1afe-4215-b6dc-141e12b3cf3e.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Metal%20Gear%20Solid%20%28USA%29%20%28Disc%201%29.pdf",
       "logo": "https://gamesdb-images.launchbox.gg/r2_4afff946-6d09-4523-b99f-9791a6bcbc3d.png",
       "gameplay": "https://www.youtube.com/watch?v=vOcJK_SKiOc",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u",
+      "url": "https://archive.org/download/metal-gear-solid-usa_202507/Metal%20Gear%20Solid%20%28USA%29.PBP"
     },
     {
       "title": "Metal Gear Solid - VR Missions",
