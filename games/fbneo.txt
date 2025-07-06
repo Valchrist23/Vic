@@ -49,7 +49,7 @@ ssf2t|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27
 Super Gem Fighters|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sgemf.zip
 Street Fighter Alpha|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfau.zip
 Street Fighter Alpha 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfa2u.zip
-Street Fighter Alpha 3|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfa3u.zip
+sfa3.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/sfa3.7z
 Street Fighter III|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiiiu.zip
 Street Fighter III 2nd Impact|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiii2.zip
 Street Fighter III 3rd Impact|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiii3u.zip
