@@ -83,7 +83,7 @@ Spawn|https://archive.org/download/snesromsetcompleate/Spawn%20%28U%29%20%5B%21%
 Spiderman And Venom Separation Anxiety|https://archive.org/download/snesromsetcompleate/Spider-Man%20%26%20Venom%20-%20Separation%20Anxiety%20%28U%29.zip
 StarFox|https://archive.org/download/snesromsetcompleate/Star%20Fox%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip
 StarFox2|https://archive.org/download/snesromsetcompleate/Star%20Fox%202%20%28USA%29.zip
-Street Fighter II The World Warriors|https://archive.org/download/snesromsetcompleate/Street%20Fighter%20II%20-%20The%20World%20Warrior%20%28U%29%20%5B%21%5D.zip
+Street Fighter II - The World Warrior|https://archive.org/download/snesromsetcompleate/Street%20Fighter%20II%20-%20The%20World%20Warrior%20%28U%29%20%5B%21%5D.zip
 Street Fighter 2 Turbo Hyper Fighting|https://archive.org/download/snesromsetcompleate/Street%20Fighter%20II%20Turbo%20-%20Hyper%20Fighting%20%28U%29%20%5B%21%5D.zip
 Street Fighter 3 Super Version|https://archive.org/download/snesromsetcompleate/Street%20Fighter%20III%20-%20Super%20Version.zip
 Super Adventure Island|https://archive.org/download/snesromsetcompleate/Super%20Adventure%20Island%20%28U%29%20%5B%21%5D.zip
