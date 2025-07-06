@@ -144,6 +144,18 @@
       "url": "https://archive.org/download/snesromsetcompleate/Mega%20Man%20X%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip"
     },
     {
+      "title": "Street Fighter II - The World Warrior",
+      "system": "snes",
+      "fileName": "Street Fighter II - The World Warrior (U) [!].zip",
+      "cover": "https://images.launchbox-app.com//10730576-2800-45f1-ad1d-eaea8af58984.png",
+      "disc": "https://images.launchbox-app.com//0f75f593-6df6-4366-a4ef-bb4aa9762ff4.png",
+      "manual": "https://archive.org/download/snes-manual-archive/Street%20Fighter%20II%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//17463b37-ecf8-4629-9794-94a3d472e025.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/megamanx.m3u",
+      "url": "https://archive.org/download/snesromsetcompleate/Street%20Fighter%20II%20-%20The%20World%20Warrior%20%28U%29%20%5B%21%5D.zip"
+    },
+    { 
       "title": "The Legend Of Zelda A Link To The Past",
       "system": "snes",
       "fileName": "Legend of Zelda, The - A Link to the Past (U) [!].zip",
