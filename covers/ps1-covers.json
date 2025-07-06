@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "title": "3Xtreme",
+      "system": "ps1",
+      "fileName": "3Xtreme (USA).chd",
+      "cover": "https://images.launchbox-app.com//1be09785-257f-49b1-aedb-34d33dac5dfe.png",
+      "disc": "https://images.launchbox-app.com//9afd5412-df9d-498b-8aa8-471f177caae6.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Area%2051%20%28USA%29.pdf",
+      "logo": "https://archive.org/download/SonyPlaystationManuals/3Xtreme%20%28USA%29.pdf",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/psxchd1/3Xtreme%20%28USA%29.chd"
+    },
+    {
       "title": "Area 51",
       "system": "ps1",
       "fileName": "Area 51 (USA).chd",
@@ -12,7 +24,7 @@
       "soundtrack": null,
       "url": "https://archive.org/download/psxchda/Area%2051%20%28USA%29.chd"
     }, 
-    {
+    {  
       "title": "Bloody Roar II",
       "system": "ps1",
       "fileName": "Bloody Roar II (USA).chd",
