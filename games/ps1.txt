@@ -38,6 +38,7 @@ Mega Man X6sdf|https://archive.org/download/ps1lollo/Mega%20Man%20X6%20%28USA%29
 Mega Man X6|https://archive.org/download/psx-chd-roms-m/Mega%20Man%20X6%20%28USA%29.chd
 Metal Gear Solid (USA)|https://archive.org/download/metal-gear-solid-usa_202507/Metal%20Gear%20Solid%20%28USA%29.PBP
 Metal Gear Solid - VR Missions|https://archive.org/download/psx-chd-roms-m/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.chd
+Parasite Eve|https://archive.org/download/metal-gear-solid-usa_202507/Parasite%20Eve%20%28USA%29.PBP
 Policenauts|https://archive.org/download/metal-gear-solid-usa_202507/Policenauts%20%28Japan%29.PBP
 Resident Evil|https://archive.org/download/chd_psx/CHD-PSX-USA/Resident%20Evil%20-%20Director%27s%20Cut%20-%20Dual%20Shock%20Ver.%20%28USA%29.chd
 Resident Evil 2|https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/Resident%20Evil%202.pbp
