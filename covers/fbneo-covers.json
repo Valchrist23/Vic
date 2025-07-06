@@ -37,6 +37,18 @@
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/mshvsf.7z"
      },
      {
+      "title": "The Simpsons",
+      "system": "fbneo",
+      "fileName": "simpsons4pe.7z",
+      "cover": "https://gamesdb-images.launchbox.gg/r2_dfc93b8b-6df1-4ae0-a0b5-068693dd3c5a.jpg",
+      "disc": "https://images.launchbox-app.com//9eb1f2f4-e43a-4ee3-9aa0-2d8145f16b3a.png",
+      "manual": "https://images.launchbox-app.com//002efa0a-a54c-4af7-a008-cefc88005170.jpg",
+      "logo": "https://images.launchbox-app.com//d1c007c1-7ea8-4617-b2ef-d5e6b882e936.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/simpsons4pe.7z"
+     },
+     {
       "title": "X-Men",
       "system": "fbneo",
       "fileName": "xmen6p.7z",
