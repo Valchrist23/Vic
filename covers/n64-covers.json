@@ -20,7 +20,7 @@
       "disc": "https://images.launchbox-app.com//6d22725f-a515-426a-8a3c-672f969bfb6f.png",
       "manual": "https://archive.org/download/Nintendo64Manuals_201812/F-Zero%20X%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
-      "gameplay": "https://www.youtube.com/watch?v=ugPX0W7sag0",
+      "gameplay": null,
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u"
     },
     {
@@ -31,8 +31,8 @@
       "disc": "https://images.launchbox-app.com//c4146a83-368b-446d-abf0-46b2ea56d5cb.png",
       "manual": "https://archive.org/download/Nintendo64Manuals_201812/Super%20Smash%20Bros.%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//4a10749a-17b8-45e0-b003-1dcec42bf6a9.png",
-      "gameplay": "null",
-      "soundtrack": "null",
+      "gameplay": null,
+      "soundtrack": null,
       "url": "https://archive.org/download/resident-evil-2-usa-rev-a/Super%20Smash%20Bros.%20%28USA%29.zip"
     } 
   ]
