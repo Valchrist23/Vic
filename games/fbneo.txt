@@ -21,7 +21,7 @@ Macross Plus|https://archive.org/download/cylums-final-burn-neo-rom-collection/C
 Magic Sword|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/msword.zip
 Marvel Super Heroes|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mshu.zip
 Marvel Super Heroes VS Street Fighters|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mshvsfu.zip             
-Marvel VS Capcom|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/mvsc.7z
+mvsc|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/mvsc.7z
 Megaman|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/megaman.zip
 Megaman 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/megaman2.zip
 Mercs|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mercs.zip
