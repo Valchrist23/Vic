@@ -11,8 +11,21 @@
       "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
       "soundtrack": null,
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/3wonders.7z"
-     },            
-     {
+     }, 
+    {
+      "title": "Marvel VS Capcom",
+      "system": "fbneo",
+      "fileName": "mvsc.7z",
+      "cover": "https://images.launchbox-app.com/59e54fb7-0cc8-4cc2-921f-fd378f20325b.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com//1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com//8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/mvsc.7z"
+     },
+    
+    {
       "title": "X-Men",
       "system": "fbneo",
       "fileName": "xmen6p.7z",
