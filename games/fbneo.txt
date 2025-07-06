@@ -35,6 +35,7 @@ Rygar|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27
 RType|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/rtype.zip
 SCobra|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/scobra.zip
 SContra|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/scontra.zip
+simpsons4pe|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/simpsons4pe.7z
 Shinobi|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/shinobi.zip
 Shadow Dancer|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/shdancer.zip
 Smash TV|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/smashtv.zip
