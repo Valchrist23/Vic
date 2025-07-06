@@ -1,5 +1,5 @@
 Castlevania Legacy Of Darkness|https://archive.org/download/resident-evil-2-usa-rev-a/Castlevania%20-%20Legacy%20of%20Darkness%20%28USA%29.zip
-F-Zero X (USA)|https://archive.org/download/resident-evil-2-usa-rev-a/F-Zero%20X%20%28USA%29.zip
+F-Zero X|https://archive.org/download/resident-evil-2-usa-rev-a/F-Zero%20X%20%28USA%29.zip
 Hybrid Heaven|https://archive.org/download/nintendo-64_202110/Hybrid%20Heaven%20%28Europe%29%20%28En%2CFr%2CDe%29.n64
 Indiana Jones and The Infernal Machine|https://archive.org/download/nintendo-64_202110/Indiana%20Jones%20and%20the%20Infernal%20Machine%20%28USA%29.n64
 International Super Star Soccer 98|https://archive.org/download/nintendo-64_202110/International%20Superstar%20Soccer%20%2798%20%28USA%29.n64
@@ -15,6 +15,7 @@ Perfect Dark|https://archive.org/download/nintendo-64_202110/Perfect%20Dark%20%2
 Robotech Crystal Dreams|https://archive.org/download/nintendo-64_202110/Robotech%20-%20Crystal%20Dreams%20%28USA%29%20%28Proto%29.n64
 Star Wars Shadows Of The Empire|https://archive.org/download/nintendo-64_202110/Star%20Wars%20-%20Shadows%20of%20the%20Empire%20%28Europe%29.n64
 Super Mario 64|https://archive.org/download/nintendo-64_202110/Super%20Mario%2064%20%28Europe%29%20%28En%2CFr%2CDe%29.n64
+Super Smash Bros.|https://archive.org/download/resident-evil-2-usa-rev-a/Super%20Smash%20Bros.%20%28USA%29.zip
 Turok|https://archive.org/download/nintendo-64_202110/Turok%20-%20Dinosaur%20Hunter%20%28Europe%29.n64
 Turok Rage Wars|https://archive.org/download/nintendo-64_202110/Turok%20-%20Rage%20Wars%20%28Europe%29%20%28En%2CFr%2CIt%29.n64
 Turok 2 Seeds Of Evil|https://archive.org/download/nintendo-64_202110/Turok%202%20-%20Seeds%20of%20Evil%20%28Europe%29.n64
