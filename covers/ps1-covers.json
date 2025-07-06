@@ -237,6 +237,18 @@
       "gameplay": "https://www.youtube.com/watch?v=vOcJK_SKiOc",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u",
       "url": "https://archive.org/download/psx-chd-roms-m/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.chd"
+      },
+      {
+      "title": "Policenauts",
+      "system": "ps1",
+      "fileName": "Policenauts (Japan).PBP",
+      "cover": "https://images.launchbox-app.com//11e22c1e-c316-4375-9aa3-b0c8e25c403f.png",
+      "disc": "https://images.launchbox-app.com//b453eead-2038-43a7-afd2-8bbcb6b26fe9.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Metal%20Gear%20Solid%20%28USA%29%20%28Disc%201%29.pdf",
+      "logo": "https://gamesdb-images.launchbox.gg/r2_e1280ab7-b8dc-41db-a1d1-a4a9e89f36cc.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/metal-gear-solid-usa_202507/Policenauts%20%28Japan%29.PBP"
      }
-  ]
+   ]
 }
