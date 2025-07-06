@@ -16,13 +16,26 @@
       "title": "Marvel VS Capcom",
       "system": "fbneo",
       "fileName": "mvsc",
-      "cover": "https://images.launchbox-app.com//94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
       "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
-      "manual": "https://images.launchbox-app.com//1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
-      "logo": "https://images.launchbox-app.com//8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
       "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
       "soundtrack": null,
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/mvsc.7z"
+     },
+    , 
+    {
+      "title": "Marvel Super Heroes VS Street Fighter",
+      "system": "fbneo",
+      "fileName": "mshvsf",
+      "cover": "https://images.launchbox-app.com/897a4818-c9fc-4017-b857-17bda812a92e.jpg",
+      "disc": "https://images.launchbox-app.com/800b6368-f28e-4e1a-a267-8c6f85dab4fe.png",
+      "manual": "https://images.launchbox-app.com//4d14d181-4263-4437-994b-43e9c3f9ff1b.png",
+      "logo": "https://images.launchbox-app.com//f0ec6551-13ef-4740-81e8-576357bef4f3.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/mshvsf.7z"
      },
     
     {
