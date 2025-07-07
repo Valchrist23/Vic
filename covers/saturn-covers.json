@@ -24,6 +24,54 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
       "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Akumajou%20Dracula%20X%20-%20Gekka%20no%20Yasoukyoku%20%28Japan%29%20%282M%29.chd"
      },
+    {
+      "title": "Guardian Heroes",
+      "system": "saturn",
+      "fileName": "Guardian Heroes (USA).chd",
+      "cover": "https://images.launchbox-app.com//1ba09677-16d3-4068-863b-68d72fce6856.png",
+      "disc": "https://images.launchbox-app.com//3ec9c272-70cb-4534-ab15-e083343f7322.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//b0a27183-e570-43f2-bed1-59a23e96e0d4.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
+      "url": "https://archive.org/download/samurai-shodown-vi-usa/Guardian%20Heroes%20%28USA%29.chd"
+     },
+    {
+      "title": "Macross cd1",
+      "system": "saturn",
+      "fileName": "Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1)",
+      "cover": "https://images.launchbox-app.com//1a662a61-d588-4f84-90b0-8a8af68d694c.png",
+      "disc": "https://images.launchbox-app.com//772d1d2d-9cdf-4491-be55-db1a10d3bca9.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//94478a14-240f-48d4-b14c-d8896d1c7139.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
+      "url": "https://archive.org/download/chd_saturn/CHD-Saturn/Japan/Chou%20Jikuu%20Yousai%20Macross%20-%20Ai%20Oboete%20Imasu%20ka%20%28Japan%29%20%28Disc%201%29.chd"
+     },
+     {
+      "title": "Magic Knight Rayearth",
+      "system": "saturn",
+      "fileName": "Magic Knight Rayearth (USA).chd",
+      "cover": "https://images.launchbox-app.com/0187c42d-55d6-4a0d-a81f-253190ce1362.png",
+      "disc": "https://images.launchbox-app.com//539ecd97-a086-407d-a84b-b4634746731a.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//d04eb2b4-fbb5-4040-9518-264d13d65742.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
+      "url": "https://archive.org/download/chd_saturn/CHD-Saturn/USA/Magic%20Knight%20Rayearth%20%28USA%29.chd"
+     },
+     {
+      "title": "Panzer Dragon",
+      "system": "saturn",
+      "fileName": "Panzer Dragon (USA).chd",
+      "cover": "https://images.launchbox-app.com//cb64de51-d36a-4447-b9ae-f70ab297e083.png",
+      "disc": "https://gamesdb-images.launchbox.gg/r2_c93e8d42-19ea-408b-a1e8-dadc260ee8b8.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//028ba08b-f5dd-4d16-a92f-53775852f7a5.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/chd_saturn/CHD-Saturn/USA/Panzer%20Dragoon%20%28USA%29%20%281S%29.chd"
+     },
      {
       "title": "Snatcher",
       "system": "saturn",
@@ -35,7 +83,18 @@
       "gameplay": null,
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
       "url": "https://archive.org/download/chd_saturn/CHD-Saturn/Japan/Snatcher%20%28Japan%29.chd"
+     },
+    {
+      "title": "Snatcher",
+      "system": "saturn",
+      "fileName": "Snatcher (USA).chd",
+      "cover": "https://images.launchbox-app.com//a576805c-c040-43f2-a028-654128b72e42.png",
+      "disc": "https://images.launchbox-app.com//45a1c590-8674-4cb5-ba99-a3799a731805.png",
+      "manual": "https://archive.org/download/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color.pdf",
+      "logo": "https://images.launchbox-app.com//407c6e9d-0970-4ee9-9226-3c17ba009375.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "url": "https://archive.org/download/samurai-shodown-vi-usa/Snatcher%20%28USA%29.chd"
      }
   ]
 }
-
