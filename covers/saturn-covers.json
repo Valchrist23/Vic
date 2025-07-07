@@ -83,6 +83,18 @@
       "gameplay": null,
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
       "url": "https://archive.org/download/samurai-shodown-vi-usa/Snatcher%20%28USA%29.chd"
+     },
+    {
+      "title": "Steam Hearts",
+      "system": "saturn",
+      "fileName": "Steam Hearts (J).chd",
+      "cover": "https://images.launchbox-app.com//ab537bc0-516e-4af7-b45f-6f1e1606ec2b.png",
+      "disc": "https://images.launchbox-app.com//9b675768-c229-43df-8d12-6e8d2b97ac12.png",
+      "manual": "https://archive.org/download/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color.pdf",
+      "logo": "https://images.launchbox-app.com//7c90aa24-b413-443a-920a-7b1b5e1ee948.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "url": "https://archive.org/download/samurai-shodown-vi-usa/Steam%20Hearts%20%28J%29.chd"
      }
-  ]
+  ]          
 }
