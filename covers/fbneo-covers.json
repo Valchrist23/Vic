@@ -120,7 +120,129 @@
       "soundtrack": null,
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/cabal.7z"            
      },
+     {
+      "title": "Cadillacs And Dinosaurs",
+      "system": "fbneo",
+      "fileName": "dino",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/dino.7z"            
+     },
+     {
+      "title": "Captain Commando",
+      "system": "fbneo",
+      "fileName": "captcomm",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/captcomm.7z"            
+     },
+     {
+      "title": "Combat Tribe",
+      "system": "fbneo",
+      "fileName": "ctribe",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ctribe.7z"            
+     },
+     {
+      "title": "Contra",
+      "system": "fbneo",
+      "fileName": "contra",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/contra.7z"            
+     },
+     {
+      "title": "Crime Fighters",
+      "system": "fbneo",
+      "fileName": "crimec",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/crimec.7z"            
+     },
+     {
+      "title": "Crosblade",
+      "system": "fbneo",
+      "fileName": "crossbld",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/crossbld.7z"            
+     },
+     {
+      "title": "Crossed Swords",
+      "system": "fbneo",
+      "fileName": "crsword",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/crsword.7z"            
+     },
+     {
+      "title": "Darkstalkers",
+      "system": "fbneo",
+      "fileName": "dstlk",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/dstlk.7z"            
+     },
+     {
+      "title": "Echo Fighters",
+      "system": "fbneo",
+      "fileName": "ecofghtr",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ecofghtr.7z"            
+     },
     {
+      "title": "Darius",
+      "system": "fbneo",
+      "fileName": "darius",
+      "cover": "https://images.launchbox-app.com/94816ac5-c6d5-444d-b403-2387833ebe03.jpg",
+      "disc": "https://images.launchbox-app.com/f4c16dc9-ebf4-475c-a0d0-7c384c76c26c.png",
+      "manual": "https://images.launchbox-app.com/1470b424-0a46-47a9-b5f9-6ef1a4c3a27c.jpg",
+      "logo": "https://images.launchbox-app.com/8230b20e-5492-4c26-9532-5b5ec38013a9.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/darius.7z"            
+     },
+
+     
+     {
       "title": "Marvel VS Capcom",
       "system": "fbneo",
       "fileName": "mvsc",
@@ -194,5 +316,36 @@
      }
   ]
 }
+
+
+
+
+
+
+defender|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/defender.7z
+driftout|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/driftout.7z
+ddragon|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddragon.7z
+ddragon2|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddragon2.7z
+ddragon3|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddragon3.7z
+ddsom|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddsom.7z
+ddtod|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddtod.7z
+ffight|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ffight.7z
+fghthist|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/fghthist.7z
+garou|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/garou.7z
+gigawing|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gigawing.7z
+gijoe|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gijoe.7z
+gradius|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius.7z
+gradius2|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius2.7z
+gradius3|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius3.7z
+gunsmoke|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gunsmoke.7z
+hcastle|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/hcastle.7z
+hook|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/hook.7z
+ikari|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ikari.7z
+jackal|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jackal.7z
+jedi|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jedi.7z
+Jojo|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jojo.7z
+knights|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/knights.7z
+kod|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/kod.7z
+narc|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/narc.7z
 
 
