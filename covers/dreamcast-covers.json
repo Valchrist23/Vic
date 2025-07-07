@@ -85,6 +85,18 @@
       "url": "https://archive.org/download/DreamcastCHD2020_0-O/Marvel%20vs.%20Capcom%202%20v1.001%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd"
     },
     {        
+      "title": "Samurai Shodown VI",
+      "system": "dreamcast",
+      "fileName": "Samurai Shodown VI (USA).chd",
+      "cover": "https://images.launchbox-app.com/96a5699f-0a57-4724-b049-7a473d3a41ec.png",
+      "disc": "null",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//e645aa8b-2aca-46b4-af0d-a4db72db1b71.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/samurai-shodown-vi-usa/Samurai%20Shodown%20VI%20%28USA%29.chd"
+    },
+    {        
       "title": "Shooter Forever",
       "system": "dreamcast",
       "fileName": "Shooter Forever dc_landi.cdi",
@@ -107,6 +119,18 @@
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/dreamcast_chd_pack/Street%20Fighter%20Alpha%203%20%28Europe%29.chd"
+    },
+    {   
+      "title": "Super Street Fighter II X for Matching Service",
+      "system": "dreamcast",
+      "fileName": "Super Street Fighter II X for Matching Service (Japan).chd",
+      "cover": "https://images.launchbox-app.com//adbe4f4c-8c76-4856-9d3a-f50bd7379218.png",
+      "disc": "https://images.launchbox-app.com//6e6ad764-4634-4afb-aa15-3a4d9409ad07.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//3a6ad038-c9ef-42b5-b599-87b212136c39.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/samurai-shodown-vi-usa/Super%20Street%20Fighter%20II%20X%20for%20Matching%20Service%20%28Japan%29.chd"
     },
     {
       "title": "Volgarr The Viking",
@@ -134,3 +158,15 @@
     }
  ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
