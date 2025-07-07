@@ -590,7 +590,7 @@
       "manual": "https://archive.org/download/NESManuals/Zelda%20II%20-%20The%20Adventure%20of%20Link%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//340d97ea-ad0e-4801-9b53-479df72f9f11.png",
       "gameplay": "https://www.youtube.com/watch?v=GjjFMGRVLNo",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/zeldaiitheadventureoflink.m3u",
       "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Zelda%20II%20-%20The%20Adventure%20of%20Link%20%28USA%29.zip"
     }
   ]
