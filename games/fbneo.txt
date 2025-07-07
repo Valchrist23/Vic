@@ -1,10 +1,10 @@
 3wonders|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/3wonders.7z
 avsp|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/avsp.7z
-Avengers|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/avengers.7z
-Bad Dudes|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/baddudes.7z
-Batman|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/batman.7z
-Battletoads|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/btoads.7z
-Black Tiger|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/blktiger.7z
+avengers|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/avengers.7z
+baddudes|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/baddudes.7z
+batman|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/batman.7z
+btoads|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/btoads.7z
+blktiger|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/blktiger.7z
 bucky|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/bucky.7z
 cabal|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/cabal.7z
 dino|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/dino.7z
@@ -32,11 +32,16 @@ gijoe|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gijoe.7z
 gradius|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius.7z
 gradius2|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius2.7z
 gradius3|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius3.7z
-Ikari Warriors|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/ikari.zip
-Jojo|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/jojo.zip
-Knights Of The Round|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/knights.zip
-KOD|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/kod.zip
-Narc|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/narc.zip
+gunsmoke|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gunsmoke.7z
+hcastle|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/hcastle.7z
+hook|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/hook.7z
+ikari|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ikari.7z
+jackal|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jackal.7z
+jedi|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jedi.7z
+Jojo|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jojo.7z
+knights|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/knights.7z
+kod|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/kod.7z
+narc|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/narc.7z
 NBA Jam Hangtime|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/nbahangt.zip
 Ninja Batman|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/nbbatman.zip
 Macross|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/macross.zip
