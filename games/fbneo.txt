@@ -1,22 +1,37 @@
 3wonders|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/3wonders.7z
-Alien VS Predator|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/avsp.7z
+avsp|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/avsp.7z
 Avengers|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/avengers.7z
 Bad Dudes|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/baddudes.7z
 Batman|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/batman.7z
 Battletoads|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/btoads.7z
 Black Tiger|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/blktiger.7z
-Bucky O Hare|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/bucky.7z
-Cabal|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/cabal.7z
-
-Cadillacs And Dinosaurs|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/dino.7z
+bucky|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/bucky.7z
+cabal|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/cabal.7z
+dino|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/dino.7z
 Captain Commando|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/captcomm.7z
-Combat Tribes|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ctribe.7z
-Contra|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/contra.7z
-
-Crime Fighters|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/crimec.7z
-Crossed Blades|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/crossbld.7z
-Dungeons And Dragons Shadows Over Mystara|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddsom.7z
-Dungeons And Dragons Tower Of Doom|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddtod.7z
+ctribe|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ctribe.7z
+contra|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/contra.7z
+crimec|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/crimec.7z
+crossbld|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/crossbld.7z
+crsword|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/crsword.7z
+dstlk|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/dstlk.7z
+ecofghtr|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ecofghtr.7z
+darius|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/darius.7z
+defender|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/defender.7z
+driftout|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/driftout.7z
+ddragon|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddragon.7z
+ddragon2|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddragon2.7z
+ddragon3|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddragon3.7z
+ddsom|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddsom.7z
+ddtod|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddtod.7z
+ffight|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ffight.7z
+fghthist|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/fghthist.7z
+garou|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/garou.7z
+gigawing|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gigawing.7z
+gijoe|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gijoe.7z
+gradius|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius.7z
+gradius2|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius2.7z
+gradius3|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/gradius3.7z
 Ikari Warriors|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/ikari.zip
 Jojo|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/jojo.zip
 Knights Of The Round|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/knights.zip
