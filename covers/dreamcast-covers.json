@@ -1,5 +1,5 @@
 {
-  "games": [
+  "games": [       
     {
       "title": "Cannon Spike",
       "system": "dreamcast",
@@ -13,6 +13,18 @@
       "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Cannon%20Spike%20%28USA%29.chd"
     },
     {
+      "title": "Capcom Fighting Collection",
+      "system": "dreamcast",
+      "fileName": "Capcom Fighting Collection (Hack)[Final v2].cdi",
+      "cover": "https://images.launchbox-app.com/d7e24621-4b81-4f67-a92a-d7f9fba3adf6.png",
+      "disc": "https://images.launchbox-app.com//68b196c0-5d7b-4447-ad32-84c9c5d09105.png",
+      "manual": "https://archive.org/download/SEGADreamcastManuals_201812/Cannon%20Spike%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//33ef046f-08b2-470a-85fb-f7fe612992b9.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/samurai-shodown-vi-usa/Capcom%20Fighting%20Collection%20%28Hack%29%5BFinal%20v2%5D.cdi"
+    },   
+    {       
       "title": "Capcom vs. SNK",
       "system": "dreamcast",
       "fileName": "Cannon Spike (USA).chd",
