@@ -73,18 +73,6 @@
       "url": "https://archive.org/download/chd_saturn/CHD-Saturn/USA/Panzer%20Dragoon%20%28USA%29%20%281S%29.chd"
      },
      {
-      "title": "Snatcher",
-      "system": "saturn",
-      "fileName": "Snatcher (USA).chd",
-      "cover": "https://images.launchbox-app.com//a576805c-c040-43f2-a028-654128b72e42.png",
-      "disc": "https://images.launchbox-app.com//45a1c590-8674-4cb5-ba99-a3799a731805.png",
-      "manual": "https://archive.org/download/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color.pdf",
-      "logo": "https://images.launchbox-app.com//407c6e9d-0970-4ee9-9226-3c17ba009375.png",
-      "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
-      "url": "https://archive.org/download/samurai-shodown-vi-usa/Snatcher%20%28USA%29.chd"
-     },
-    {
       "title": "Steam Hearts",
       "system": "saturn",
       "fileName": "Steam Hearts (J).chd",
