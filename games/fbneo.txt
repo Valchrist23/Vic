@@ -8,6 +8,11 @@ Batman|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%2
 Black Tiger|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/blktiger.zip
 Bucky O Hare|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/bucky.zip
 Cabal|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/cabal.zip
+Captain Commando|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/captcomm.7z
+Combat Tribes|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ctribe.7z
+Cadillacs And Dinosaurs|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/dino.7z
+Dungeons And Dragons Shadows Over Mystara|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddsom.7z
+Dungeons And Dragons Tower Of Doom|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ddtod.7z
 Ikari Warriors|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/ikari.zip
 Jojo|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/jojo.zip
 Knights Of The Round|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/knights.zip
@@ -57,6 +62,8 @@ Strider|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%
 Vampire Saviour|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsavu.zip
 Vampire Saviour 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsav2.zip
 Vampire Hunter 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vhunt2.zip
+World Heroes|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/wh1.7z
+World Heroes 2J|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/wh2j.7z
 xmen6p.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmen6p.7z
 X-Men Children Of The Atom|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/xmcotau.zip
 X-Men VS Street Fighter|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/xmvsfu.zip
