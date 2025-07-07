@@ -1,5 +1,6 @@
 Cannon Spike|https://archive.org/download/DreamcastCHD2020_0-O/Cannon%20Spike%20v1.001%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
 Cannon Spike|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Cannon%20Spike%20%28USA%29.chd
+Capcom Fighting Collection|https://archive.org/download/samurai-shodown-vi-usa/Capcom%20Fighting%20Collection%20%28Hack%29%5BFinal%20v2%5D.cdi
 Capcom vs. SNK|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Capcom%20vs.%20SNK%20%28USA%29.chd
 Capcom vs. SNK 2 - Millionaire Fighting 2001|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20%28Japan%29.chd
 Crazy Taxy 2|https://archive.org/download/DreamcastCHD2020_0-O/Crazy%20Taxi%202%20v1.004%20%282001%29%28Sega%29%28US%29%5B%21%5D.chd
@@ -10,8 +11,12 @@ Fatal Fury Mark Of The Wolves|https://archive.org/download/DreamcastCHD2020_0-O/
 GigaWing|https://archive.org/download/DreamcastCHD2020_0-O/GigaWing%20v1.000%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
 GigaWing 2|https://archive.org/download/DreamcastCHD2020_0-O/GigaWing%202%20v1.000%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
 Gunbird 2|https://archive.org/download/DreamcastCHD2020_0-O/Gunbird%202%20v1.000%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
+Last Hope|https://archive.org/download/samurai-shodown-vi-usa/Last%20Hope.cdi
 Marvel vs. Capcom 2 v1.001 (2000)(Capcom)(US)[!]|https://archive.org/download/DreamcastCHD2020_0-O/Marvel%20vs.%20Capcom%202%20v1.001%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
+Samurai Shodown VI|https://archive.org/download/samurai-shodown-vi-usa/Samurai%20Shodown%20VI%20%28USA%29.chd
 Shooter Forever dc_landi|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Shooter%20Forever%20dc_landi.cdi
 Street Fighter Alpha 3|https://archive.org/download/dreamcast_chd_pack/Street%20Fighter%20Alpha%203%20%28Europe%29.chd
+Super Street Fighter II X for Matching Service|https://archive.org/download/samurai-shodown-vi-usa/Super%20Street%20Fighter%20II%20X%20for%20Matching%20Service%20%28Japan%29.chd
+Vampire Chronicle for Matching Service|https://archive.org/download/samurai-shodown-vi-usa/Vampire%20Chronicle%20for%20Matching%20Service%20%28Japan%29.cdi
 Volgarr|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Volgarr.cdi
 xenocrisis|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/xenocrisis.cdi
