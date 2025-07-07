@@ -6,7 +6,7 @@ Capcom vs. SNK 2 - Millionaire Fighting 2001|https://archive.org/download/akumaj
 Crazy Taxy 2|https://archive.org/download/DreamcastCHD2020_0-O/Crazy%20Taxi%202%20v1.004%20%282001%29%28Sega%29%28US%29%5B%21%5D.chd
 Dino Crisis|https://archive.org/download/DreamcastCHD2020_0-O/Dino%20Crisis%20v1.000%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
 Dino Crisis|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Dino%20Crisis%20%28USA%29.cdi
-Divi-Dead|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Divi-Dead%20%28World%29.cdi
+Divi-Dead (World)|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Divi-Dead%20%28World%29.cdi
 Fatal Fury Mark Of The Wolves|https://archive.org/download/DreamcastCHD2020_0-O/Fatal%20Fury%20-%20Mark%20of%20the%20Wolves%20v0.800%20%282001%29%28Agetec%29%28US%29%5B%21%5D.chd
 GigaWing|https://archive.org/download/DreamcastCHD2020_0-O/GigaWing%20v1.000%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
 GigaWing 2|https://archive.org/download/DreamcastCHD2020_0-O/GigaWing%202%20v1.000%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
@@ -18,5 +18,5 @@ Shooter Forever dc_landi|https://archive.org/download/akumajou-dracula-x-gekka-n
 Street Fighter Alpha 3|https://archive.org/download/dreamcast_chd_pack/Street%20Fighter%20Alpha%203%20%28Europe%29.chd
 Super Street Fighter II X for Matching Service|https://archive.org/download/samurai-shodown-vi-usa/Super%20Street%20Fighter%20II%20X%20for%20Matching%20Service%20%28Japan%29.chd
 Vampire Chronicle for Matching Service|https://archive.org/download/samurai-shodown-vi-usa/Vampire%20Chronicle%20for%20Matching%20Service%20%28Japan%29.cdi
-Volgarr|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Volgarr.cdi
-xenocrisis|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/xenocrisis.cdi
+Volgarr.cdi|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Volgarr.cdi
+xenocrisis.cdi|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/xenocrisis.cdi
