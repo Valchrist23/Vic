@@ -76,7 +76,7 @@ saturn/sega1003.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Seg
 saturn/mpr-17933.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Saturn/mpr-17933.bin
 saturn/mpr-18811-mx.ic1|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Saturn/mpr-18811-mx.ic1
 saturn/mpr-18100.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Saturn/mpr-18100.bin
-saturn/saturn_bios.bin|https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Sega%20-%20Saturn/saturn_bios.bin
+saturn/saturn_bios.bin|https://archive.org/download/saturn_bios/saturn_bios.bin
 saturn/vsaturn.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Saturn/vsaturn.bin
 dreamcast/dc_boot.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Dreamcast/dc_boot.bin
 dreamcast/dc_flash.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Dreamcast/dc_flash.bin
