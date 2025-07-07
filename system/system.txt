@@ -81,14 +81,14 @@ saturn/vsaturn.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega
 dreamcast/dc_boot.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Dreamcast/dc_boot.bin
 dreamcast/dc_flash.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Dreamcast/dc_flash.bin
 dreamcast/naomi_boot.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Dreamcast/naomi_boot.bin
-ps2/SCPH-10000_BIOS_V1_JAP_100.BIN|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.BIN
-ps2/SCPH-10000_BIOS_V1_JAP_100.MEC|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.MEC
-ps2/SCPH-10000_BIOS_V1_JAP_100.NVM|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.NVM
-ps2/SCPH-30004R_BIOS_V6_EUR_160.BIN|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.BIN
-ps2/SCPH-30004R_BIOS_V6_EUR_160.MEC|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.MEC
-ps2/SCPH-30004R_BIOS_V6_EUR_160.NVM|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.NVM
-ps2/GameIndex.yaml|https://archive.org/download/scph10000_202507/pcsx2/resources/GameIndex.yaml
-ps2/LRPS2.zip|https://archive.org/download/scph10000_202507/pcsx2/resources/LRPS2.zip
+ps2/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.BIN|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.BIN
+ps2/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.MEC|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.MEC
+ps2/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.NVM|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.NVM
+ps2/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.BIN|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.BIN
+ps2/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.MEC|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.MEC
+ps2/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.NVM|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.NVM
+ps2/pcsx2/resources/GameIndex.yaml|https://archive.org/download/scph10000_202507/pcsx2/resources/GameIndex.yaml
+ps2/pcsx2/resources/LRPS2.zip|https://archive.org/download/scph10000_202507/pcsx2/resources/LRPS2.zip
 
 
 
