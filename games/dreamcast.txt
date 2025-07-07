@@ -19,4 +19,4 @@ Street Fighter Alpha 3|https://archive.org/download/dreamcast_chd_pack/Street%20
 Super Street Fighter II X for Matching Service|https://archive.org/download/samurai-shodown-vi-usa/Super%20Street%20Fighter%20II%20X%20for%20Matching%20Service%20%28Japan%29.chd
 Vampire Chronicle for Matching Service|https://archive.org/download/samurai-shodown-vi-usa/Vampire%20Chronicle%20for%20Matching%20Service%20%28Japan%29.cdi
 Volgarr|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Volgarr.cdi
-xenocrisis.cdi|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/xenocrisis.cdi
+xenocrisis|https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/xenocrisis.cdi
