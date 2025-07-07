@@ -36,7 +36,19 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/marvelvscapcom2.m3u",
       "url": "https://archive.org/download/DreamcastCHD2020_0-O/Marvel%20vs.%20Capcom%202%20v1.001%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd"
     },
-    {
+    {        
+      "title": "Shooter Forever",
+      "system": "dreamcast",
+      "fileName": "Shooter Forever dc_landi.cdi",
+      "cover": "https://images.launchbox-app.com//adb04499-5b37-4bb1-afd6-ee4e05ee3e96.png",
+      "disc": "https://images.launchbox-app.com//d43b314c-89e1-4035-93cf-1e6ff579a496.jpg",
+      "manual": "https://archive.org/download/SEGADreamcastManuals_201812/Marvel%20vs.%20Capcom%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//ffbb1215-22d3-4394-8df7-2ae281333c36.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/marvelvscapcom2.m3u",
+      "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Shooter%20Forever%20dc_landi.cdi"
+    },
+    {   
       "title": "Street Fighter Alpha 3",
       "system": "dreamcast",
       "fileName": "Street Fighter Alpha 3 (Europe).chd",
