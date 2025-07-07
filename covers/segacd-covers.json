@@ -28,12 +28,12 @@
       "title": "Snatcher",
       "system": "saturn",
       "fileName": "Snatcher (USA).chd",
-      "cover": "https://images.launchbox-app.com//46d6ef3f-bfeb-4279-8979-38221b3a0538.png",
-      "disc": "https://images.launchbox-app.com//78dc421c-2691-483e-9136-e6069c8ebafa.png",
+      "cover": "https://images.launchbox-app.com/46d6ef3f-bfeb-4279-8979-38221b3a0538.png",
+      "disc": "https://images.launchbox-app.com/78dc421c-2691-483e-9136-e6069c8ebafa.png",
       "manual": "https://archive.org/download/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color.pdf",
       "logo": "https://images.launchbox-app.com//554a354b-05ff-4ac2-9460-6df1030fa9ec.png",
       "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "soundtrack": null,
       "url": "https://archive.org/download/samurai-shodown-vi-usa/Snatcher%20%28USA%29.chd"
      },
     {
