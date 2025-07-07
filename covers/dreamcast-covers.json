@@ -13,6 +13,42 @@
       "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Cannon%20Spike%20%28USA%29.chd"
     },
     {
+      "title": "Capcom vs. SNK",
+      "system": "dreamcast",
+      "fileName": "Cannon Spike (USA).chd",
+      "cover": "https://images.launchbox-app.com//766a9ae6-b643-4099-b642-cb5f807657a6.png",
+      "disc": "https://images.launchbox-app.com//708ca0ff-948c-46a3-ab7e-37173b555963.png",
+      "manual": "https://archive.org/download/SEGADreamcastManuals_201812/Capcom%20vs.%20SNK%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//19a6a053-ec9b-408c-89ea-8c6a332de014.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Capcom%20vs.%20SNK%20%28USA%29.chd"
+    },
+    {
+      "title": "Capcom vs. SNK 2 - Millionaire Fighting 2001",
+      "system": "dreamcast",
+      "fileName": "Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).chd",
+      "cover": "https://images.launchbox-app.com//4d622ade-f8b5-40a1-a96b-f5b62ef23998.png",
+      "disc": "https://images.launchbox-app.com//904ba6a5-83d5-46a5-919a-a75473274f88.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//76d7204b-5cb9-495f-8760-271624b2c383.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20%28Japan%29.chd"
+    },
+    {     
+      "title": "Dino Crisis",
+      "system": "dreamcast",
+      "fileName": "Dino Crisis (USA).cdi",
+      "cover": "https://images.launchbox-app.com//1b424b7e-1084-4faa-acaf-8edd49078d82.png",
+      "disc": "https://images.launchbox-app.com//3390e3ff-2179-4322-9981-5b6311ec4ab2.png",
+      "manual": "https://archive.org/download/SEGADreamcastManuals_201812/Dino%20Crisis%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//133624bf-7045-4c7a-9b24-68b6f202febc.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Dino%20Crisis%20%28USA%29.cdi"
+    },
+    {
       "title": "Gunbird 2",
       "system": "dreamcast",
       "fileName": "Gunbird 2 v1.000 (2000)(Capcom)(US)[!].chd",
@@ -23,7 +59,12 @@
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/DreamcastCHD2020_0-O/Gunbird%202%20v1.000%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd"
-    },
+    }, 
+
+Crazy Taxy 2|https://archive.org/download/DreamcastCHD2020_0-O/Crazy%20Taxi%202%20v1.004%20%282001%29%28Sega%29%28US%29%5B%21%5D.chd
+Dino Crisis|https://archive.org/download/DreamcastCHD2020_0-O/Dino%20Crisis%20v1.000%20%282000%29%28Capcom%29%28US%29%5B%21%5D.chd
+
+
     {        
       "title": "Marvel VS Capcom 2",
       "system": "dreamcast",
