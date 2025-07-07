@@ -141,7 +141,8 @@
       "manual": "https://archive.org/download/SonyPlaystationManuals/MediEvil%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/03a1ce28-8120-4c12-9dc9-b9c007e850cb.png",
       "gameplay": "https://www.youtube.com/watch?v=sbKBbTqTeT8",
-      "soundtrack": null
+      "soundtrack": null,
+      "url": ""
     },
      {
       "title": "MediEvil II",
@@ -200,7 +201,8 @@
       "manual": "https://archive.org/download/SonyPlaystationManuals/Breath%20of%20Fire%20III%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/7ac004cd-05f6-4f7b-a75d-502f04f6697c.png",
       "gameplay": "https://www.youtube.com/watch?v=2qJKRdJHnJU",
-      "soundtrack": null
+      "soundtrack": null,
+      "url": "",
     },
     {
       "title": "Breath Of Fire IV",
@@ -306,7 +308,7 @@
       "disc": "https://images.launchbox-app.com//82a140c6-4ee9-4b8d-b35a-1069784eab12.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Silent%20Hill%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//13520d60-9c53-43ca-bf75-406f1f7a2a91.png",
-      "gameplay": "https://www.youtube.com/watch?v=7FPCb0K89uE",
+      "gameplay": "https://www.youtube.com/watch?v=dqCX_LL7_88",
       "soundtrack": null,
       "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/Silent%20Hill%20%28USA%29.chd"
      }
