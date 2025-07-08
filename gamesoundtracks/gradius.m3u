@@ -1,13 +1,25 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",01 Coin
 https://kappa.vgmsite.com/soundtracks/gradius-nes/wlsuwhxy/01%20Coin.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",02 Beginning of History
 https://kappa.vgmsite.com/soundtracks/gradius-nes/plefmhlt/02%20Beginning%20of%20History.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",03 Challenger 1985
 https://kappa.vgmsite.com/soundtracks/gradius-nes/bfsrhmof/03%20Challenger%201985.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",04 Beat Back
 https://kappa.vgmsite.com/soundtracks/gradius-nes/euaiyvzg/04%20Beat%20Back.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",05 Blank Mask
 https://kappa.vgmsite.com/soundtracks/gradius-nes/ctujkexi/05%20Blank%20Mask.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",06 Free Flyer
 https://kappa.vgmsite.com/soundtracks/gradius-nes/ivzhaekx/06%20Free%20Flyer.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",07 Mazed Music
 https://kappa.vgmsite.com/soundtracks/gradius-nes/vtigfacs/07%20Mazed%20Music.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",08 Mechanical Globule
 https://kappa.vgmsite.com/soundtracks/gradius-nes/kvmbsdox/08%20Mechanical%20Globule.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",09 Final Attack
 https://kappa.vgmsite.com/soundtracks/gradius-nes/vmepunzs/09%20Final%20Attack.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",10 Aircraft Carrier
 https://kappa.vgmsite.com/soundtracks/gradius-nes/fqnhclqk/10%20Aircraft%20Carrier.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",11 Ending
 https://kappa.vgmsite.com/soundtracks/gradius-nes/wbrnmfig/11%20Ending.mp3
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gradius-nes/G4.jpg" group-title="Music",12 Game Over
 https://kappa.vgmsite.com/soundtracks/gradius-nes/wbeicqto/12%20Game%20Over.mp3
