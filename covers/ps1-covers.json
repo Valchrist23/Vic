@@ -202,7 +202,7 @@
       "logo": "https://images.launchbox-app.com/7ac004cd-05f6-4f7b-a75d-502f04f6697c.png",
       "gameplay": "https://www.youtube.com/watch?v=2qJKRdJHnJU",
       "soundtrack": null,
-      "url": "",
+      "url": ""
     },
     {
       "title": "Breath Of Fire IV",
@@ -256,10 +256,10 @@
       "title": "Metal Gear Solid - VR Missions",
       "system": "ps1",
       "fileName": "Metal Gear Solid - VR Missions (USA).chd",
-      "cover": "https://images.launchbox-app.com//ca6d60ef-ca37-490b-b3b0-cf473f9a1884.png",
-      "disc": "https://images.launchbox-app.com//7475eac6-7e7f-4d72-86bd-091ae1f1ae94.png",
+      "cover": "https://images.launchbox-app.com/ca6d60ef-ca37-490b-b3b0-cf473f9a1884.png",
+      "disc": "https://images.launchbox-app.com/7475eac6-7e7f-4d72-86bd-091ae1f1ae94.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Metal%20Gear%20Solid%20%28USA%29%20%28Disc%201%29.pdf",
-      "logo": "https://images.launchbox-app.com//2f0b18d4-1c61-4213-9b07-d3a099e25395.png",
+      "logo": "https://images.launchbox-app.com/2f0b18d4-1c61-4213-9b07-d3a099e25395.png",
       "gameplay": "https://www.youtube.com/watch?v=kry9g0Shw8M",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u",
       "url": "https://archive.org/download/psx-chd-roms-m/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.chd"
@@ -268,8 +268,8 @@
       "title": "Parasite Eve",
       "system": "ps1",
       "fileName": "Parasite Eve (USA).pbp",
-      "cover": "https://images.launchbox-app.com//963606f1-945f-441e-bda1-345bf3e7d541.png",
-      "disc": "https://images.launchbox-app.com//dd6d60a3-c872-46cc-bddf-989ec1ce8a7f.png",
+      "cover": "https://images.launchbox-app.com/963606f1-945f-441e-bda1-345bf3e7d541.png",
+      "disc": "https://images.launchbox-app.com/dd6d60a3-c872-46cc-bddf-989ec1ce8a7f.png",
       "manual": "https://archive.org/download/SonyPlaystationManuals/Parasite%20Eve%20%28USA%29%20%28Disc%201%29.pdf",
       "logo": "https://images.launchbox-app.com//b1ca4034-7082-4134-bfcc-f7ca5de00de0.png",
       "gameplay": "https://www.youtube.com/watch?v=UQy8AqHoWMI",
