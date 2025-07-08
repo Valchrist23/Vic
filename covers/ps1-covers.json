@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "3Xtreme",
       "system": "ps1",
@@ -324,5 +323,5 @@
       "soundtrack": null,
       "url": "https://archive.org/download/chd_psx/CHD-PSX-USA/Silent%20Hill%20%28USA%29.chd"
      }
-   ]
-}
+]
+
