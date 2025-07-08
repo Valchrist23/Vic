@@ -376,8 +376,9 @@
       "manual": "null",
       "logo": "https://images.launchbox-app.com/175dd291-9665-4503-b8a6-55d1be95a9d7.png",
       "gameplay": "https://www.youtube.com/watch?v=0romDUXz4Fg",
-      "url":"https://archive.org/download/famicomnes-games/Gradius%28J%29.zip",
-      "soundtrack": "null"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/gradius.m3u",
+      "url":"https://archive.org/download/famicomnes-games/Gradius%28J%29.zip"
+      
     },
     {
       "title": "Graduis 2",
