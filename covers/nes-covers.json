@@ -373,7 +373,7 @@
       "fileName": "Gradius(J).zip",
       "cover": "https://images.launchbox-app.com/49384b6e-15df-481f-8fe8-1049f3e993c2.png",
       "disc": "https://images.launchbox-app.com/25aacd80-3965-44a7-ad66-0d7081718b32.png",
-      "manual": "null",
+      "manual": "https://archive.org/download/NESManuals/Gradius%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/175dd291-9665-4503-b8a6-55d1be95a9d7.png",
       "gameplay": "https://www.youtube.com/watch?v=0romDUXz4Fg",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/gradius.m3u",
@@ -428,6 +428,19 @@
       "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Snake%27s%20Revenge%20%28USA%29.zip"
     },
     {
+      "title": "Metal Mech - Man & Machine",
+      "system": "nes",
+      "fileName": "Metal Mech - Man & Machine (USA).zip",
+      "cover": "https://images.launchbox-app.com/4151fe5a-0c26-4ce1-a724-f98231b18e79.png",
+      "disc": "https://images.launchbox-app.com/5e258540-901b-4aa4-b8b2-66b129850a7b.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//73cb706a-aab5-4ab3-9044-cd58d1bbd3d8.png",
+      "gameplay": "https://www.youtube.com/watch?v=NJPVTylzt80",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/snakesrevenge.m3u",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.zip"
+    },
+    
+    {   
       "title": "Super Robin Hood",
       "system": "nes",
       "fileName": "Super.Robin.Hood.zip",
