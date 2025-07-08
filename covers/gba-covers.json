@@ -1,5 +1,4 @@
-{
-  "games": [
+[
      {
       "title": "Castlevania - Circle of the Moon",
       "system": "gba",
@@ -21,7 +20,7 @@
       "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
       "logo": "https://images.launchbox-app.com//9e11fc8f-6df7-4ceb-ac9d-f09c20ffca98.png",
       "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
       "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Castlevania%20-%20Aria%20of%20Sorrow.zip"
      }, 
     {
@@ -30,7 +29,7 @@
       "fileName": "Double Dragon Advance.zip",
       "cover": "https://images.launchbox-app.com//e253801e-f6c9-4d1c-888d-cb57bf32a048.png",
       "disc": "https://images.launchbox-app.com//e4fb40bc-8dad-4345-aa10-9b65b026acb1.png",
-      "manual": "null",
+      "manual": null,
       "logo": "https://images.launchbox-app.com//4a09c230-dfb2-4e83-a688-cbd016392aa9.png",
       "gameplay": null,
       "soundtrack": null,
@@ -60,5 +59,5 @@
       "soundtrack": null,
       "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Gradius%20Galaxies.zip"
      }    
-  ]
-}
+]
+
