@@ -423,8 +423,8 @@
       "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//ad48e28e-6c30-4ffd-8bc4-21f75f4061ef.png",
       "gameplay": "https://www.youtube.com/watch?v=NJPVTylzt80",
-      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Snake%27s%20Revenge%20%28USA%29.zip",
-      "soundtrack": "null"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/snakesrevenge.m3u",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Snake%27s%20Revenge%20%28USA%29.zip"
     },
     {
       "title": "Super Robin Hood",
