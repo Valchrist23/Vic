@@ -95,7 +95,19 @@
       "gameplay": "https://www.youtube.com/watch?v=vaEMpf-9Z7s",
       "soundtrack": null,
       "url": "https://archive.org/download/psx-chd-roms-d/Dino%20Crisis%202%20%28USA%29.chd"
-    },            
+    },
+    {
+      "title": "Ehrgeiz - God Bless the Ring",
+      "system": "ps1",
+      "fileName": "Ehrgeiz - God Bless the Ring (USA).chd",
+      "cover": "https://images.launchbox-app.com//16030828-46c4-48f9-ae67-327b01708e45.png",
+      "disc": "https://images.launchbox-app.com//ecc2534e-4877-42a2-b178-02d78defdd2c.png",
+      "manual": "https://archive.org/download/SonyPlaystationManuals/Ehrgeiz%20-%20God%20Bless%20the%20Ring%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//331e0af7-a7ae-4744-98e1-d02d717d9caf.png",
+      "gameplay": "https://www.youtube.com/watch?v=IDo1I80NrYo",
+      "soundtrack": null,
+      "url": "https://archive.org/download/final-fantasy-viii-usa_202507/Ehrgeiz%20-%20God%20Bless%20the%20Ring%20%28USA%29.chd"
+    }, 
     {
       "title": "Final Fantasy VII",
       "system": "ps1",
