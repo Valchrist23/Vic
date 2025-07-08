@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "Castlevania Legacy Of Darkness",
       "system": "n64",
@@ -21,7 +20,8 @@
       "manual": "https://archive.org/download/Nintendo64Manuals_201812/F-Zero%20X%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
       "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": null,
     },
     {
       "title": "Super Smash Bros.",
@@ -35,7 +35,7 @@
       "soundtrack": null,
       "url": "https://archive.org/download/resident-evil-2-usa-rev-a/Super%20Smash%20Bros.%20%28USA%29.zip"
     } 
-  ]
-}
+]
+
 
 
