@@ -411,8 +411,8 @@
       "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/f936cb55-21e1-4fac-8a26-f778433869e0.png",
       "gameplay": "https://www.youtube.com/watch?v=NJPVTylzt80",
-      "url":"https://archive.org/download/action-52-usa-rev-a-unl_202306/Metal%20Gear%20%28USA%29.zip/Metal%20Gear%20%28USA%29.nes",
-      "soundtrack": null
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearnes.m3u",
+      "url":"https://archive.org/download/action-52-usa-rev-a-unl_202306/Metal%20Gear%20%28USA%29.zip/Metal%20Gear%20%28USA%29.nes"
     },
     {
       "title": "Snake's Revenge",
