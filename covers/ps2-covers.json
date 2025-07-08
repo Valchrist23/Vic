@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "Marvel VS Capcom 2 New Age Of Heroes",
       "fileName": "MARVEL vs CAPCOM 2 (New Age of Heroes) (NTSC-J) ISO.iso",
@@ -20,7 +19,7 @@
       "manual": "https://archive.org/download/ps2_Chaos_Legion_USA/Chaos_Legion_USA.pdf",
       "logo": "https://images.launchbox-app.com/f0c74e30-b7b6-4e54-98a0-61992dfbe709.png",
       "gameplay": "https://www.youtube.com/watch?v=aKzXMk-Z4uo",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevanialamentof%20innocence.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanialamentof%20innocence.m3u",
       "url": "https://archive.org/download/chaos-legion-usa-en-ja-fr-es/Chaos%20Legion%20%28USA%29%20%28En%2CJa%2CFr%2CEs%29.chd"
     },
     {
@@ -32,7 +31,7 @@
       "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Castlevania-%20Lament%20of%20Innocence%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/9a4f9411-279d-48bb-815f-9abd42ba4306.png",
       "gameplay": "https://www.youtube.com/embed/-Jnal7OwIN2k",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevanialamentof%20innocence.m3u"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanialamentof%20innocence.m3u"
     },
     {
       "title": "Castlevania Curse Of Darkness",
@@ -106,5 +105,4 @@
       "soundtrack": null,
       "url": "https://www.youtube.com/watch?v=NaLilZcEME8"
     }    
-  ]
-}
+]
