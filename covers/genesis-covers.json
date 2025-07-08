@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "Aladdin",
       "system": "genesis",
@@ -42,10 +41,10 @@
       "fileName": "Alien Soldier (USA) (Virtual Console).zip",
       "cover": "https://images.launchbox-app.com//3187955d-b604-45f3-ac3d-632f86bbc3ae.png",
       "disc": "https://images.launchbox-app.com//064e08b7-fae6-4241-9b99-08b4471cece1.png",
-      "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
+      "manual": null,
       "logo": "https://images.launchbox-app.com//115af843-3592-43a4-b58a-cd03c778a3aa.png",
-      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "gameplay": null,
+      "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Alien%20Soldier%20%28USA%29%20%28Virtual%20Console%29.zip"
      },
      {
@@ -69,7 +68,7 @@
       "manual": "https://archive.org/download/SEGAGenesisMegaDriveManuals/Castlevania%20-%20Bloodlines%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//292e3309-7c94-459a-9ac6-86d2cbec379d.png",
       "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Castlevania%20-%20Bloodlines%20%28USA%29.zip"
      },
     {
@@ -96,8 +95,7 @@
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Contra%20-%20Hard%20Corps%20%28USA%2C%20Korea%29.zip"
      }
-  ] 
-}
+] 
 
 
 
