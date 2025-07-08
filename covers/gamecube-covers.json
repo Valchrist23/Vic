@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "Resident Evil Zero (Disc 1)",
       "system": "gamecube",
@@ -32,9 +31,9 @@
       "disc": "https://images.launchbox-app.com//55b9e483-f7ef-4cf7-a4a9-02894e67a654.png",
       "manual": null,
       "logo": "https://images.launchbox-app.com//cd896f74-6dab-42aa-85e7-e8fb4d11cb1c.png",
-      "gameplay": "null",
-      "soundtrack": "null",
+      "gameplay": null,
+      "soundtrack": null,
       "url": "https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/TMNT%20%28USA%29.iso"
     } 
-  ]
-}
+]
+
