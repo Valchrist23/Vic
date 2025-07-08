@@ -53,11 +53,14 @@ pcecd/syscard2.pce|https://github.com/Abdess/retroarch_system/blob/libretro/NEC%
 pcecd/syscard2u.pce|https://github.com/Abdess/retroarch_system/blob/libretro/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016%20-%20SuperGrafx/syscard2u.pce
 pcecd/syscard3.pce|https://github.com/Abdess/retroarch_system/blob/libretro/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016%20-%20SuperGrafx/syscard3.pce
 pcecd/syscard3u.pce|https://github.com/Abdess/retroarch_system/blob/libretro/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016%20-%20SuperGrafx/syscard3u.pce
-ps1/scph5000.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sony%20-%20PlayStation/scph5000.bin
-ps1/scph5500.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sony%20-%20PlayStation/scph5500.bin
+ps1/scph5000.bin|https://archive.org/download/ps1-2-BIOS/SCPH5000.BIN
+ps1/scph5500.bin|https://archive.org/download/ps1-2-BIOS/SCPH5500.BIN
 ps1/scph5501.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sony%20-%20PlayStation/scph5501.bin
-ps1/scph5502.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sony%20-%20PlayStation/scph5502.bin
+ps1/scph5502.bin|https://archive.org/download/ps1-2-BIOS/Scph5502.bin
 ps1/scph5552.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sony%20-%20PlayStation/scph5552.bin
+ps1/scph1001.bin|https://archive.org/download/ps1-2-BIOS/SCPH1001.BIN
+ps1/scph7001.bin|https://archive.org/download/ps1-2-BIOS/SCPH7001.BIN
+ps1/scph7003.bin|https://archive.org/download/ps1-2-BIOS/Scph7003.bin
 ps2/Play%20Station%202%20Bios.zip|https://archive.org/download/PlayStation2Bios/Play%20Station%202%20Bios.zip
 psp/ppge_atlas.zim|https://github.com/Abdess/retroarch_system/blob/libretro/Sony%20-%20PlayStation%20Portable/ppge_atlas.zim
 genesis/areplay.bin|https://github.com/Abdess/retroarch_system/blob/libretro/Sega%20-%20Mega%20Drive%20-%20Genesis/areplay.bin
@@ -87,6 +90,12 @@ ps2/pcsx2/bios/SCPH-10000_BIOS_V1_JAP_100.NVM|https://archive.org/download/scph1
 ps2/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.BIN|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.BIN
 ps2/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.MEC|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.MEC
 ps2/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.NVM|https://archive.org/download/scph10000_202507/pcsx2/bios/SCPH-30004R_BIOS_V6_EUR_160.NVM
+ps2/SCPH-30000_BIOS_V4_JAP_150.BIN|https://archive.org/download/ps1-2-BIOS/Playstation%202%20BIOS%20Collection/SCPH-30000_BIOS_V4_JAP_150_%28NTSC%29/SCPH-30000_BIOS_V4_JAP_150.BIN
+ps2/SCPH-30000_BIOS_V4_JAP_150.EROM|https://archive.org/download/ps1-2-BIOS/Playstation%202%20BIOS%20Collection/SCPH-30000_BIOS_V4_JAP_150_%28NTSC%29/SCPH-30000_BIOS_V4_JAP_150.EROM
+ps2/SCPH-30000_BIOS_V4_JAP_150.MEC|https://archive.org/download/ps1-2-BIOS/Playstation%202%20BIOS%20Collection/SCPH-30000_BIOS_V4_JAP_150_%28NTSC%29/SCPH-30000_BIOS_V4_JAP_150.MEC
+ps2/SCPH-30000_BIOS_V4_JAP_150.NVM|https://archive.org/download/ps1-2-BIOS/Playstation%202%20BIOS%20Collection/SCPH-30000_BIOS_V4_JAP_150_%28NTSC%29/SCPH-30000_BIOS_V4_JAP_150.NVM
+ps2/SCPH-30000_BIOS_V4_JAP_150.ROM1|https://archive.org/download/ps1-2-BIOS/Playstation%202%20BIOS%20Collection/SCPH-30000_BIOS_V4_JAP_150_%28NTSC%29/SCPH-30000_BIOS_V4_JAP_150.ROM1
+ps2/SCPH-30000_BIOS_V4_JAP_150.ROM2|https://archive.org/download/ps1-2-BIOS/Playstation%202%20BIOS%20Collection/SCPH-30000_BIOS_V4_JAP_150_%28NTSC%29/SCPH-30000_BIOS_V4_JAP_150.ROM2
 ps2/pcsx2/resources/GameIndex.yaml|https://archive.org/download/scph10000_202507/pcsx2/resources/GameIndex.yaml
 ps2/pcsx2/resources/LRPS2.zip|https://archive.org/download/scph10000_202507/pcsx2/resources/LRPS2.zip
 
