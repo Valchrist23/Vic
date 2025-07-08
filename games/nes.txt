@@ -34,6 +34,7 @@ Gradius 2|https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip
 Gyruss|https://archive.org/download/famicomnes-games/Gyruss.zip
 Metal Gear|https://archive.org/download/action-52-usa-rev-a-unl_202306/Metal%20Gear%20%28USA%29.zip/Metal%20Gear%20%28USA%29.nes
 Snake's Revenge (USA)|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Snake%27s%20Revenge%20%28USA%29.zip
+Metal Mech - Man & Machine|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.zip
 Star Wars|https://archive.org/download/famicomnes-games/Star.Wars%28Namco%29%28J%29.zip
 Star Wars Victor|https://archive.org/download/famicomnes-games/Star.Wars%28Victor%29%28J%29.zip
 Street Fighter 2010 - The Final Fight|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Street%20Fighter%202010%20-%20The%20Final%20Fight%20%28USA%29.zip
