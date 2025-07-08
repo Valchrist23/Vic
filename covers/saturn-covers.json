@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan Version)",
       "system": "saturn",
@@ -30,7 +29,7 @@
       "fileName": "Guardian Heroes (USA).chd",
       "cover": "https://images.launchbox-app.com//1ba09677-16d3-4068-863b-68d72fce6856.png",
       "disc": "https://images.launchbox-app.com//3ec9c272-70cb-4534-ab15-e083343f7322.png",
-      "manual": "null",
+      "manual": null,
       "logo": "https://images.launchbox-app.com//b0a27183-e570-43f2-bed1-59a23e96e0d4.png",
       "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
@@ -42,7 +41,7 @@
       "fileName": "Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1)",
       "cover": "https://images.launchbox-app.com//1a662a61-d588-4f84-90b0-8a8af68d694c.png",
       "disc": "https://images.launchbox-app.com//772d1d2d-9cdf-4491-be55-db1a10d3bca9.png",
-      "manual": "null",
+      "manual": null,
       "logo": "https://images.launchbox-app.com//94478a14-240f-48d4-b14c-d8896d1c7139.png",
       "gameplay": null,
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
@@ -54,10 +53,10 @@
       "fileName": "Magic Knight Rayearth (USA).chd",
       "cover": "https://images.launchbox-app.com/0187c42d-55d6-4a0d-a81f-253190ce1362.png",
       "disc": "https://images.launchbox-app.com//539ecd97-a086-407d-a84b-b4634746731a.png",
-      "manual": "null",
+      "manual": null,
       "logo": "https://images.launchbox-app.com//d04eb2b4-fbb5-4040-9518-264d13d65742.png",
       "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
+      "soundtrack": null,
       "url": "https://archive.org/download/chd_saturn/CHD-Saturn/USA/Magic%20Knight%20Rayearth%20%28USA%29.chd"
      },
      {
@@ -81,8 +80,8 @@
       "manual": "https://archive.org/download/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color/Akumajou_Dracula_X_Gekka_No_Yasoukyoku_1998_J_color.pdf",
       "logo": "https://images.launchbox-app.com//7c90aa24-b413-443a-920a-7b1b5e1ee948.png",
       "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "soundtrack": null,
       "url": "https://archive.org/download/samurai-shodown-vi-usa/Steam%20Hearts%20%28J%29.chd"
      }
-  ]          
-}
+]          
+
