@@ -7,7 +7,7 @@
       "disc": "https://images.launchbox-app.com/5d34995c-f0c4-4d9c-bdff-b23d273e4ed8.png",
       "manual": "https://archive.org/download/NESManuals/Adventures%20in%20the%20Magic%20Kingdom%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//13f96aa2-bae9-4f15-8ec2-8a8e5cabee01.png",
-      "gameplay": "null",
+      "gameplay": null,
       "soundtrack": null,
       "url":"https://archive.org/download/famicomnes-games/Adventures.In.The.Magic.Kingdom.zip"
     },
@@ -173,7 +173,7 @@
       "logo": "https://images.launchbox-app.com/940b085b-587b-4fd5-9101-62cc74908c60.png",
       "gameplay": "https://www.youtube.com/watch?v=otDJdmNB0l4",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanianes.m3u",
-      "url": ""
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20%28USA%29.zip"
     },
     {
       "title": "Castlevania II - Simon's Quest (USA)",
@@ -256,8 +256,8 @@
       "manual": "https://archive.org/download/NESManuals/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/62f2cc87-f7b4-47fe-9ab0-51a8c09df8d2.png",
       "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg",
-      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip",
-      "soundtrack": "null"
+      "soundtrack": null,
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip"
     },
     {
       "title": "DuckTales",
@@ -268,8 +268,8 @@
       "manual": "https://archive.org/download/NESManuals/DuckTales%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/203fbffd-51f5-480a-bb06-229617a2ec58.png",
       "gameplay": "https://www.youtube.com/watch?v=sKyspid6bNE",
-      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/DuckTales%20%28USA%29.zip",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/ducktales.m3u"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/ducktales.m3u",
+      "url":"https://archive.org/download/star-wars-the-empire-strikes-back-usa/DuckTales%20%28USA%29.zip"
     },
     {
       "title": "DuckTales 2",
@@ -376,7 +376,6 @@
       "gameplay": "https://www.youtube.com/watch?v=0romDUXz4Fg",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/gradius.m3u",
       "url":"https://archive.org/download/famicomnes-games/Gradius%28J%29.zip"
-      
     },
     {
       "title": "Graduis 2",
