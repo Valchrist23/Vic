@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "Castlevania Rondo Of Blood",
       "system": "pcecd",
@@ -23,5 +22,5 @@
       "gameplay": "https://www.youtube.com/watch?v=fGoloG3NQqQ",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/lordsofthunderpcengine.m3u"
     }    
-  ]
-}
+]
+
