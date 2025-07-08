@@ -1,5 +1,4 @@
-{
-  "games": [       
+[       
     {
       "title": "Cannon Spike",
       "system": "dreamcast",
@@ -218,4 +217,3 @@
       "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/xenocrisis.cdi"
     }
  ]
-}
