@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "Castlevania Rondo Of Blood",
       "system": "pcecd",
@@ -9,7 +8,7 @@
       "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
       "logo": "https://images.launchbox-app.com/aa96206f-a024-424d-b25f-144e78c7d276.png",
       "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
       "url": "https://archive.org/download/nec-turbografx-cd-champion-collection/NEC%20TurboGrafx-CD%20Champion%20Collection%204-L.zip/Akumajou%20Dracula%20X%20-%20Chi%20No%20Rondo%20%28English%20Translated%20With%20PSP%20Audio%20Patch%2C%20Rev%201.01%2C%20by%20Shortfilms.tk%20and%20Burnt%20Lasagna%29.chd"
     },
     {
@@ -21,8 +20,8 @@
       "manual": "https://archive.org/download/Nintendo64Manuals_201812/F-Zero%20X%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/2c536f64-a9e1-4d78-b597-9f6bc83e051e.png",
       "gameplay": "https://www.youtube.com/watch?v=fGoloG3NQqQ",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/lordsofthunderpcengine.m3u"
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/lordsofthunderpcengine.m3u"
     }    
-  ]
-}
+]
+
 
