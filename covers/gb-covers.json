@@ -1,5 +1,4 @@
-{
-  "games": [
+[
     {
       "title": "Castlevania II Belmonts Revenge",
       "system": "gb",
@@ -24,5 +23,5 @@
       "soundtrack": null,
       "url": "https://www.youtube.com/watch?v=fGoloG3NQqQ"
     }    
-  ]
-}
+]
+
