@@ -55,7 +55,8 @@
       "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Metal%20Gear%20Solid%202-%20Substance%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/ff45c599-2ef1-4c92-b73a-cc3dca7e0409.png",
       "gameplay": "https://www.youtube.com/watch?v=eBXHCkJQbjw",
-      "soundtrack": "null"
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=eBXHCkJQbjw"
     },
     {
       "title": "Metal Gear Solid 3 Subsistance",
@@ -66,7 +67,8 @@
       "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Metal%20Gear%20Solid%203-%20Subsistence%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png",
       "gameplay": "https://www.youtube.com/watch?v=N6ZSAPD4SL8",
-      "soundtrack": "null"
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=N6ZSAPD4SL8"
     },
     {
       "title": "The Prince Of Persia The Sands Of Time",
@@ -77,7 +79,8 @@
       "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20The%20Sands%20of%20Time%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/deb14a70-1b3e-47b1-a1a9-02939773097f.png",
       "gameplay": "https://www.youtube.com/watch?v=DS9VyArmIJ8",
-      "soundtrack": "null"
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=DS9VyArmIJ8"
     },
     {
       "title": "The Prince Of Persia Warrior Within",
@@ -88,7 +91,8 @@
       "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20Warrior%20Within%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/cac7b0b3-12fa-4700-a69f-13c46635c95c.png",
       "gameplay": "https://www.youtube.com/watch?v=0ioxqzixQjI",
-      "soundtrack": "null"
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=0ioxqzixQjI"
     },
     {
       "title": "The Prince Of Persia The Two Thrones",
@@ -99,7 +103,8 @@
       "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20The%20Two%20Thrones%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com/4cf5a70e-db46-4a7a-a02c-63740d210758.png",
       "gameplay": "https://www.youtube.com/watch?v=NaLilZcEME8",
-      "soundtrack": "null"
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=NaLilZcEME8"
     }    
   ]
 }
