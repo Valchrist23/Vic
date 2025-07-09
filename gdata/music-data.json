@@ -1,0 +1,19 @@
+{
+  "albums": [
+    {
+      "title": "ActRaiser OST",
+      "cover": "https://example.com/actraiser.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/actraiser.m3u"
+    },
+    {
+      "title": "Final Fantasy VII",
+      "cover": "https://example.com/ff7.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/ff7.m3u"
+    },
+    {
+      "title": "Chrono Trigger",
+      "cover": "https://example.com/chrono.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chrono.m3u"
+    }
+  ]
+}
