@@ -1,0 +1,110 @@
+{
+  "games":[
+    {
+      "title": "Marvel VS Capcom 2 New Age Of Heroes",
+      "fileName": "MARVEL vs CAPCOM 2 (New Age of Heroes) (NTSC-J) ISO.iso",
+      "system": "ps2",
+      "cover": "https://images.launchbox-app.com/3428cdb3-eee2-4a09-8efc-73d8a27181ad.png",
+      "disc": "https://images.launchbox-app.com/5dc362af-5d1f-4a2b-afc8-362d3f6149a5.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Marvel%20vs.%20Capcom%202%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/29b52036-3150-4eee-9cdf-f118cecab328.png",
+      "gameplay": "https://www.youtube.com/embed/-ORhz1Ql9Vl8",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/marvelvscapcom2.m3u"
+    },      
+    {
+      "title": "Chaos Legion",
+      "system": "ps2",
+      "fileName": "Chaos Legion (USA) (En,Ja,Fr,Es).chd",
+      "cover": "https://images.launchbox-app.com/299e4833-3719-44d6-af93-a60e1b22a639.png",
+      "disc": "https://images.launchbox-app.com/f70485b0-bf86-4165-b884-7b62886d2523.png",
+      "manual": "https://archive.org/download/ps2_Chaos_Legion_USA/Chaos_Legion_USA.pdf",
+      "logo": "https://images.launchbox-app.com/f0c74e30-b7b6-4e54-98a0-61992dfbe709.png",
+      "gameplay": "https://www.youtube.com/watch?v=aKzXMk-Z4uo",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanialamentof%20innocence.m3u",
+      "url": "https://archive.org/download/chaos-legion-usa-en-ja-fr-es/Chaos%20Legion%20%28USA%29%20%28En%2CJa%2CFr%2CEs%29.chd"
+    },
+    {
+      "title": "Castlevania Lament Of Innocence",
+      "system": "ps2",
+      "fileName": "Castlevania Lament Of Innocence.chd",
+      "cover": "https://images.launchbox-app.com/1b0e65d4-9a5b-4957-acfc-058a47459c16.png",
+      "disc": "https://images.launchbox-app.com/747f4e55-e8d7-42ef-829d-00264de9fd9d.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Castlevania-%20Lament%20of%20Innocence%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/9a4f9411-279d-48bb-815f-9abd42ba4306.png",
+      "gameplay": "https://www.youtube.com/embed/-Jnal7OwIN2k",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanialamentof%20innocence.m3u"
+    },
+    {
+      "title": "Castlevania Curse Of Darkness",
+      "system": "ps2",
+      "fileName": "Castlevania - Curse of Darkness .chd",
+      "cover": "https://images.launchbox-app.com/75c222ad-1040-4d0b-a878-5908ec5790f6.png",
+      "disc": "https://images.launchbox-app.com/cda546d6-b68c-493c-98e1-ca4491d88d41.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Castlevania-%20Curse%20of%20Darkness%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/68280c8d-f717-42c1-a585-1c27d964190c.png",
+      "gameplay": "https://www.youtube.com/embed/-0KP5Fvy44c",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniacurseofdarkness.m3u",
+      "url": "https://archive.org/download/ps2chd/Castlevania%20-%20Curse%20of%20Darkness%20.chd"
+    },
+    {
+      "title": "Metal Gear Solid 2 Substance",
+      "system": "ps2",
+      "fileName": "Metal Gear Substance.chd",
+      "cover": "https://images.launchbox-app.com/4fc1d592-f58f-4b65-b0ba-721b2fe35506.png",
+      "disc": "https://images.launchbox-app.com/d9ff68ae-7126-47e3-86c0-b6b2901720bf.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Metal%20Gear%20Solid%202-%20Substance%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/ff45c599-2ef1-4c92-b73a-cc3dca7e0409.png",
+      "gameplay": "https://www.youtube.com/watch?v=eBXHCkJQbjw",
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=eBXHCkJQbjw"
+    },
+    {
+      "title": "Metal Gear Solid 3 Subsistance",
+      "system": "ps2",
+      "fileName": "Metal Gear Solid 3 Subsistance.chd",
+      "cover": "https://images.launchbox-app.com/fc75e3a8-b701-4532-85fa-e39e5e9f0487.png",
+      "disc": "https://images.launchbox-app.com/d83a8a4a-9b26-40cb-93c8-637ea4c819f7.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Metal%20Gear%20Solid%203-%20Subsistence%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png",
+      "gameplay": "https://www.youtube.com/watch?v=N6ZSAPD4SL8",
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=N6ZSAPD4SL8"
+    },
+    {
+      "title": "The Prince Of Persia The Sands Of Time",
+      "system": "ps2",
+      "fileName": "The Prince Of Persia The Sands Of Time.chd",
+      "cover": "https://images.launchbox-app.com/32840ab6-64ee-4033-9513-710937d6a5e4.png",
+      "disc": "https://images.launchbox-app.com/828c4416-5345-465a-afd5-543dc438bb09.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20The%20Sands%20of%20Time%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/deb14a70-1b3e-47b1-a1a9-02939773097f.png",
+      "gameplay": "https://www.youtube.com/watch?v=DS9VyArmIJ8",
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=DS9VyArmIJ8"
+    },
+    {
+      "title": "The Prince Of Persia Warrior Within",
+      "system": "ps2",
+      "fileName": "The Prince Of Persia Warrior Within.chd",
+      "cover": "https://images.launchbox-app.com/79e2f6f0-2a49-44e9-875e-64dbfdc1cbcb.png",
+      "disc": "https://images.launchbox-app.com/2eced448-133c-432a-a2d4-15a09be53053.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20Warrior%20Within%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/cac7b0b3-12fa-4700-a69f-13c46635c95c.png",
+      "gameplay": "https://www.youtube.com/watch?v=0ioxqzixQjI",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/princeofpersiawarriorwithin.m3u",
+      "url": "https://www.youtube.com/watch?v=0ioxqzixQjI"
+    },
+    {
+      "title": "The Prince Of Persia The Two Thrones",
+      "system": "ps2",
+      "fileName": "The Prince Of Persia The Two Thrones.chd",
+      "cover": "https://images.launchbox-app.com/6f65453b-a2d3-4ebc-a083-c606adbec0b0.png",
+      "disc": "https://images.launchbox-app.com/91f98209-9d81-42b4-890b-8c960208116c.png",
+      "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20The%20Two%20Thrones%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com/4cf5a70e-db46-4a7a-a02c-63740d210758.png",
+      "gameplay": "https://www.youtube.com/watch?v=NaLilZcEME8",
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=NaLilZcEME8"
+    }    
+]
+}
