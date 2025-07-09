@@ -1,4 +1,5 @@
-[
+{
+  "games":[
     {
       "title": "Final Fight",
       "fileName": "Final Fight CD (JP) (1993) (Beat Em Up) (CHD) (Mega CD).chd",
@@ -48,5 +49,5 @@
       "url": "https://archive.org/download/chd_segacd/CHD-SegaCD-NTSC/Snatcher%20%28USA%29.chd"
      } 
 ]
-
+}
 
