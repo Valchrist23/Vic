@@ -1,4 +1,5 @@
-[
+{
+  "games":[
     {
       "title": "Aladdin",
       "system": "genesis",
@@ -96,7 +97,7 @@
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Contra%20-%20Hard%20Corps%20%28USA%2C%20Korea%29.zip"
      }
 ] 
-
+}
 
 
 
