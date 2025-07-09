@@ -1,0 +1,28 @@
+{
+  "games":[
+    {
+      "title": "Castlevania II Belmonts Revenge",
+      "system": "gb",
+      "fileName": "Akumajou Dracula X - Chi No Rondo (English Translated With PSP Audio Patch, Rev 1.01, by Shortfilms.tk and Burnt Lasagna).chd",
+      "cover": "https://images.launchbox-app.com/027430ec-1655-4d57-a313-ee60fac18fdb.png",
+      "disc": "https://images.launchbox-app.com/1bbe0cce-0783-4939-8308-d976c96da8e9.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com/b354c405-7c21-4a98-9e2a-d1372abcf0c5.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/nec-turbografx-cd-champion-collection/NEC%20TurboGrafx-CD%20Champion%20Collection%204-L.zip/Akumajou%20Dracula%20X%20-%20Chi%20No%20Rondo%20%28English%20Translated%20With%20PSP%20Audio%20Patch%2C%20Rev%201.01%2C%20by%20Shortfilms.tk%20and%20Burnt%20Lasagna%29.chd"
+     },
+    {
+      "title": "Ninja Gaiden Shadow",
+      "system": "gb",
+      "fileName": null,
+      "cover": "https://images.launchbox-app.com/4fdb0118-c517-44c6-8aee-651224f4bdf1.png",
+      "disc": "https://images.launchbox-app.com/4a94fd14-b7a3-4c33-9193-7e270451e165.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com/52bbd8e6-9dc4-41f0-956d-b7df63e1ff96.png",
+      "gameplay": "https://www.youtube.com/watch?v=fGoloG3NQqQ",
+      "soundtrack": null,
+      "url": "https://www.youtube.com/watch?v=fGoloG3NQqQ"
+    }    
+]
+}
