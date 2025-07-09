@@ -1,4 +1,5 @@
-[
+{
+  "games":[
     {
       "title": "3 Wonders",
       "system": "fbneo",
@@ -612,4 +613,4 @@
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmen6p.7z"
      }
 ]
-
+}
