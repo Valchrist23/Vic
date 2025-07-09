@@ -1,4 +1,5 @@
-[
+{
+  "games":[
   {
     "title": "Castlevania Mirror Of Fate",
     "system": "citra",
@@ -12,3 +13,4 @@
     "url": "https://archive.org/download/nec-turbografx-cd-champion-collection/NEC%20TurboGrafx-CD%20Champion%20Collection%204-L.zip/Akumajou%20Dracula%20X%20-%20Chi%20No%20Rondo%20%28English%20Translated%20With%20PSP%20Audio%20Patch%2C%20Rev%201.01%2C%20by%20Shortfilms.tk%20and%20Burnt%20Lasagna%29.chd"
   }    
 ]
+}
