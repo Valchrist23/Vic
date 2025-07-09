@@ -1,4 +1,5 @@
-[
+{
+  "games":[
      {
       "title": "Castlevania - Circle of the Moon",
       "system": "gba",
@@ -60,4 +61,4 @@
       "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Gradius%20Galaxies.zip"
      }    
 ]
-
+}
