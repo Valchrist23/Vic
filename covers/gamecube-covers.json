@@ -1,4 +1,5 @@
-[
+{
+  "games":[
     {
       "title": "Resident Evil Zero (Disc 1)",
       "system": "gamecube",
@@ -36,4 +37,4 @@
       "url": "https://archive.org/download/efgamecubeusa/Game%20Cube%20USA/TMNT%20%28USA%29.iso"
     } 
 ]
-
+}
