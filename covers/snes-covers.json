@@ -1,4 +1,5 @@
-[
+{
+  "games":[
     {
       "title": "ActRiser",
       "system": "snes",
@@ -167,5 +168,5 @@
       "url": "https://archive.org/download/snesromsetcompleate/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28U%29%20%5B%21%5D.zip"
      }
 ]
-
+}
 
