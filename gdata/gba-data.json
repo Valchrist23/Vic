@@ -1,0 +1,64 @@
+{
+  "games":[
+     {
+      "title": "Castlevania - Circle of the Moon",
+      "system": "gba",
+      "fileName": "Castlevania - Circle of the Moon.zip",
+      "cover": "https://images.launchbox-app.com//a0c3b0c3-f258-4918-92f0-daf23bcb671f.png",
+      "disc": "https://images.launchbox-app.com//21e22717-1731-47a7-a778-5ff3ed619975.png",
+      "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
+      "logo": "https://images.launchbox-app.com//17daff93-83d8-4ec7-a021-191801868549.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Castlevania%20-%20Circle%20of%20the%20Moon.zip"
+    },
+    {
+      "title": "Castlevania - Aria of Sorrow",
+      "system": "gba",
+      "fileName": "Castlevania - Aria of Sorrow.zip",
+      "cover": "https://images.launchbox-app.com//edd7855a-4d79-46d2-acdb-15f0e90669a7.png",
+      "disc": "https://images.launchbox-app.com//e28a5596-51b4-43a9-a65f-0e742a83c874.png",
+      "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
+      "logo": "https://images.launchbox-app.com//9e11fc8f-6df7-4ceb-ac9d-f09c20ffca98.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+      "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Castlevania%20-%20Aria%20of%20Sorrow.zip"
+     }, 
+    {
+      "title": "Double Dragon Advance",
+      "system": "gba",
+      "fileName": "Double Dragon Advance.zip",
+      "cover": "https://images.launchbox-app.com//e253801e-f6c9-4d1c-888d-cb57bf32a048.png",
+      "disc": "https://images.launchbox-app.com//e4fb40bc-8dad-4345-aa10-9b65b026acb1.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//4a09c230-dfb2-4e83-a688-cbd016392aa9.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Double%20Dragon%20Advance.zip"
+     }, 
+     {
+      "title": "F-Zero Maximmum Velocity",
+      "system": "gba",
+      "fileName": "F-Zero Maximmum Velocity.zip",
+      "cover": "https://images.launchbox-app.com//85bffef5-29cd-4549-8a7b-049b096a0c16.png",
+      "disc": "https://images.launchbox-app.com//8fd78479-1238-44c9-b9a9-e2e77fd61d39.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//c192fea2-b821-4430-9f1f-427aaa056d00.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/F-Zero%20-%20Maximum%20Velocity.zip"
+     },
+    {
+      "title": "Gradius Galaxies",
+      "system": "gba",
+      "fileName": "Gradius Galaxies.zip",
+      "cover": "https://images.launchbox-app.com//abe4b846-6d06-4c03-9257-a97f6f7bfc65.png",
+      "disc": "https://images.launchbox-app.com//65070abd-5a70-46d2-94b6-d6e7b5b527fe.png",
+      "manual": "null",
+      "logo": "https://images.launchbox-app.com//04b64e72-7f8c-4aca-a48b-c95880cb7a66.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Gradius%20Galaxies.zip"
+     }    
+]
+}
