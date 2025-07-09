@@ -1,4 +1,5 @@
-[
+{
+  "games":[
     {
       "title": "Castlevania - The Dracula X Chronicles (USA)",
       "system": "psp",
@@ -12,4 +13,4 @@
       "url": "https://archive.org/download/psp-chd-zstd-redump-part1/psp-chd-zstd/Castlevania%20-%20The%20Dracula%20X%20Chronicles%20%28USA%29.chd"
      } 
 ]
-
+}
