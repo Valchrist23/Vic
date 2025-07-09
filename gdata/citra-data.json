@@ -1,0 +1,16 @@
+{
+  "games":[
+  {
+    "title": "Castlevania Mirror Of Fate",
+    "system": "citra",
+    "fileName": "Akumajou Dracula X - Chi No Rondo (English Translated With PSP Audio Patch, Rev 1.01, by Shortfilms.tk and Burnt Lasagna).chd",
+    "cover": "https://images.launchbox-app.com/ac61db5d-b611-4585-b08b-bb6fefe1898a.png",
+    "disc": "https://images.launchbox-app.com/b3c4fdc8-2f3b-4cfb-a23d-cc0b6946c310.png",
+    "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
+    "logo": "https://images.launchbox-app.com/aa96206f-a024-424d-b25f-144e78c7d276.png",
+    "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/master/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
+    "url": "https://archive.org/download/nec-turbografx-cd-champion-collection/NEC%20TurboGrafx-CD%20Champion%20Collection%204-L.zip/Akumajou%20Dracula%20X%20-%20Chi%20No%20Rondo%20%28English%20Translated%20With%20PSP%20Audio%20Patch%2C%20Rev%201.01%2C%20by%20Shortfilms.tk%20and%20Burnt%20Lasagna%29.chd"
+  }    
+]
+}
