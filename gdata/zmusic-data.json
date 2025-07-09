@@ -1,0 +1,44 @@
+{
+  "albums": [
+    {
+      "title": "ActRaiser SNES OST",
+      "cover": "https://vgmsite.com/soundtracks/actraiser/A1.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/actraiser.m3u"
+    },  
+     {
+      "title": "Castlevania Symphony Of The Night",
+      "cover": "https://kappa.vgmsite.com/soundtracks/castlevania-symphony-of-the-night/cover.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u"
+    },
+    {
+      "title": "Chrono Trigger",
+      "cover": "https://images.launchbox-app.com//74bcd30d-ade9-4564-8ca0-c7bef27f9fb5.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chronotrigger.m3u"
+    },
+    {
+      "title": "Chrono Cross",
+      "cover": "https://images.launchbox-app.com//3a651607-27d7-4697-91ca-f0b7709aac6c.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/chronotrigger.m3u"
+    },
+    {
+      "title": "Contra III Alien Wars",
+      "cover": "https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/contra3alienwars.m3u"
+    },
+    {
+      "title": "Final Fantasy VII",
+      "cover": "https://gamesdb-images.launchbox.gg/r2_ee46ba8f-79d4-424e-af04-72e569f15dd5.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/finalfantasyvii.m3u"
+    },        
+    {
+      "title": "Final Fantasy VIII",
+      "cover": "https://images.launchbox-app.com/ffa23d8d-12b2-49d0-935e-b9158e5a7f44.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/finalfantasyviii.m3u"
+    },
+    {
+      "title": "Metal Gear Solid",
+      "cover": "https://example.com/ff7.jpg",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsolidost.m3u"
+    }
+  ]
+}
