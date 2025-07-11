@@ -148,13 +148,13 @@
     {
       "title": "Castlevania",
       "system": "nes",
-      "fileName": "Castlevania| (USA).zip",
+      "fileName": "Castlevania (USA).zip",
       "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
       "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
       "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanianes.m3u",
       "url": "https://archive.org/download/action-52-usa-rev-a-unl_202306/Castlevania%20%28USA%29%20%28Rev%20A%29.zip/Castlevania%20%28USA%29%20%28Rev%20A%29.nes"
     },
     {
@@ -213,7 +213,7 @@
       "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=mvVUCQzB2hM",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Crystalis%20%28USA%29.zip"
     },
@@ -221,33 +221,159 @@
       "title": "Double Dragon",
       "system": "nes",
       "fileName": "Double Dragon (USA).zip",
-      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
-      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
-      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
-      "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "cover": "https://images.launchbox-app.com//791b0412-fc64-4605-b382-dcd23dafc0f7.png",
+      "disc": "https://images.launchbox-app.com//47dd120f-3101-4b03-ab95-5f23ba97480e.png",
+      "manual": "https://archive.org/download/NESManuals/Battletoads-Double%20Dragon%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//8f9c9fe8-9c54-4b3e-b143-c0e45cec44e2.png",
+      "gameplay": "https://www.youtube.com/watch?v=QvEXLVg55WM&t=13s",
+      "soundtrack": null,
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip"
     },
+    {
+      "title": "Double Dragon II - The Revenge",
+      "system": "nes",
+      "fileName": "Double Dragon II - The Revenge (USA).zip",
+      "cover": "https://images.launchbox-app.com//6b59b847-6fff-4f56-b44a-f7e7ce049686.png",
+      "disc": "https://images.launchbox-app.com//281de6d4-bf1d-4bdc-badf-ed0be66c7d98.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//c8f91f5e-490f-4d25-92f9-05ce19e4941d.png",
+      "gameplay": "https://www.youtube.com/watch?v=fKFCMGoKwBA",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.zip"
+    },
+    {
+      "title": "Double Dragon III - The Sacred Stones",
+      "system": "nes",
+      "fileName": "Double Dragon III - The Sacred Stones (USA).zip",
+      "cover": "https://images.launchbox-app.com//0442ccba-61d6-4d4f-a3b5-8558b171f7ab.png",
+      "disc": "https://images.launchbox-app.com//01daf2b7-be5a-44a9-8486-a24590808d59.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//62f2cc87-f7b4-47fe-9ab0-51a8c09df8d2.png",
+      "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=58s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip"
+    },
+    {
+      "title": "Ducktales",
+      "system": "nes",
+      "fileName": "Ducktales (USA).zip",
+      "cover": "https://images.launchbox-app.com//e8b4a2fc-59bc-40f5-bd5f-6b17f5781f63.png",
+      "disc": "https://images.launchbox-app.com//0eebc035-2b36-4ea4-8b97-91c8b1512766.png",
+      "manual": "https://archive.org/download/NESManuals/DuckTales%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//203fbffd-51f5-480a-bb06-229617a2ec58.png",
+      "gameplay": "https://www.youtube.com/watch?v=EP4EOlWOFiw&t=2s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/ducktalesnes.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/DuckTales%20%28USA%29.zip"
+    },
+    {
+      "title": "Ducktales 2",
+      "system": "nes",
+      "fileName": "Ductales 2 (USA).zip",
+      "cover": "https://images.launchbox-app.com//de9b457e-589c-419f-89e1-67bd21c3d370.png",
+      "disc": "https://images.launchbox-app.com//f52e5d60-920b-46a5-8204-04fc0fd690f4.png",
+      "manual": "https://archive.org/download/NESManuals/DuckTales%202%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//d4729f74-b341-473e-974e-e4a7d110867e.png",
+      "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=58s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/DuckTales%202%20%28USA%29.zip"
+    },
+    {
+      "title": "Flintstones Rescue Dino Hoppy",
+      "system": "nes",
+      "fileName": "Flintstones Rescue Dino Hoppy (USA).zip",
+      "cover": "https://images.launchbox-app.com//f9507c74-8523-4d10-b2c7-0156c3a15067.png",
+      "disc": "https://images.launchbox-app.com//ac3d8736-1b1b-420d-ac1f-71602149d00a.png",
+      "manual": "https://archive.org/download/NESManuals/DuckTales%202%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//8bcccd14-28c7-4c76-ac65-b7ed4dfb13ed.png",
+      "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=58s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Flintstones-The.Rescue.of.Dino.Hoppy.The%28J%29.zip"
+    },
+    {
+      "title": "Flying Warriors",
+      "system": "nes",
+      "fileName": "Flying Warriors (USA).zip",
+      "cover": "https://images.launchbox-app.com//06ee0f7c-66a8-4d7f-ab94-683b659b22d7.png",
+      "disc": "https://images.launchbox-app.com//bd3a6547-f8cf-4dc5-b8ee-355bbe5a5934.png",
+      "manual": "https://archive.org/download/NESManuals/Flying%20Warriors%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//79348273-9759-40eb-9caf-d9e1087ef133.png",
+      "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=58s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Flying.Warriors%28U%29.zip"
+    },
+    {
+      "title": "Friday the 13th",
+      "system": "nes",
+      "fileName": "Friday the 13th (USA).zip",
+      "cover": "https://images.launchbox-app.com//5c122750-f205-4432-9d76-f9fc16eadd6e.png",
+      "disc": "https://images.launchbox-app.com//0e0daa4f-9f2f-46fc-b5ad-0c3ea065453c.png",
+      "manual": "https://archive.org/download/NESManuals/Friday%20the%2013th%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//0213078b-8ec6-49c5-95ce-8b1b89bb8f87.png",
+      "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=58s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Friday%20the%2013th%20%28USA%29.zip"
+    },
+    {
+      "title": "G.I. Joe - A Real American Hero",
+      "system": "nes",
+      "fileName": "G.I. Joe - A Real American Hero (USA).zip",
+      "cover": "https://images.launchbox-app.com//444f4aa2-4bbd-44ac-8ce7-0ac0e3b085df.png",
+      "disc": "https://images.launchbox-app.com//ce542fe1-cf87-4f72-b55e-a91b2f5a5c50.png",
+      "manual": "https://archive.org/download/NESManuals/G.I.%20Joe%20-%20A%20Real%20American%20Hero%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//19c23202-eebb-4277-bc65-ea127129aad3.png",
+      "gameplay": "https://www.youtube.com/watch?v=ccctePkN7w4&t=178s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/G.I.%20Joe%20-%20A%20Real%20American%20Hero%20%28USA%29.zip"
+    },
+    {
+      "title": "G.I. Joe - The Atlantis Factor",
+      "system": "nes",
+      "fileName": "G.I. Joe - The Atlantis Factor (USA).zip",
+      "cover": "https://images.launchbox-app.com//444f4aa2-4bbd-44ac-8ce7-0ac0e3b085df.png",
+      "disc": "https://images.launchbox-app.com//ce542fe1-cf87-4f72-b55e-a91b2f5a5c50.png",
+      "manual": "https://archive.org/download/NESManuals/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//19c23202-eebb-4277-bc65-ea127129aad3.png",
+      "gameplay": "https://www.youtube.com/watch?v=IviUp3Me5K8&t=35s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.zip"
+    },
+    {
+      "title": "Hook",
+      "system": "nes",
+      "fileName": "Hook (USA).zip",
+      "cover": "https://images.launchbox-app.com//111d407f-d54d-465e-96b9-833d458bc79a.png",
+      "disc": "https://images.launchbox-app.com//a1495f8a-8964-432e-8a8c-93671c51db37.png",
+      "manual": "https://archive.org/download/NESManuals/Hook%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//31a9cadc-0854-47f9-bf05-6578e5828f9e.png",
+      "gameplay": "https://www.youtube.com/watch?v=ih3ESrufzZ0",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Hook%20%28USA%29.zip"
+    },
+    {
+      "title": "Gyruss",
+      "system": "nes",
+      "fileName": "Gyruss.zip",
+      "cover": "https://images.launchbox-app.com//ab1ade72-9e00-45e2-a384-8fd9eea4ce0e.png",
+      "disc": "https://images.launchbox-app.com//14cf1188-a746-46fc-8d9a-25ece201f651.png",
+      "manual": "https://archive.org/download/NESManuals/Gyruss%20%28USA%29.pdf",
+      "logo": "https://gamesdb-images.launchbox.gg/r2_2c6e5673-5cbc-4a98-8eb2-1c4c0713cff3.png",
+      "gameplay": "https://www.youtube.com/watch?v=bNqmS2MHKsw",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Gyruss.zip"
+    },
+    
     
 ]
 }    
 
-Double Dragon II - The Revenge|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.zip
-Double Dragon III - The Sacred Stones|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip
 Double Dragon 4|https://archive.org/download/famicomnes-games/Double.Dragon.4%28J%29.zip
-Ducktales 2|https://archive.org/download/famicomnes-games/Duck.Tales.2%28J%29.zip
+
 Festers Quest|https://archive.org/download/famicomnes-games/Fester.s.Quest.zip
-Flintstones Rescue Dino Hoppy|https://archive.org/download/famicomnes-games/Flintstones-The.Rescue.of.Dino.Hoppy.The%28J%29.zip
-Flying Warriors|https://archive.org/download/famicomnes-games/Flying.Warriors%28U%29.zip
-Friday the 13th|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Friday%20the%2013th%20%28USA%29.zip
-G.I. Joe - A Real American Hero|https://archive.org/download/star-wars-the-empire-strikes-back-usa/G.I.%20Joe%20-%20A%20Real%20American%20Hero%20%28USA%29.zip
-G.I. Joe - The Atlantis Factor|https://archive.org/download/star-wars-the-empire-strikes-back-usa/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.zip
-Goonies|https://archive.org/download/famicomnes-games/Goonies.The%28J%29.zip
-Goonies 2|https://archive.org/download/famicomnes-games/Goonies.2-Furatterii.Saigo.No.Chousen%28J%29.zip
+
+
 Gradius|https://archive.org/download/famicomnes-games/Gradius%28J%29.zip
 Gradius 2|https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip
-Gyruss|https://archive.org/download/famicomnes-games/Gyruss.zip
+
 Metal Gear|https://archive.org/download/action-52-usa-rev-a-unl_202306/Metal%20Gear%20%28USA%29.zip/Metal%20Gear%20%28USA%29.nes
 Snake's Revenge (USA)|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Snake%27s%20Revenge%20%28USA%29.zip
 Metal Mech - Man & Machine|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.zip
