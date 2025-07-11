@@ -14,6 +14,42 @@
       "url": "https://archive.org/download/famicomnes-games/Adventures.In.The.Magic.Kingdom.zip"
     },
     {
+      "title": "Back To The Future",
+      "system": "nes",
+      "fileName": "Back to the Future (USA).zip",
+      "cover": "https://images.launchbox-app.com//01f6c8b7-0c56-4230-8518-a0ae20bf18ee.png",
+      "disc": "https://images.launchbox-app.com//078e48be-8d06-4dcf-ba08-b88d986ce41c.png",
+      "manual": "https://archive.org/download/Nintendo64Manuals_201812/F-Zero%20X%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//31fd2ce6-f4ef-49ce-9a13-37918a518db0.png",
+      "gameplay": "https://www.youtube.com/watch?v=4UajYfhMdOM",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Back%20to%20the%20Future%20%28USA%29.zip"
+    },
+    {
+      "title": "Back To The Future II & III",
+      "system": "nes",
+      "fileName": "Back to the Future Part II & III (USA).zip",
+      "cover": "https://images.launchbox-app.com//9a0e4a7b-afd6-456f-b03f-1839aa7ff69a.png",
+      "disc": "https://images.launchbox-app.com//d3f60ed3-8342-4ae2-b258-840d16e59021.png",
+      "manual": "https://archive.org/download/Nintendo64Manuals_201812/F-Zero%20X%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//96564b41-20fe-4426-b42a-1dd913a034e0.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Back%20to%20the%20Future%20Part%20II%20%26%20III%20%28USA%29.zip"
+    },
+    {
+      "title": "Bionic Commando",
+      "system": "nes",
+      "fileName": "BIONIC.C.zip",
+      "cover": "https://images.launchbox-app.com//42e45243-956f-4915-8138-8f33be555785.png",
+      "disc": "https://images.launchbox-app.com//abf0dbb1-26d8-4e48-bff3-2c77d156c2b5.png",
+      "manual": "https://dn790008.ca.archive.org/0/items/NESManuals/Bionic%20Commando%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//ce67e7e3-59c0-4704-af4b-0c51b146a928.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/BIONIC.C.zip"
+    },
+    {
       "title": "BADDUDES",
       "system": "nes",
       "fileName": "BADDUDES.zip",
@@ -26,42 +62,177 @@
       "url": "https://archive.org/download/famicomnes-games/BADDUDES.zip"
     },
     {
-      "title": "Super Smash Bros.",
-      "system": "n64",
-      "fileName": "Super Smash Bros. (USA).zip",
-      "cover": "https://images.launchbox-app.com/8ead0ec0-5358-4008-87fb-a2d807290558.png",
-      "disc": "https://images.launchbox-app.com/c4146a83-368b-446d-abf0-46b2ea56d5cb.png",
-      "manual": "https://archive.org/download/Nintendo64Manuals_201812/Super%20Smash%20Bros.%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com/4a10749a-17b8-45e0-b003-1dcec42bf6a9.png",
+      "title": "Batman - The Video Game",
+      "system": "nes",
+      "fileName": "Batman - The Video Game (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
       "gameplay": null,
-      "soundtrack": null,
-      "url": "https://archive.org/download/resident-evil-2-usa-rev-a/Super%20Smash%20Bros.%20%28USA%29.zip"
-    } 
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20-%20The%20Video%20Game%20%28USA%29.zip"
+    },
+    {
+      "title": "Batman - Return of the Joker",
+      "system": "nes",
+      "fileName": "Batman - Return of the Joker (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20-%20Return%20of%20the%20Joker%20%28USA%29.zip"
+    },
+    {
+      "title": "Batman Returns",
+      "system": "nes",
+      "fileName": "Batman Returns (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20Returns%20%28USA%29.zip"
+    },
+    {
+      "title": "Battletoads-Double Dragon",
+      "system": "nes",
+      "fileName": "Battletoads-Double Dragon (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Battletoads-Double%20Dragon%20%28USA%29.zip"
+    },
+    {
+      "title": "Bucky O Hare",
+      "system": "nes",
+      "fileName": "Bucky O Hare (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Bucky%20O%27Hare%20%28USA%29.zip"
+    },
+    {
+      "title": "Captain America and the Avengers",
+      "system": "nes",
+      "fileName": "Captain America and the Avengers (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Captain%20America%20and%20the%20Avengers%20%28USA%29.zip"
+    },
+    {
+      "title": "Captain Skyhawk",
+      "system": "nes",
+      "fileName": "Captain Skyhawk (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Captain%20Skyhawk%20%28USA%29.zip"
+    },
+    {
+      "title": "Castlevania",
+      "system": "nes",
+      "fileName": "Castlevania| (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/action-52-usa-rev-a-unl_202306/Castlevania%20%28USA%29%20%28Rev%20A%29.zip/Castlevania%20%28USA%29%20%28Rev%20A%29.nes"
+    },
+    {
+      "title": "Castlevania II - Simon's Quest",
+      "system": "nes",
+      "fileName": "Castlevania II - Simon's Quest (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.zip"
+    },
+    {
+      "title": "Castlevania III - Dracula's Curse",
+      "system": "nes",
+      "fileName": "Castlevania III - Dracula's Curse (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.zip"
+    },
+    {
+      "title": "Contra",
+      "system": "nes",
+      "fileName": "Contra (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Contra%20%28USA%29.zip"
+    },
+    {
+      "title": "Super C",
+      "system": "nes",
+      "fileName": "Super C (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20C%20%28USA%29.zip"
+    },
+    {
+      "title": "Crystalis",
+      "system": "nes",
+      "fileName": "Crystalis (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Crystalis%20%28USA%29.zip"
+    },
+    {
+      "title": "Double Dragon",
+      "system": "nes",
+      "fileName": "Double Dragon (USA).zip",
+      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
+      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip"
+    },
+    
 ]
 }    
 
-
-
-
-
-
-Bionic Commando|https://archive.org/download/famicomnes-games/BIONIC.C.zip
-Back to the Future|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Back%20to%20the%20Future%20%28USA%29.zip
-Back to the Future Part II & III|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Back%20to%20the%20Future%20Part%20II%20%26%20III%20%28USA%29.zip
-Batman - The Video Game|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20-%20The%20Video%20Game%20%28USA%29.zip
-Batman - Return of the Joker|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20-%20Return%20of%20the%20Joker%20%28USA%29.zip
-Batman Returns|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20Returns%20%28USA%29.zip
-Battletoads-Double Dragon|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Battletoads-Double%20Dragon%20%28USA%29.zip
-Bucky O Hare|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Bucky%20O%27Hare%20%28USA%29.zip
-Captain America and the Avengers|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Captain%20America%20and%20the%20Avengers%20%28USA%29.zip
-Captain Skyhawk|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Captain%20Skyhawk%20%28USA%29.zip
-Castlevania|https://archive.org/download/action-52-usa-rev-a-unl_202306/Castlevania%20%28USA%29%20%28Rev%20A%29.zip/Castlevania%20%28USA%29%20%28Rev%20A%29.nes
-Castlevania II - Simon's Quest|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.zip
-Castlevania III - Dracula's Curse|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.zip
-Contra|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Contra%20%28USA%29.zip
-Super C|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20C%20%28USA%29.zip
-Crystalis|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Crystalis%20%28USA%29.zip
-Double Dragon|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip
 Double Dragon II - The Revenge|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.zip
 Double Dragon III - The Sacred Stones|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip
 Double Dragon 4|https://archive.org/download/famicomnes-games/Double.Dragon.4%28J%29.zip
