@@ -1,11 +1,11 @@
 {
   "games":[
     {
-      "title": "Castlevania - The Dracula X Chronicles (USA)",
-      "system": "psp",
-      "fileName": "Castlevania - The Dracula X Chronicles (USA)",
-      "cover": "https://images.launchbox-app.com//35cb2c9b-c371-4a37-8abc-865cf2f5fb6c.png",
-      "disc": "https://images.launchbox-app.com//898fa056-cef5-4a55-8747-c927eb11784a.png",
+      "title": "Vampire Killer (USA)",
+      "system": "msx",
+      "fileName": "Vampire Killer (USA).rom",
+      "cover": "https://images.launchbox-app.com/b888c76b-de16-4c39-93aa-e33de72ea597.png",
+      "disc": "https://images.launchbox-app.com//63ab3676-ef94-410b-9867-8becbb335fde.jpg",
       "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
       "logo": "https://images.launchbox-app.com//7b0b7d63-d6e8-4c57-9fc7-ca49bc12d49d.png",
       "gameplay": null,
