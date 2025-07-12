@@ -30,7 +30,7 @@ G.I. Joe - A Real American Hero|https://archive.org/download/star-wars-the-empir
 G.I. Joe - The Atlantis Factor|https://archive.org/download/star-wars-the-empire-strikes-back-usa/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.zip/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.nes
 Goonies|https://archive.org/download/famicomnes-games/Goonies.The%28J%29.zip
 Goonies 2|https://archive.org/download/famicomnes-games/Goonies.2-Furatterii.Saigo.No.Chousen%28J%29.zip
-Gradius|https://archive.org/download/famicomnes-games/Gradius%28J%29.zip
+Gradius|https://archive.org/download/famicomnes-games/Gradius%28J%29.zip/Gradius%20%28J%29.nes
 Gradius 2|https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip
 Gyruss|https://archive.org/download/famicomnes-games/Gyruss.zip
 Hook|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Hook%20%28USA%29.zip/Hook%20%28USA%29.nes
