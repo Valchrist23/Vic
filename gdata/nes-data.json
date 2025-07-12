@@ -338,16 +338,16 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.zip"
     },
     {
-      "title": "Hook",
+      "title": "Gradius",
       "system": "nes",
-      "fileName": "Hook (USA).zip",
-      "cover": "https://images.launchbox-app.com//111d407f-d54d-465e-96b9-833d458bc79a.png",
-      "disc": "https://images.launchbox-app.com//a1495f8a-8964-432e-8a8c-93671c51db37.png",
-      "manual": "https://archive.org/download/NESManuals/Hook%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//31a9cadc-0854-47f9-bf05-6578e5828f9e.png",
-      "gameplay": "https://www.youtube.com/watch?v=ih3ESrufzZ0",
+      "fileName": "Gradius.zip",
+      "cover": "https://images.launchbox-app.com//49384b6e-15df-481f-8fe8-1049f3e993c2.png",
+      "disc": "https://images.launchbox-app.com//25aacd80-3965-44a7-ad66-0d7081718b32.png",
+      "manual": "https://archive.org/download/NESManuals/Gradius%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//175dd291-9665-4503-b8a6-55d1be95a9d7.png",
+      "gameplay": "https://www.youtube.com/watch?v=0romDUXz4Fg&t=26s",
       "soundtrack": null,
-      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Hook%20%28USA%29.zip"
+      "url": "https://archive.org/download/famicomnes-games/Gradius%28J%29.zip"
     },
     {
       "title": "Gyruss",
@@ -361,8 +361,223 @@
       "soundtrack": null,
       "url": "https://archive.org/download/famicomnes-games/Gyruss.zip"
     },
-    
-    
+      {
+      "title": "Gradius 2",
+      "system": "nes",
+      "fileName": "Gradius 2 (J).zip",
+      "cover": "https://images.launchbox-app.com//0c2a1c0c-ff1f-4ab8-9cc5-aa046c7a9cbe.png",
+      "disc": "https://images.launchbox-app.com//c3e00ef1-c98c-49cb-9a00-c80126541f5f.png",
+      "manual": "https://archive.org/download/NESManuals/Gyruss%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//806b3d45-7f2a-41e0-82f0-5fc1f9f02ceb.png",
+      "gameplay": "https://www.youtube.com/watch?v=bpGbXM5qU14&t=115s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip"
+    },
+    {
+      "title": "Hook",
+      "system": "nes",
+      "fileName": "Hook (USA).zip",
+      "cover": "https://images.launchbox-app.com//111d407f-d54d-465e-96b9-833d458bc79a.png",
+      "disc": "https://images.launchbox-app.com//a1495f8a-8964-432e-8a8c-93671c51db37.png",
+      "manual": "https://archive.org/download/NESManuals/Hook%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//31a9cadc-0854-47f9-bf05-6578e5828f9e.png",
+      "gameplay": "https://www.youtube.com/watch?v=ih3ESrufzZ0",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Hook%20%28USA%29.zip"
+    },
+    {
+      "title": "Metal Gear",
+      "system": "nes",
+      "fileName": "Metal Gear (USA).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/action-52-usa-rev-a-unl_202306/Metal%20Gear%20%28USA%29.zip/Metal%20Gear%20%28USA%29.nes"
+    },
+    {
+      "title": "Snake's Revenge",
+      "system": "nes",
+      "fileName": "Snake's Revenge (USA).zip",
+      "cover": "https://images.launchbox-app.com//1e86ef08-c9bf-4009-ab0d-10edbf5d1a03.png",
+      "disc": "https://images.launchbox-app.com//6c9a4a15-45b4-450f-941d-d669006a9b38.png",
+      "manual": "https://archive.org/download/NESManuals/Snake%27s%20Revenge%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//ad48e28e-6c30-4ffd-8bc4-21f75f4061ef.png",
+      "gameplay": "https://www.youtube.com/watch?v=fnzlqA1sVXs",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Snake%27s%20Revenge%20%28USA%29.zip"
+    },
+    {
+      "title": "Metal Mech - Man & Machine",
+      "system": "nes",
+      "fileName": "Metal Mech - Man & Machine (USA).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.zip"
+    },
+    {
+      "title": "Star Wars Namco",
+      "system": "nes",
+      "fileName": "Star Wars Namco (J).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Star.Wars%28Namco%29%28J%29.zip"
+    },
+     {
+      "title": "Star Wars Victor",
+      "system": "nes",
+      "fileName": "Star Wars Victor (J).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Star.Wars%28Victor%29%28J%29.zip"
+    },
+    {
+      "title": "Star Wars - The Empire Strikes Back",
+      "system": "nes",
+      "fileName": "Star Wars - The Empire Strikes Back (USA).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.zip"
+    },
+    {
+      "title": "Street Fighter 2010 - The Final Fight",
+      "system": "nes",
+      "fileName": "Street Fighter 2010 - The Final Fight (USA).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Street%20Fighter%202010%20-%20The%20Final%20Fight%20%28USA%29.zip"
+    },
+      {
+      "title": "Strider",
+      "system": "nes",
+      "fileName": "Strider (USA).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Strider%20%28USA%29.zip"
+    },
+     {
+      "title": "Mario Bros.",
+      "system": "nes",
+      "fileName": "Mario Bros. (USA).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Mario%20Bros.%20%28World%29.zip"
+    },  
+     {
+      "title": "Super Mario Brothers 2",
+      "system": "nes",
+      "fileName": "Super Mario Brothers 2 (USA).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bros.%202%20%28USA%29.zip"
+    },  
+    {
+      "title": "Super Mario Brothers 3",
+      "system": "nes",
+      "fileName": "Super Mario Brothers 3 (USA).zip",
+      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
+      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
+      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bros.%203%20%28USA%29.zip"
+    },  
+    {
+      "title": "Super Mario World",
+      "system": "nes",
+      "fileName": "Super Mario World.zip",
+      "cover": "https://images.launchbox-app.com//e133a393-b16a-4dcd-8578-c10f68508876.png",
+      "disc": "https://images.launchbox-app.com//fe060620-6baf-410b-a614-106edb2a69a3.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//d12b1f3d-e33e-47bf-b463-4e6ecece986e.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Super.Mario.World.zip"
+    },
+    {
+      "title": "Super Robin Hood",
+      "system": "nes",
+      "fileName": "Super Robin Hood.zip",
+      "cover": "https://images.launchbox-app.com//f4041648-c386-4e13-a88c-a52c946b955b.png",
+      "disc": "https://images.launchbox-app.com//6813718a-9bcf-46ca-8bf4-c0c228b1f64a.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//6813718a-9bcf-46ca-8bf4-c0c228b1f64a.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Super.Robin.Hood.zip "
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "system": "nes",
+      "fileName": "Teenage Mutant Ninja Turtles (USA).zip",
+      "cover": "https://images.launchbox-app.com//ba1a00a9-d48d-4e21-84d8-056bb0b8ad2c.png",
+      "disc": "https://images.launchbox-app.com//780287f1-3854-4246-828b-4c39d870a8e8.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//e1c72003-2202-4057-9170-c911581adac0.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.zip"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles II - The Arcade Game",
+      "system": "nes",
+      "fileName": "Teenage Mutant Ninja Turtles II - The Arcade Game (USA).zip",
+      "cover": "https://images.launchbox-app.com//bc782ee8-ab8d-4ca6-a38c-6b37dce42ba7.png",
+      "disc": "https://images.launchbox-app.com//873ce091-0a18-4d6e-8eae-4c1b0d7f89bf.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//679e05c6-2916-41a1-94d0-d347610d85dd.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20%28USA%29.zip"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles III - The Manhattan Project",
+      "system": "nes",
+      "fileName": "Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).zip",
+      "cover": "https://images.launchbox-app.com//7c3dd63c-3b24-4ec7-a68a-06b66cb146c4.png",
+      "disc": "https://images.launchbox-app.com//873ce091-0a18-4d6e-8eae-4c1b0d7f89bf.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//679e05c6-2916-41a1-94d0-d347610d85dd.png",
+      "gameplay": "https://www.youtube.com/watch?v=kO2w9Ci0khI",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Teenage%20Mutant%20Ninja%20Turtles%20III%20-%20The%20Manhattan%20Project%20%28USA%29.zip"
+    },
+  
 ]
 }    
 
@@ -371,25 +586,14 @@ Double Dragon 4|https://archive.org/download/famicomnes-games/Double.Dragon.4%28
 Festers Quest|https://archive.org/download/famicomnes-games/Fester.s.Quest.zip
 
 
-Gradius|https://archive.org/download/famicomnes-games/Gradius%28J%29.zip
-Gradius 2|https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip
 
-Metal Gear|https://archive.org/download/action-52-usa-rev-a-unl_202306/Metal%20Gear%20%28USA%29.zip/Metal%20Gear%20%28USA%29.nes
-Snake's Revenge (USA)|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Snake%27s%20Revenge%20%28USA%29.zip
-Metal Mech - Man & Machine|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.zip
-Star Wars|https://archive.org/download/famicomnes-games/Star.Wars%28Namco%29%28J%29.zip
-Star Wars Victor|https://archive.org/download/famicomnes-games/Star.Wars%28Victor%29%28J%29.zip
-Street Fighter 2010 - The Final Fight|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Street%20Fighter%202010%20-%20The%20Final%20Fight%20%28USA%29.zip
-Star Wars - The Empire Strikes Back|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.zip
-Strider|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Strider%20%28USA%29.zip
-Mario Bros.|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Mario%20Bros.%20%28World%29.zip
-Super Mario Brothers 2|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bros.%202%20%28USA%29.zip
-Super Mario Brothers 3|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bros.%203%20%28USA%29.zip
-Super Mario World|https://archive.org/download/famicomnes-games/Super.Mario.World.zip
-Super Robin Hood|https://archive.org/download/famicomnes-games/Super.Robin.Hood.zip       
-Teenage Mutant Ninja Turtles|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.zip
-Teenage Mutant Ninja Turtles II - The Arcade Game|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20%28USA%29.zip
-Teenage Mutant Ninja Turtles III - The Manhattan Project|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Teenage%20Mutant%20Ninja%20Turtles%20III%20-%20The%20Manhattan%20Project%20%28USA%29.zip
+
+
+
+
+
+
+      
 Zelda II - The Adventure of Link (USA)|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Zelda%20II%20-%20The%20Adventure%20of%20Link%20%28USA%29.zip
 
 
