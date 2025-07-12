@@ -57,7 +57,7 @@
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//a7e90c3f-369c-4801-b01a-ad9e04073918.png",
       "gameplay": "https://www.youtube.com/watch?v=uD3aOjNv_mM",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/batman.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20-%20The%20Video%20Game%20%28USA%29.zip"
     },
     {
@@ -69,7 +69,7 @@
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
       "gameplay": "https://www.youtube.com/watch?v=SCvNB8zSYy8&t=48s",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/batmanreturnofthejoker.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20-%20Return%20of%20the%20Joker%20%28USA%29.zip"
     },
     {
@@ -105,7 +105,7 @@
       "manual": "https://dn790008.ca.archive.org/0/items/NESManuals/Bionic%20Commando%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//ce67e7e3-59c0-4704-af4b-0c51b146a928.png",
       "gameplay": "https://www.youtube.com/watch?v=2-JUN471FMY&t=42s",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/bioniccomandones.m3u",
       "url": "https://archive.org/download/famicomnes-games/BIONIC.C.zip/BIONIC_C.NES"
     },
     {
@@ -165,7 +165,7 @@
       "manual": "https://archive.org/download/NESManuals/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//4060179c-2fd3-457d-a6a2-a3466619aeb6.png",
       "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevania2simonsquest.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.zip"
     },
     {
@@ -189,7 +189,7 @@
       "manual": "https://archive.org/download/NESManuals/Contra%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//ccbc3de6-fc20-4f1c-90f3-e026c807b02b.png",
       "gameplay": null,
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/contranes.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Contra%20%28USA%29.zip"
     },
     {
@@ -369,7 +369,7 @@
       "manual": "https://archive.org/download/NESManuals/Gradius%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//175dd291-9665-4503-b8a6-55d1be95a9d7.png",
       "gameplay": "https://www.youtube.com/watch?v=0romDUXz4Fg&t=26s",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/gradius.m3u",
       "url": "https://archive.org/download/famicomnes-games/Gradius%28J%29.zip/Gradius%20%28J%29.nes"
     },
     {
@@ -429,7 +429,7 @@
       "manual": "https://archive.org/download/NESManuals/Snake%27s%20Revenge%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//ad48e28e-6c30-4ffd-8bc4-21f75f4061ef.png",
       "gameplay": "https://www.youtube.com/watch?v=fnzlqA1sVXs",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/snakesrevenge.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Snake%27s%20Revenge%20%28USA%29.zip"
     },
     {
@@ -537,7 +537,7 @@
       "manual": "https://archive.org/download/NESManuals/Super%20Mario%20Bros.%203%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//237f73a1-7b42-4ded-af30-87f53a6d31fd.png",
       "gameplay": "https://www.youtube.com/watch?v=Op3xKpIJUzU",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/supermario3.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     }
   ]
