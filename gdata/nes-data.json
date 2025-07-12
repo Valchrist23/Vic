@@ -6,7 +6,7 @@
       "fileName": "Adventures in the Magic Kingdom (USA).zip",
       "cover": "https://images.launchbox-app.com//5fb22732-d8bc-4ec4-881f-e7067060e574.png",
       "disc": "https://images.launchbox-app.com//5d34995c-f0c4-4d9c-bdff-b23d273e4ed8.png",
-      "manual": "https://archive.org/download/Nintendo64Manuals_201812/Castlevania%20-%20Legacy%20of%20Darkness%20%28USA%29.pdf",
+      "manual": "cdsfgh",
       "logo": "https://images.launchbox-app.com//13f96aa2-bae9-4f15-8ec2-8a8e5cabee01.png",
       "gameplay": "https://www.youtube.com/watch?v=ErqbUCiJAZY",
       "soundtrack": null,
@@ -159,7 +159,7 @@
     {
       "title": "Castlevania II - Simon's Quest",
       "system": "nes",
-      "fileName": "Castlevania II - Simon's Quest (USA).zip",
+      "fileName": "Castlevania II - Simon's Quest (USA).nes",
       "cover": "https://images.launchbox-app.com//0a456c93-2206-4484-bbf1-3268f325feb5.png",
       "disc": "https://images.launchbox-app.com//2fd378d5-fcf9-4af8-b8c4-7965736d2ca1.png",
       "manual": "https://archive.org/download/NESManuals/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.pdf",
@@ -171,7 +171,7 @@
     {
       "title": "Castlevania III - Dracula's Curse",
       "system": "nes",
-      "fileName": "Castlevania III - Dracula's Curse (USA).zip",
+      "fileName": "Castlevania III - Dracula's Curse (USA).nes",
       "cover": "https://images.launchbox-app.com//ac727c49-c0ef-4298-aa18-7ed6d658cd74.png",
       "disc": "https://images.launchbox-app.com//f80512d5-3aad-45ed-931f-9e7ed206cea8.png",
       "manual": "https://archive.org/download/NESManuals/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.pdf",
@@ -207,7 +207,7 @@
     {
       "title": "Crystalis",
       "system": "nes",
-      "fileName": "Crystalis (USA).zip",
+      "fileName": "Crystalis (USA).nes",
       "cover": "https://images.launchbox-app.com//4ea76d38-3bc5-431c-b66b-e511fe0be7b1.png",
       "disc": "https://images.launchbox-app.com//6153b9c0-443d-42e6-8906-faf83386e1e9.png",
       "manual": "https://archive.org/download/NESManuals/Crystalis%20%28USA%29.pdf",
@@ -219,7 +219,7 @@
     {
       "title": "Double Dragon",
       "system": "nes",
-      "fileName": "Double Dragon (USA).zip",
+      "fileName": "Double Dragon (USA).nes",
       "cover": "https://images.launchbox-app.com//791b0412-fc64-4605-b382-dcd23dafc0f7.png",
       "disc": "https://images.launchbox-app.com//47dd120f-3101-4b03-ab95-5f23ba97480e.png",
       "manual": "https://archive.org/download/NESManuals/Battletoads-Double%20Dragon%20%28USA%29.pdf",
@@ -231,7 +231,7 @@
     {
       "title": "Double Dragon II - The Revenge",
       "system": "nes",
-      "fileName": "Double Dragon II - The Revenge (USA).zip",
+      "fileName": "Double Dragon II - The Revenge (USA).nes",
       "cover": "https://images.launchbox-app.com//6b59b847-6fff-4f56-b44a-f7e7ce049686.png",
       "disc": "https://images.launchbox-app.com//281de6d4-bf1d-4bdc-badf-ed0be66c7d98.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
@@ -243,7 +243,7 @@
     {
       "title": "Double Dragon III - The Sacred Stones",
       "system": "nes",
-      "fileName": "Double Dragon III - The Sacred Stones (USA).zip",
+      "fileName": "Double Dragon III - The Sacred Stones (USA).nes",
       "cover": "https://images.launchbox-app.com//0442ccba-61d6-4d4f-a3b5-8558b171f7ab.png",
       "disc": "https://images.launchbox-app.com//01daf2b7-be5a-44a9-8486-a24590808d59.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
@@ -267,7 +267,7 @@
     {
       "title": "Ducktales",
       "system": "nes",
-      "fileName": "Ducktales (USA).zip",
+      "fileName": "Ducktales (USA).nes",
       "cover": "https://images.launchbox-app.com//e8b4a2fc-59bc-40f5-bd5f-6b17f5781f63.png",
       "disc": "https://images.launchbox-app.com//0eebc035-2b36-4ea4-8b97-91c8b1512766.png",
       "manual": "https://archive.org/download/NESManuals/DuckTales%20%28USA%29.pdf",
@@ -279,7 +279,7 @@
     {
       "title": "Ducktales 2",
       "system": "nes",
-      "fileName": "Ducktales 2 (USA).zip",
+      "fileName": "Ducktales 2 (USA).nes",
       "cover": "https://images.launchbox-app.com//de9b457e-589c-419f-89e1-67bd21c3d370.png",
       "disc": "https://images.launchbox-app.com//f52e5d60-920b-46a5-8204-04fc0fd690f4.png",
       "manual": "https://archive.org/download/NESManuals/DuckTales%202%20%28USA%29.pdf",
@@ -291,7 +291,7 @@
     {
       "title": "Festers Quest",
       "system": "nes",
-      "fileName": "Fester.s.Quest.zip",
+      "fileName": "Fester.s.Quest.nes",
       "cover": "https://images.launchbox-app.com//f9c0b593-be86-4e2b-816e-c1862d7ebc29.png",
       "disc": "https://images.launchbox-app.com//d885e9b7-22ed-4f35-9e71-1c3e037924c6.png",
       "manual": "https://archive.org/download/NESManuals/Fester%27s%20Quest%20%28USA%29.pdf",
@@ -315,7 +315,7 @@
     {
       "title": "Flying Warriors",
       "system": "nes",
-      "fileName": "Flying Warriors (USA).zip",
+      "fileName": "Flying Warriors (USA).nes",
       "cover": "https://images.launchbox-app.com//06ee0f7c-66a8-4d7f-ab94-683b659b22d7.png",
       "disc": "https://images.launchbox-app.com//bd3a6547-f8cf-4dc5-b8ee-355bbe5a5934.png",
       "manual": "https://archive.org/download/NESManuals/Flying%20Warriors%20%28USA%29.pdf",
@@ -339,7 +339,7 @@
     {
       "title": "G.I. Joe - A Real American Hero",
       "system": "nes",
-      "fileName": "G.I. Joe - A Real American Hero (USA).zip",
+      "fileName": "G.I. Joe - A Real American Hero (USA).nes",
       "cover": "https://images.launchbox-app.com//444f4aa2-4bbd-44ac-8ce7-0ac0e3b085df.png",
       "disc": "https://images.launchbox-app.com//ce542fe1-cf87-4f72-b55e-a91b2f5a5c50.png",
       "manual": "https://archive.org/download/NESManuals/G.I.%20Joe%20-%20A%20Real%20American%20Hero%20%28USA%29.pdf",
@@ -399,7 +399,7 @@
     {
       "title": "Hook",
       "system": "nes",
-      "fileName": "Hook (USA).zip",
+      "fileName": "Hook (USA).nes",
       "cover": "https://images.launchbox-app.com//111d407f-d54d-465e-96b9-833d458bc79a.png",
       "disc": "https://images.launchbox-app.com//a1495f8a-8964-432e-8a8c-93671c51db37.png",
       "manual": "https://archive.org/download/NESManuals/Hook%20%28USA%29.pdf",
@@ -442,7 +442,7 @@
       "logo": "https://images.launchbox-app.com//73cb706a-aab5-4ab3-9044-cd58d1bbd3d8.png",
       "gameplay": "https://www.youtube.com/watch?v=rwJrdRRZErk",
       "soundtrack": null,
-      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.zip"
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.zip/Metal%20Mech%20-%20Man%20%26%20Machine%20%28USA%29.nes"
     },
     {
       "title": "Star Wars Namco",
