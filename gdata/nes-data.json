@@ -183,7 +183,7 @@
     {
       "title": "Contra",
       "system": "nes",
-      "fileName": "Contra (USA).zip",
+      "fileName": "Contra (USA).nes",
       "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
       "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
@@ -195,7 +195,7 @@
     {
       "title": "Super C",
       "system": "nes",
-      "fileName": "Super C (USA).zip",
+      "fileName": "Super C (USA).nes",
       "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
       "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
@@ -435,7 +435,7 @@
     {
       "title": "Metal Mech - Man & Machine",
       "system": "nes",
-      "fileName": "Metal Mech - Man & Machine (USA).zip",
+      "fileName": "Metal Mech - Man & Machine (USA).nes",
       "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
       "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
       "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
