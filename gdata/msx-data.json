@@ -11,6 +11,18 @@
       "gameplay": null,
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniadraculaxchronicles.m3u",
       "url": "https://archive.org/download/psp-chd-zstd-redump-part1/psp-chd-zstd/Castlevania%20-%20The%20Dracula%20X%20Chronicles%20%28USA%29.chd"
-     } 
+     },
+     {
+      "title": "Metal Gear",
+      "system": "msx",
+      "fileName": "Metal Gear (USA).rom",
+      "cover": "https://images.launchbox-app.com//56cc0a7e-4289-4abf-8ba8-2e81e639d11a.png",
+      "disc": "https://images.launchbox-app.com//d291a12e-c156-4fb9-bb22-f03ceced4d29.png",
+      "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
+      "logo": "https://images.launchbox-app.com//9e5282b4-d13c-4298-9e96-ba5b8990b6c5.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniadraculaxchronicles.m3u",
+      "url": "https://archive.org/download/psp-chd-zstd-redump-part1/psp-chd-zstd/Castlevania%20-%20The%20Dracula%20X%20Chronicles%20%28USA%29.chd"
+     }
 ]
 }
