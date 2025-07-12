@@ -254,6 +254,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip"
     },
     {
+      "title": "Double Dragon 4",
+      "system": "nes",
+      "fileName": "Double Dragon 4 (J).zip",
+      "cover": "https://images.launchbox-app.com//0442ccba-61d6-4d4f-a3b5-8558b171f7ab.png",
+      "disc": "https://images.launchbox-app.com//01daf2b7-be5a-44a9-8486-a24590808d59.png",
+      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//62f2cc87-f7b4-47fe-9ab0-51a8c09df8d2.png",
+      "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=58s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Double.Dragon.4%28J%29.zip"
+    },
+    {
       "title": "Ducktales",
       "system": "nes",
       "fileName": "Ducktales (USA).zip",
@@ -276,6 +288,18 @@
       "gameplay": "https://www.youtube.com/watch?v=cFdfv9nZq7s",
       "soundtrack": null,
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/DuckTales%202%20%28USA%29.zip"
+    },
+    {
+      "title": "Festers Quest",
+      "system": "nes",
+      "fileName": "Fester.s.Quest.zip",
+      "cover": "https://images.launchbox-app.com//f9c0b593-be86-4e2b-816e-c1862d7ebc29.png",
+      "disc": "https://images.launchbox-app.com//d885e9b7-22ed-4f35-9e71-1c3e037924c6.png",
+      "manual": "https://archive.org/download/NESManuals/Fester%27s%20Quest%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//68063310-4c8e-4631-a964-9ef8416d5fae.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Fester.s.Quest.zip"
     },
     {
       "title": "Flintstones Rescue Dino Hoppy",
@@ -591,21 +615,4 @@
     },
   
 ]
-}    
-
-Double Dragon 4|https://archive.org/download/famicomnes-games/Double.Dragon.4%28J%29.zip
-
-Festers Quest|https://archive.org/download/famicomnes-games/Fester.s.Quest.zip
-
-
-
-
-
-
-
-
-
-      
-
-
-
+}   
