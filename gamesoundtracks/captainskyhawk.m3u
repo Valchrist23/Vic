@@ -1,16 +1,18 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg" group-title="Music",01_Title Screen
 https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/ngniletw/01_Title%20Screen.mp3
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg" group-title="Music",02_Mission Start & Complete
 https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/edzfzhpt/02_Mission%20Start%20%26%20Complete.mp3
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg" group-title="Music",03_Space Dock - Weapon Shop
 https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/iyykubig/03_Space%20Dock%20-%20Weapon%20Shop.mp3
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg" group-title="Music",04_Enemy Base
 https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/fnowdjkb/04_Enemy%20Base.mp3
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg" group-title="Music",05_Congratulations
 https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/vrxrjlfz/05_Congratulations.mp3
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg" group-title="Music",06_High Score
 https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/ezfkdjaj/06_High%20Score.mp3
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg" group-title="Music",07_Game Over
 https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/ftpqdipr/07_Game%20Over.mp3
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg" group-title="Music",08_Unknown Theme
 https://kappa.vgmsite.com/soundtracks/captain-skyhawk-nes/byxqxsoq/08_Unknown%20Theme.mp3
