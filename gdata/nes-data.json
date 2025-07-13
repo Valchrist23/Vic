@@ -553,6 +553,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     }, 
     {
+      "title": "Wizards Warriors",
+      "system": "nes",
+      "fileName": "Wizards.Warriors(U).zip",
+      "cover": "https://images.launchbox-app.com//1fa29388-6b8f-448d-8e74-7684d2485ff9.png",
+      "disc": "https://images.launchbox-app.com//89b5c6dd-e5f4-45f7-9d39-47a3c6b23914.png",
+      "manual": "https://archive.org/download/NESManuals/Wizards%20%26%20Warriors%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//4f21b1c7-d3f1-477d-b529-a85668b49cfe.png",
+      "gameplay": "https://www.youtube.com/watch?v=ztxwMI2gaIo",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/supermario3.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
+    },
+    {       
       "title": "Wizards And Warriors - Iron Sword",
       "system": "nes",
       "fileName": "Ironsword-Wizards&Warriors.2(U).zip",
