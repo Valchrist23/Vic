@@ -15,7 +15,7 @@ Castlevania|https://archive.org/download/action-52-usa-rev-a-unl_202306/Castleva
 Castlevania II - Simon's Quest|https://archive.org/download/famicomnes-games/Castlevania2-Simons.Quest.zip/Castlevania%202%20-%20Simon%27s%20Quest.NES
 Castlevania III - Dracula's Curse|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.zip/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.nes
 Contra|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Contra%20%28USA%29.zip/Contra%20%28USA%29.nes
-SUPERC|https://archive.org/download/famicomnes-games/SUPERC.zip/SUPERC.NES
+SUPER C|https://archive.org/download/famicomnes-games/SUPERC.zip/SUPERC.NES
 Crystalis|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Crystalis%20%28USA%29.zip/Crystalis%20%28USA%29.nes
 Double Dragon|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip/Double%20Dragon%20%28USA%29.nes
 Double Dragon II - The Revenge|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.zip/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.nes
