@@ -517,6 +517,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Mario%20Bros.%20%28World%29.zip"
     },
     {
+      "title": "Mike Tyson's Punch-Out!!",
+      "system": "nes",
+      "fileName": "Punch Out (USA).zip",
+      "cover": "https://images.launchbox-app.com//128d493f-d0c0-4307-9bee-eca70a57a088.png",
+      "disc": "https://images.launchbox-app.com//ff9a5c72-1c27-470e-8cfc-e17866f5d688.png",
+      "manual": "https://archive.org/download/NESManuals/Punch-Out%21%21%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//f54e1a91-f457-49b2-9233-1a4f46a63837.png",
+      "gameplay": "https://www.youtube.com/watch?v=1qcTwuKozs8",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/punchoutnes.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Mario%20Bros.%20%28World%29.zip"
+    },
+    {           
       "title": "Super Mario Brothers 2",
       "system": "nes",
       "fileName": "Super Mario Brothers 2 (USA).zip",
