@@ -553,18 +553,6 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     },
     {
-      "title": "The Adventures Of Bayou Billy",
-      "system": "nes",
-      "fileName": "Adventures in the Magic Kingdom (USA).zip",
-      "cover": "https://images.launchbox-app.com//09cc73ed-05ae-4e1b-bf8c-451326fbb405.png",
-      "disc": "https://images.launchbox-app.com//b31f925a-e72e-4f46-a748-f2b33faddc37.png",
-      "manual": "https://archive.org/download/NESManuals/Adventures%20of%20Bayou%20Billy%2C%20The%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//8a688e55-cd6c-46fc-8091-b2c3c2e45c6c.png",
-      "gameplay": "https://www.youtube.com/watch?v=L83bHnoEiZA",
-      "soundtrack": null,
-      "url": "https://archive.org/download/famicomnes-games/Adventures.In.The.Magic.Kingdom.zip"
-    },
-    {
       "title": "Teenage Mutant Ninja Turtles",
       "system": "nes",
       "fileName": null,
@@ -603,13 +591,25 @@
     {
       "title": "The Adventures Of Bayou Billy",
       "system": "nes",
-      "fileName": "The Adventures Of Bayou Billy (U).zip",
+      "fileName": "The Adventures Of Bayou Billy (USA).zip",
       "cover": "https://images.launchbox-app.com//09cc73ed-05ae-4e1b-bf8c-451326fbb405.png",
       "disc": "https://images.launchbox-app.com//b31f925a-e72e-4f46-a748-f2b33faddc37.png",
       "manual": "https://archive.org/download/NESManuals/Adventures%20of%20Bayou%20Billy%2C%20The%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//8a688e55-cd6c-46fc-8091-b2c3c2e45c6c.png",
-      "gameplay": "https://www.youtube.com/watch?v=ztxwMI2gaIo",
+      "gameplay": "https://www.youtube.com/watch?v=L83bHnoEiZA",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/theadventuresofbayoubilly.m3u",
+      "url": null
+    },
+    {
+      "title": "The Simpsons Bart VS The Space Aliens",
+      "system": "nes",
+      "fileName": null,
+      "cover": null,
+      "disc": null,
+      "manual": null,
+      "logo": null,
+      "gameplay": null,
+      "soundtrack": null,
       "url": null
     },
     {    
