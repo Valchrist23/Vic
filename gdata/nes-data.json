@@ -112,11 +112,11 @@
       "title": "Bucky O'Hare",
       "system": "nes",
       "fileName": "Bucky O'Hare (USA).zip",
-      "cover": "https://images.launchbox-app.com//d72f9cf9-ff03-4730-a388-2357ac72d6c6.png",
-      "disc": "https://images.launchbox-app.com//f598c4f9-8c97-46d7-867d-e530ea0ea9c1.png",
+      "cover": "https://images.launchbox-app.com//41430fe4-b392-4c6f-a313-3f045da27129.png",
+      "disc": "https://images.launchbox-app.com//bc2b75aa-e99c-4cf4-8a2a-3ab2670703d8.png",
       "manual": "https://archive.org/download/NESManuals/Bucky%20O%27Hare%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//915929f3-3af0-4441-a45d-8a061f0a8a38.png",
-      "gameplay": null,
+      "logo": "https://images.launchbox-app.com//8efe7d4f-bef7-49bc-95e0-bd9db51c04c7.png",
+      "gameplay": "https://www.youtube.com/watch?v=fNFttP2m7zE&t=31s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Bucky%20O%27Hare%20%28USA%29.zip"
     },
@@ -128,7 +128,7 @@
       "disc": "https://images.launchbox-app.com//494675dc-7cb0-4a55-a67f-f72f81334cbb.png",
       "manual": "https://archive.org/download/NESManuals/Captain%20America%20and%20the%20Avengers%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//25d53cd8-de5b-4c73-829f-3b195c727d02.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=XuM-9-OuTDU",
       "soundtrack": null,
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Captain%20America%20and%20the%20Avengers%20%28USA%29.zip"
     },
@@ -140,7 +140,7 @@
       "disc": "https://images.launchbox-app.com//6cf8d6fe-c196-49fa-ac8f-acba7ad59928.png",
       "manual": "https://archive.org/download/NESManuals/Captain%20Skyhawk%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//ad20d796-3771-45a6-a10f-0e2572f0ab25.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=OnT6SyQBELM",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/captainskyhawk.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Captain%20Skyhawk%20%28USA%29.zip"
     },
@@ -152,7 +152,7 @@
       "disc": "https://images.launchbox-app.com//7619e048-2eee-404b-992e-053976b7b1a7.png",
       "manual": "https://archive.org/download/NESManuals/Castlevania%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//940b085b-587b-4fd5-9101-62cc74908c60.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=otDJdmNB0l4&t=43s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevanianes.m3u",
       "url": "https://archive.org/download/action-52-usa-rev-a-unl_202306/Castlevania%20%28USA%29%20%28Rev%20A%29.zip/Castlevania%20%28USA%29%20%28Rev%20A%29.nes"
     },
@@ -164,7 +164,7 @@
       "disc": "https://images.launchbox-app.com//2fd378d5-fcf9-4af8-b8c4-7965736d2ca1.png",
       "manual": "https://archive.org/download/NESManuals/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//4060179c-2fd3-457d-a6a2-a3466619aeb6.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=c94F615r0wk",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevania2simonsquest.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.zip"
     },
@@ -176,7 +176,7 @@
       "disc": "https://images.launchbox-app.com//f80512d5-3aad-45ed-931f-9e7ed206cea8.png",
       "manual": "https://archive.org/download/NESManuals/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//60ee9fe8-e6cc-4fd6-a167-edbdf8a2d582.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=G3ShxdTJ0Gw",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.zip"
     },
@@ -188,7 +188,7 @@
       "disc": "https://images.launchbox-app.com//9a2fd0ad-d202-48bb-be01-6b552dabd8f5.png",
       "manual": "https://archive.org/download/NESManuals/Contra%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//ccbc3de6-fc20-4f1c-90f3-e026c807b02b.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=Hke0hrHGm4s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/contranes.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Contra%20%28USA%29.zip"
     },
@@ -200,7 +200,7 @@
       "disc": "https://images.launchbox-app.com//bbab7482-3c78-4f5e-97cc-591e8d382971.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//31af2ab7-dc1a-4cfe-8fce-bb1b49964f6e.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=wPvoAsLFLpM&t=30s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
       "url": "https://archive.org/download/famicomnes-games/SUPERC.zip/SUPERC.NES"
     },
@@ -225,7 +225,7 @@
       "manual": "https://archive.org/download/NESManuals/Battletoads-Double%20Dragon%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//8f9c9fe8-9c54-4b3e-b143-c0e45cec44e2.png",
       "gameplay": "https://www.youtube.com/watch?v=QvEXLVg55WM&t=13s",
-      "soundtrack": null,
+      "soundtrack": "https://www.youtube.com/watch?v=QvEXLVg55WM&t=34s",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip"
     },
     {
@@ -237,7 +237,7 @@
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//c8f91f5e-490f-4d25-92f9-05ce19e4941d.png",
       "gameplay": "https://www.youtube.com/watch?v=fKFCMGoKwBA",
-      "soundtrack": null,
+      "soundtrack": "https://www.youtube.com/watch?v=CC_zA72QKVw",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.zip"
     },
     {
@@ -248,7 +248,7 @@
       "disc": "https://images.launchbox-app.com//01daf2b7-be5a-44a9-8486-a24590808d59.png",
       "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//62f2cc87-f7b4-47fe-9ab0-51a8c09df8d2.png",
-      "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=58s",
+      "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=69s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/doubledragon3.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip"
     },
@@ -285,7 +285,7 @@
       "manual": "https://archive.org/download/NESManuals/DuckTales%202%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//d4729f74-b341-473e-974e-e4a7d110867e.png",
       "gameplay": "https://www.youtube.com/watch?v=cFdfv9nZq7s",
-      "soundtrack": null,
+      "soundtrack": "https://www.youtube.com/watch?v=84h-UdodH6w&t=12s",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/DuckTales%202%20%28USA%29.zip"
     },
     {
@@ -296,7 +296,7 @@
       "disc": "https://images.launchbox-app.com//d885e9b7-22ed-4f35-9e71-1c3e037924c6.png",
       "manual": "https://archive.org/download/NESManuals/Fester%27s%20Quest%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//68063310-4c8e-4631-a964-9ef8416d5fae.png",
-      "gameplay": null,
+      "gameplay": "https://www.youtube.com/watch?v=_LmwSUNUcOU",
       "soundtrack": null,
       "url": "https://archive.org/download/famicomnes-games/Fester.s.Quest.zip"
     },
