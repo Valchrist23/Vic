@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Start SFX
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/xtrufvzh/01.%20Start%20SFX.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Opening
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/sdokacff/02.%20Opening.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Stage Warp BGM 1
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/tvlkrfup/03.%20Stage%20Warp%20BGM%201.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Stage Warp BGM 2
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/dwzeinhv/04.%20Stage%20Warp%20BGM%202.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Boss BGM
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/irtptuar/05.%20Boss%20BGM.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Stage Start BGM
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/nrushyuv/06.%20Stage%20Start%20BGM.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Chance Stage BGM
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/orbncmhv/07.%20Chance%20Stage%20BGM.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Ending
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/ttzpinrm/08.%20Ending.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Game Over
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/lezvyjuc/09.%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/Gyruss%20NES%20Front%20Cover.jpg" group-title="Music", Opening ~ Stage Warp BGM 1 Segue
+https://kappa.vgmsite.com/soundtracks/gyruss-ost-1989-nes/hcplrnhs/10.%20Opening%20~%20Stage%20Warp%20BGM%201%20Segue.mp3
