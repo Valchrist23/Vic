@@ -1,6 +1,7 @@
+#EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/simpsons-the-bart-vs.-the-space-mutants-nes/S1.jpg" group-title="Music",
 https://eta.vgmtreasurechest.com/soundtracks/simpsons-the-bart-vs.-the-space-mutants-nes/qikigapr/01.%20The%20Simpsons%20Theme%20~%20Stage%20Music%201.mp3
-
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/simpsons-the-bart-vs.-the-space-mutants-nes/S1.jpg" group-title="Music",
 https://eta.vgmtreasurechest.com/soundtracks/simpsons-the-bart-vs.-the-space-mutants-nes/nttvecgm/02.%20Stage%20Music%202.mp3
 
