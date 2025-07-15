@@ -541,6 +541,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     },
     {
+      "title": "Teenage Mutant Ninja Turtles",
+      "system": "nes",
+      "fileName": null,
+      "cover": "https://images.launchbox-app.com//ba1a00a9-d48d-4e21-84d8-056bb0b8ad2c.png",
+      "disc": "https://images.launchbox-app.com//780287f1-3854-4246-828b-4c39d870a8e8.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//e1c72003-2202-4057-9170-c911581adac0.png",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/teenagemutantninjaturtles.m3u",
+      "url": null
+    },
+    {
       "title": "The Simpsons Bart VS The World",
       "system": "nes",
       "fileName": "BARTVSWO.zip",
