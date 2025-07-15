@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Title Screen
+https://kappa.vgmsite.com/soundtracks/batman-nes/zprqwaly/01%20Title%20Screen.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Prologue, Staff Roll
+https://kappa.vgmsite.com/soundtracks/batman-nes/yeohsxqp/02.%20Prologue%2C%20Staff%20Roll.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Opening
+https://kappa.vgmsite.com/soundtracks/batman-nes/feynffar/03.%20Opening.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Stage 1, 5
+https://kappa.vgmsite.com/soundtracks/batman-nes/mruwhjkb/04.%20Stage%201%2C%205.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Stage 2
+https://kappa.vgmsite.com/soundtracks/batman-nes/mzmouxnq/05.%20Stage%202.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Stage 3
+https://kappa.vgmsite.com/soundtracks/batman-nes/paszggig/06.%20Stage%203.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Stage 4
+https://kappa.vgmsite.com/soundtracks/batman-nes/nuwhlnpg/07.%20Stage%204.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Boss Battle
+https://kappa.vgmsite.com/soundtracks/batman-nes/ycjddaek/08.%20Boss%20Battle.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Ending
+https://kappa.vgmsite.com/soundtracks/batman-nes/oolwdzjx/09.%20Ending.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Miss
+https://kappa.vgmsite.com/soundtracks/batman-nes/hmtbkmtt/10.%20Miss.mp3
+
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/batman-nes/Batman%20Cover%201.jpg" group-title="Music", Game Over
+https://kappa.vgmsite.com/soundtracks/batman-nes/smlozvah/11.%20Game%20Over.mp3
