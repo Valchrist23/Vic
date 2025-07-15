@@ -1,32 +1,45 @@
+#EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Title BGM
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/ozdztacg/01%20Title%20BGM.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Overworld BGM
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/wwfjewoe/02%20Overworld%20BGM.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Underworld BGM
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/tcecrhim/03%20Underworld%20BGM.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Item Jingle
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/cjtiyvzs/04%20Item%20Jingle.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Discovery Jingle
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/jvgtityd/05%20Discovery%20Jingle.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Secret Jingle
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/lrjijauf/06%20Secret%20Jingle.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Catch Treasure Fanfare
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/zdonkxsg/07%20Catch%20Treasure%20Fanfare.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Flute
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/ckamhukq/08%20Flute.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Catch Triforce Fanfare
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/avtesmys/09%20Catch%20Triforce%20Fanfare.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Dead
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/omodeufx/10%20Dead.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Game Over
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/bhfskkzh/11%20Game%20Over.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Death Mountain BGM
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/auljhbqa/12%20Death%20Mountain%20BGM.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", When Ganon Appears and Is Defeated Fanfare
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/gjkindfa/13%20When%20Ganon%20Appears%20and%20Is%20Defeated%20Fanfare.mp3
 
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", When Zelda Is Rescued Fanfare
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/sdymlflm/14%20When%20Zelda%20Is%20Rescued%20Fanfare.mp3
-
 https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/opsxsspw/15%20Ending%20Theme.mp3
 
