@@ -381,7 +381,7 @@
       "manual": "https://archive.org/download/NESManuals/Gyruss%20%28USA%29.pdf",
       "logo": "https://gamesdb-images.launchbox.gg/r2_2c6e5673-5cbc-4a98-8eb2-1c4c0713cff3.png",
       "gameplay": "https://www.youtube.com/watch?v=bNqmS2MHKsw",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/gyrussnes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Gyruss.zip"
     },
     {
