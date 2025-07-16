@@ -1,14 +1,19 @@
+#EXTM3U
 
-https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/BD.jpg
-
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/BD.jpg" group-title="Music", Level Theme
 https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/begpthuo/01_Level%20Theme.mp3
 
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/BD.jpg" group-title="Music", Boss Theme 1
 https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/nasveetd/02_Boss%20Theme%201.mp3
 
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/BD.jpg" group-title="Music", Truck and Train Theme
 https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/siedowrr/03_Truck%20and%20Train%20Theme.mp3
 
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/BD.jpg" group-title="Music", Boss Theme 2
 https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/cywzqjvs/04_Boss%20Theme%202.mp3
 
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/BD.jpg" group-title="Music", Stage Clear
 https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/sarlhzsr/05_Stage%20Clear.mp3
 
+#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/BD.jpg" group-title="Music", Ending
 https://eta.vgmtreasurechest.com/soundtracks/bad-dudes-nes/bfmczjnp/06_Ending.mp3
