@@ -469,14 +469,14 @@
       "url": "https://archive.org/download/famicomnes-games/Star.Wars%28Namco%29%28J%29.zip"
     },
     {
-      "title": "Star Wars Victor",
+      "title": "Star Wars",
       "system": "nes",
       "fileName": "Star Wars Victor (J).zip",
-      "cover": "https://images.launchbox-app.com//41057a55-a942-49ad-bdec-7bf0b272485b.png",
-      "disc": "https://images.launchbox-app.com//48b80e67-59c3-4268-ac82-0ec27d2798cc.png",
+      "cover": "https://images.launchbox-app.com//08ff45c2-7fda-47c5-8ca8-1694b6d92a86.png",
+      "disc": "https://images.launchbox-app.com//012a0d2d-eea2-4727-a1a3-ef00d5b7e5cc.png",
       "manual": "https://archive.org/download/NESManuals/Metal%20Gear%20%28USA%29%20-%20Maps.pdf",
-      "logo": "https://images.launchbox-app.com//f936cb55-21e1-4fac-8a26-f778433869e0.png",
-      "gameplay": null,
+      "logo": "https://images.launchbox-app.com//06c14e6e-d20f-475a-a15a-69b12031d654.png",
+      "gameplay": "https://www.youtube.com/watch?v=52Y8qi7SVTA",
       "soundtrack": null,
       "url": "https://archive.org/download/famicomnes-games/Star.Wars%28Victor%29%28J%29.zip"
     },
