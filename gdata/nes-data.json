@@ -480,6 +480,19 @@
       "soundtrack": null,
       "url": "https://archive.org/download/famicomnes-games/NARC (U).zip/NARC (U).nes"
     },
+    {
+      "title": "Nightshade",
+      "system": "nes",
+      "fileName": "Nightshade(U).nes",
+      "cover": "https://images.launchbox-app.com//fdcebf06-492b-4590-9843-a65b416896cd.png",
+      "disc": "https://images.launchbox-app.com//6886f212-71c9-4064-8465-b2e9cef0dc2d.png",
+      "manual": "https://archive.org/download/NESManuals/Nightshade%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//6b1e8305-67d2-4c90-8227-2dc9ee41510d.png",
+      "gameplay": "https://www.youtube.com/watch?v=KiKA6vIrsHU",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Nightshade(U).zip"
+    },
+    
     {    
       "title": "Star Wars Namco",
       "system": "nes",
