@@ -489,7 +489,7 @@
       "manual": "https://archive.org/download/NESManuals/Nightshade%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//6b1e8305-67d2-4c90-8227-2dc9ee41510d.png",
       "gameplay": "https://www.youtube.com/watch?v=KiKA6vIrsHU",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/nightshadenes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Nightshade(U).zip"
     },
     
