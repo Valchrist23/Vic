@@ -481,6 +481,78 @@
       "url": "https://archive.org/download/famicomnes-games/NARC (U).zip/NARC (U).nes"
     },
     {
+      "title": "Ninja Crusaders",
+      "system": "nes",
+      "fileName": "Ninja Crusaders(U).nes",
+      "cover": "https://images.launchbox-app.com//e16ee48c-7302-4bf4-a699-b5bbebddaa9c.png",
+      "disc": "https://images.launchbox-app.com//ef9da250-819e-41e3-b191-e03fb2fdf3d8.png",
+      "manual": "https://archive.org/download/NESManuals/Ninja%20Crusaders%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//25ebe3ae-29c0-4921-a404-ed5c23f3fcba.png",
+      "gameplay": "https://www.youtube.com/watch?v=YhVpGJsN7NQ",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Ninja.Crusaders(U).zip"
+    },
+    {
+      "title": "Ninja Gaiden",
+      "system": "nes",
+      "fileName": "NinjaGa1.nes",
+      "cover": "https://images.launchbox-app.com//66d9f622-d694-4134-93ef-c032a8c5338c.png",
+      "disc": "https://images.launchbox-app.com//d8040a6b-b51c-4528-b975-027ccc4bf058.png",
+      "manual": "https://archive.org/download/NESManuals/Ninja%20Gaiden%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//93cceb28-cc6c-427c-8c54-8d84eb5879b1.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/NinjaGa1.zip"
+    },
+    {
+      "title": "Ninja Gaiden 2",
+      "system": "nes",
+      "fileName": "NINJAGA2.nes",
+      "cover": "https://images.launchbox-app.com//cb57d0ca-8456-4b2b-a5e2-a9dac0ace7e0.png",
+      "disc": "https://images.launchbox-app.com//13da0267-1d9a-45eb-9851-5b6fe9e773e4.png",
+      "manual": "https://archive.org/download/NESManuals/Ninja%20Gaiden%20II%20-%20The%20Dark%20Sword%20of%20Chaos%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//c9076f8f-9cba-4a96-995f-c09d14af1649.png",
+      "gameplay": "https://www.youtube.com/watch?v=YhVpGJsN7NQ",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/NINJAGA2.zip"
+    },
+    {
+      "title": "Ninja Gaiden 3",
+      "system": "nes",
+      "fileName": "Ninjaga3.nes",
+      "cover": "https://images.launchbox-app.com//e380653a-49cb-4765-a11f-a8fe16fa4ddb.png",
+      "disc": "https://images.launchbox-app.com//52c4b662-f4c1-48f2-86cb-33bc81d38e8d.png",
+      "manual": "https://archive.org/download/NESManuals/Ninja%20Gaiden%20III%20-%20The%20Ancient%20Ship%20of%20Doom%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//43d510f8-6099-4cac-9c1f-dc324c1ba32b.png",
+      "gameplay": "https://www.youtube.com/watch?v=YhVpGJsN7NQ",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Ninjaga3.zip"
+    },
+    {
+      "title": "Ninja Ryuukenden.2-Ankoku.No.Jashin.Ken",
+      "system": "nes",
+      "fileName": "Ninja Ryuukenden.2-Ankoku.No.Jashin.Ken(c).nes",
+      "cover": "https://images.launchbox-app.com//72b644c0-8224-4509-8b59-3e3af317dd54.png",
+      "disc": "https://images.launchbox-app.com//d4b63036-52ad-4415-8246-4cfaeef97ed4.png",
+      "manual": "https://archive.org/download/NESManuals/NARC%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//661ec016-315d-4e6c-b9c8-96de60c28107.png",
+      "gameplay": "https://www.youtube.com/watch?v=YhVpGJsN7NQ",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Ninja.Ryuukenden.2-Ankoku.No.Jashin.Ken(c).zip"
+    },
+    {
+      "title": "Ninja Ryuukenden.3-Yomi.No.Hakobune",
+      "system": "nes",
+      "fileName": "Ninja Ryuukenden.3-Yomi.No.Hakobune(c).nes",
+      "cover": "https://images.launchbox-app.com//72b644c0-8224-4509-8b59-3e3af317dd54.png",
+      "disc": "https://images.launchbox-app.com//d4b63036-52ad-4415-8246-4cfaeef97ed4.png",
+      "manual": "https://archive.org/download/NESManuals/NARC%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//661ec016-315d-4e6c-b9c8-96de60c28107.png",
+      "gameplay": "https://www.youtube.com/watch?v=YhVpGJsN7NQ",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Ninja.Ryuukenden.3-Yomi.No.Hakobune(c).zip"
+    },
+    {
       "title": "Nightshade",
       "system": "nes",
       "fileName": "Nightshade(U).nes",
