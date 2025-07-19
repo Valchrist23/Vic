@@ -1,30 +1,40 @@
+#EXTM3U
 
-
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Title Screen, Hideout, & Credits
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/moiboern/01_Title%20Screen%2C%20Hideout%2C%20%26%20Credits.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Sewer & Streets Theme 1
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/ygsbkdqi/02_Sewer%20%26%20Streets%20Theme%201.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Streets Theme 2 (Pyramid Club)
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/uyyaondf/03_Streets%20Theme%202%20%28Pyramid%20Club%29.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Street Theme 3 (Nightclub)
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/swlvwzdi/04_Street%20Theme%203%20%28Nightclub%29.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Streets Theme 4
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/gqososic/05_Streets%20Theme%204.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Secret Area & Underground
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/krxvxwxx/06_Secret%20Area%20%26%20Underground.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Sutekh's Place
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/jynqlyog/07_Sutekh%27s%20Place.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Sutekh's Theme
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/kgyrbezg/08_Sutekh%27s%20Theme.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Fight Theme
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/jjqrlkhu/09_Fight%20Theme.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Alternate Fight Theme (Unused)
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/agpbqvjm/10_Alternate%20Fight%20Theme%20%28Unused%29.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Dangerous Situation
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/vsnonvgo/11_Dangerous%20Situation.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Game Over
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/awgpivrm/12_Game%20Over.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Nightshade Logo
 https://kappa.vgmsite.com/soundtracks/nightshade-nes/fdozbrnb/13_Nightshade%20Logo.mp3
-
