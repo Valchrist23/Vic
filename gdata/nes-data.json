@@ -409,6 +409,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Hook%20%28USA%29.zip"
     },
     {
+      "title": "Choujikuu Yousai-Macross(J)",
+      "system": "nes",
+      "fileName": "Choujikuu Yousai-Macross(J).nes",
+      "cover": "https://images.launchbox-app.com//111d407f-d54d-465e-96b9-833d458bc79a.png",
+      "disc": "https://images.launchbox-app.com//a1495f8a-8964-432e-8a8c-93671c51db37.png",
+      "manual": "https://archive.org/download/NESManuals/Hook%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//31a9cadc-0854-47f9-bf05-6578e5828f9e.png",
+      "gameplay": "https://www.youtube.com/watch?v=ih3ESrufzZ0",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Choujikuu.Yousai-Macross(J).zip"
+    },
+    {   
       "title": "Metal Gear",
       "system": "nes",
       "fileName": "Metal Gear (USA).zip",
