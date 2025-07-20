@@ -709,6 +709,30 @@
       "url": null
     },
     {
+      "title": "Tiny Toon.Adventures",
+      "system": "nes",
+      "fileName": Tiny Toon.Adventures(U).zip,
+      "cover": "https://images.launchbox-app.com//7c3dd63c-3b24-4ec7-a68a-06b66cb146c4.png",
+      "disc": "https://images.launchbox-app.com//10e7192e-6319-4e7b-b0a8-fa2900b76211.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20III%20-%20The%20Manhattan%20Project%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//7cb5410b-d5d2-4578-8eaa-c617814d4020.png",
+      "gameplay": "https://www.youtube.com/watch?v=vJ_k3k6oS2A&t=184s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/teenagemutantninjaturtles3nes.m3u",
+      "url": "https://archive.org/download/famicomnes-games/Tiny.Toon.Adventures(U).zip"
+    },
+    {
+      "title": "Tiny Toon.Adventures.2",
+      "system": "nes",
+      "fileName": Tiny Toon.Adventures.2(J).zip,
+      "cover": "https://images.launchbox-app.com//7c3dd63c-3b24-4ec7-a68a-06b66cb146c4.png",
+      "disc": "https://images.launchbox-app.com//10e7192e-6319-4e7b-b0a8-fa2900b76211.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20III%20-%20The%20Manhattan%20Project%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//7cb5410b-d5d2-4578-8eaa-c617814d4020.png",
+      "gameplay": "https://www.youtube.com/watch?v=vJ_k3k6oS2A&t=184s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/teenagemutantninjaturtles3nes.m3u",
+      "url": "https://archive.org/download/famicomnes-games/Tiny.Toon.Adventures.2(J).zip"
+    },
+    {   
       "title": "The Adventures Of Bayou Billy",
       "system": "nes",
       "fileName": "The Adventures Of Bayou Billy (USA).zip",
