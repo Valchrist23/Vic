@@ -202,7 +202,7 @@
       "logo": "https://images.launchbox-app.com//31af2ab7-dc1a-4cfe-8fce-bb1b49964f6e.png",
       "gameplay": "https://www.youtube.com/watch?v=wPvoAsLFLpM&t=30s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/supercnes.m3u",
-      "url": "https://archive.org/download/famicomnes-games/SUPERC.zip/SUPERC.NES"
+      "url": "SUPERC|https://archive.org/download/famicomnes-games/SUPERC.zip"
     },
     {
       "title": "Crystalis",
