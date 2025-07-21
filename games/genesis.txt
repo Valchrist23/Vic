@@ -41,6 +41,7 @@ Megaman Games Vol6|https://archive.org/download/sega-genesis-romset-ultra-usa/Me
 Michael Jackson Moonwalker|https://archive.org/download/sega-genesis-romset-ultra-usa/Michael%20Jackson%27s%20Moonwalker%20%28World%29%20%28Rev%20A%29.zip
 Ninja Gaiden|https://archive.org/download/nointro.ms-mkiii/Ninja%20Gaiden%20%28Europe%2C%20Brazil%29%20%28En%29.7z
 Predator 2|https://archive.org/download/nointro.ms-mkiii/Predator%202%20%28Brazil%29%20%28En%29.7z
+Paprium|https://archive.org/download/gen-md-hb/Paprium%20%28mini%20game%20troll%29%20%28World%29.zip/Paprium%20%28mini%20game%20troll%29%20%28World%29.bin
 Sonic The Hedgehog|https://archive.org/download/sega-genesis-romset-ultra-usa/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.zip
 Sonic The Hedgehog 2|https://archive.org/download/sega-genesis-romset-ultra-usa/Sonic%20The%20Hedgehog%202%20%28World%29.zip
 Sonic The Hedgehog 3|https://archive.org/download/sega-genesis-romset-ultra-usa/Sonic%20The%20Hedgehog%203%20%28USA%29.zip
