@@ -62,6 +62,11 @@ Robocop|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%
 Robocop 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/robocop2u.zip
 Rygar|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/rygar.zip
 RType|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/rtype.zip
+samsho|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho.7z
+samsho2|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho2.7z
+samsho3|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho3.7z
+samsho4|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho4.7z
+samsho5|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho5.7z
 SCobra|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/scobra.zip
 SContra|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/scontra.zip
 simpsons4pe|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/simpsons4pe.7z
