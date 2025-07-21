@@ -576,6 +576,66 @@
       "soundtrack": null,
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/narc.7z"
      },
+     {
+      "title": "Samurai Shodown",
+      "system": "fbneo",
+      "fileName": "samsho",
+      "cover": "https://images.launchbox-app.com//1f973e27-6c46-4766-9768-9d8a56dd0f11.png",
+      "disc": "https://images.launchbox-app.com//a4dec063-d05d-4528-b497-22551fffe90e.png",
+      "manual": "https://images.launchbox-app.com//49c5287a-f119-4608-9f00-8cdea497043b.jpg",
+      "logo": "https://images.launchbox-app.com//dc5a79a2-48bc-4ae0-855c-bff689075812.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho.7z"
+     },
+     {
+      "title": "Samurai Shodown II",
+      "system": "fbneo",
+      "fileName": "samsho2",
+      "cover": "https://images.launchbox-app.com//5b9ec4fa-1d60-43ed-8590-678fb68f4686.png",
+      "disc": "https://images.launchbox-app.com//bae3c0a7-b6b5-4b11-b768-e21935e523e1.png",
+      "manual": "https://images.launchbox-app.com//ee3a9d6c-43be-45e9-abea-d23a362c654b.jpg",
+      "logo": "https://images.launchbox-app.com//137386f2-822d-4ce2-b71a-a6a3702b65df.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho2.7z"
+     },
+     {
+      "title": "Samurai Shodown III",
+      "system": "fbneo",
+      "fileName": "samsho3",
+      "cover": "https://images.launchbox-app.com//aa23d474-42e7-4ebb-8dbf-c4ffc5fb10cc.png",
+      "disc": "https://images.launchbox-app.com//496ad3e0-3221-4569-962e-9847fe28f26b.png",
+      "manual": "https://images.launchbox-app.com//5ba6131c-b254-49da-b267-1b6c86c4ed7f.jpg",
+      "logo": "https://images.launchbox-app.com//678389ad-9335-4161-a7bc-2df4beeed6a0.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho3.7z"
+     },
+     {
+      "title": "Samurai Shodown IV",
+      "system": "fbneo",
+      "fileName": "samsho4",
+      "cover": "https://images.launchbox-app.com//4ea72cae-d445-41ab-a6a5-f773dbe704c5.png",
+      "disc": "https://images.launchbox-app.com//21aa1914-d9c0-456d-9512-849e75b28b80.png",
+      "manual": "https://images.launchbox-app.com//f5c7f26a-b854-46be-9d57-2f18cad0482a.jpg",
+      "logo": "https://images.launchbox-app.com//ce658fd8-dd9b-46a3-85f3-a7215779e09b.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho4.7z"
+     },
+     {
+      "title": "Samurai Shodown V",
+      "system": "fbneo",
+      "fileName": "samsho5",
+      "cover": "https://images.launchbox-app.com//ce7ecf95-607f-4653-91be-b5a0377c1612.png",
+      "disc": "https://images.launchbox-app.com//c87015f0-32e9-4ac4-acbf-aa05dd986065.png",
+      "manual": "https://images.launchbox-app.com//c860bc0f-4c28-4a8b-8c25-c2fef9847b13.jpg",
+      "logo": "https://images.launchbox-app.com//2040edcc-8329-4531-a2d9-96f7168e5354.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho5.7z"
+     },
      {  
       "title": "Super Street Fighter 2 Turbo",
       "system": "fbneo",
