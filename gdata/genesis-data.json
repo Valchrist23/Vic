@@ -84,7 +84,7 @@
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Comix%20Zone%20%28USA%29.zip"
      },
-    {
+    {     
       "title": "Contra Hardcorps",
       "system": "genesis",
       "fileName": "Contra - Hard Corps (USA, Korea).zip",
@@ -95,6 +95,18 @@
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Contra%20-%20Hard%20Corps%20%28USA%2C%20Korea%29.zip"
-     }
+     },
+     {
+      "title": "Paprium",
+      "system": "genesis",
+      "fileName": "Paprium (mini game troll) (World).bin",
+      "cover": "https://images.launchbox-app.com//7b6d127d-f0da-4c06-8f75-b46981d21775.png",
+      "disc": "https://gamesdb-images.launchbox.gg/r2_91aded42-5b5e-4567-b585-2bfb6dd1ca57.png",
+      "manual": "https://archive.org/download/SEGAGenesisMegaDriveManuals/Comix%20Zone%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//40a0d16e-71ec-43c7-a079-da38f7606fdc.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/gen-md-hb/Paprium%20%28mini%20game%20troll%29%20%28World%29.zip/Paprium%20%28mini%20game%20troll%29%20%28World%29.bin"
+     },
 ] 
 }
