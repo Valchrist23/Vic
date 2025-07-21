@@ -31,6 +31,7 @@ Grand Thef Auto|https://archive.org/download/psx-chd-roms-g/Grand%20Theft%20Auto
 Guardians Crusade|https://archive.org/download/psx-chd-roms-g/Guardian%27s%20Crusade%20%28USA%29.chd
 Guilty Grear|https://archive.org/download/psx-chd-roms-g/Guilty%20Gear%20%28USA%29.chd
 G. Darius|https://archive.org/download/psx-chd-roms-g/G.%20Darius%20%28USA%29.chd
+Koudelka|https://archive.org/download/psx-chd-roms-k/Koudelka%20%28USA%29%20%28Disc%201%29.chd
 The Legend Of Dragoon|https://archive.org/download/final-fantasy-viii-usa_202507/Legend%20of%20Dragoon%2C%20The%20%28USA%29.PBP
 MediEvil|https://archive.org/download/chd_psx/CHD-PSX-USA/MediEvil%20%28USA%29.chd
 MediEvil II|https://archive.org/download/psx-chd-roms-m/MediEvil%20II%20%28USA%29.chd
