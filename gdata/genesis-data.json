@@ -12,7 +12,7 @@
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Aladdin%20%28USA%29.zip"
      },
-    {
+     {
       "title": "Adventures Of Batman And Robin",
       "system": "genesis",
       "fileName": "Adventures of Batman & Robin, The (USA)",
@@ -36,7 +36,7 @@
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Alien%20Storm%20%28World%29.zip"
      },
-    {
+     {
       "title": "Alien Soldier",
       "system": "genesis",
       "fileName": "Alien Soldier (USA) (Virtual Console).zip",
@@ -60,7 +60,7 @@
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Altered%20Beast%20%28USA%2C%20Europe%29.zip"
      },
-    {
+     {
       "title": "Castlevania Bloodlines",
       "system": "genesis",
       "fileName": "Castlevania - Bloodlines (USA).zip",
@@ -72,7 +72,7 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Castlevania%20-%20Bloodlines%20%28USA%29.zip"
      },
-    {
+     {
       "title": "Comic Zone",
       "system": "genesis",
       "fileName": "Comix Zone (USA).zip",
@@ -84,7 +84,7 @@
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Comix%20Zone%20%28USA%29.zip"
      },
-    {     
+     {     
       "title": "Contra Hardcorps",
       "system": "genesis",
       "fileName": "Contra - Hard Corps (USA, Korea).zip",
@@ -108,5 +108,5 @@
       "soundtrack": null,
       "url": "https://archive.org/download/gen-md-hb/Paprium%20%28mini%20game%20troll%29%20%28World%29.zip/Paprium%20%28mini%20game%20troll%29%20%28World%29.bin"
      }
-] 
-}
+   ] 
+  }
