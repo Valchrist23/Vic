@@ -769,6 +769,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     }, 
     {
+      "title": "Werewolf",
+      "system": "nes",
+      "fileName": "Werewolf(U).zip",
+      "cover": "https://images.launchbox-app.com//0ea95b78-a781-4e8c-ab02-bf3a983d4581.png",
+      "disc": "https://images.launchbox-app.com//9fbb91d2-ecb5-42b7-b162-2d7ac2241ab0.png",
+      "manual": "https://archive.org/download/NESManuals/Werewolf%20-%20The%20Last%20Warrior%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//e7b74e4c-473c-42a9-abda-1ddbcafeb043.png",
+      "gameplay": "https://www.youtube.com/watch?v=IN-JAdsAQWM",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Werewolf%28U%29.zip"
+    },
+    {
       "title": "Wizards Warriors",
       "system": "nes",
       "fileName": "Wizards.Warriors(U).zip",
@@ -791,6 +803,18 @@
       "gameplay": "https://www.youtube.com/watch?v=Eu3-ulz6tDQ",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/refs/heads/main/gamesoundtracks/wizardsandwarriors2ironsword.m3u",
       "url": "https://archive.org/download/famicomnes-games/Ironsword-Wizards%26Warriors.2%28U%29.zip"
+    },
+    {
+      "title": "Wolverine",
+      "system": "nes",
+      "fileName": "Wolverine(U).zip",
+      "cover": "https://images.launchbox-app.com//87b66e5a-8817-433d-84ee-b170051c4109.png",
+      "disc": "https://images.launchbox-app.com//0d50013e-7f81-4dbf-9746-2b8bd3425ecd.png",
+      "manual": "https://archive.org/download/NESManuals/Wolverine%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//efedaa9c-01c4-4b4e-8c39-57d75599e36c.png",
+      "gameplay": "https://www.youtube.com/watch?v=_xKbpHEEboM",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Wolverine%28U%29.zip"
     },
      {       
       "title": "Wrath of the Black Manta",
