@@ -24,7 +24,19 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
       "url": "https://archive.org/download/akumajou-dracula-x-gekka-no-yasoukyoku-japan-2-m_202507/Akumajou%20Dracula%20X%20-%20Gekka%20no%20Yasoukyoku%20%28Japan%29%20%282M%29.chd"
      },
-    {
+     {
+      "title": "Deep Fear",
+      "system": "saturn",
+      "fileName": "Deep Fear (USA) (Disc 1) (Unl).chd",
+      "cover": "https://images.launchbox-app.com//776ed382-472b-4eb2-b4f9-fe774c66f9c5.png",
+      "disc": "https://images.launchbox-app.com//67c7eafd-9718-4776-94e7-b1d9f33ea566.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//d6e36fca-3dd5-4c22-9da0-ab8906047d27.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniasotn.m3u",
+      "url": "https://archive.org/download/chd_saturn/CHD-Saturn/USA/Deep%20Fear%20%28USA%29%20%28Disc%201%29%20%28Unl%29.chd"
+     },
+     {   
       "title": "Guardian Heroes",
       "system": "saturn",
       "fileName": "Guardian Heroes (USA).chd",
