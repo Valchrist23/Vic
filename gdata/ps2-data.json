@@ -8395,7 +8395,7 @@
     "manual": null,
     "logo": null,
     "gameplay": null,
-    "soundtrack": null,
+    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsonsofliberty.m3u",
     "genres": "Action",
     "released": 2001,
     "url": null
@@ -8479,7 +8479,7 @@
     "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Metal%20Gear%20Solid%202-%20Substance%20%28USA%29.pdf",
     "logo": "https://images.launchbox-app.com/ff45c599-2ef1-4c92-b73a-cc3dca7e0409.png",
     "gameplay": "https://www.youtube.com/watch?v=eBXHCkJQbjw",
-    "soundtrack": null,
+    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsonsofliberty.m3u",
     "genres": "Action",
     "released": 2002,
     "url": null
