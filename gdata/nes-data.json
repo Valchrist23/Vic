@@ -576,6 +576,18 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/nightshadenes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Nightshade(U).zip"
     },
+     {
+      "title": "Silver Surfer",
+      "system": "nes",
+      "fileName": "Silver.Surfer(U).zip",
+      "cover": "https://images.launchbox-app.com//13bf7801-925d-4b8a-b5e2-ee8ba44b88f9.png",
+      "disc": "https://images.launchbox-app.com//cd3c435b-58c5-4d36-9d9c-b677392f6044.png",
+      "manual": "https://archive.org/download/NESManuals/Silver%20Surfer%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//f363b1ec-8e93-4269-adfe-40a893d394dc.png",
+      "gameplay": "https://www.youtube.com/watch?v=KiKA6vIrsHU",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/nightshadenes.m3u",
+      "url": "https://archive.org/download/famicomnes-games/Silver.Surfer%28U%29.zip"
+    },
     {    
       "title": "Star Wars Namco",
       "system": "nes",
