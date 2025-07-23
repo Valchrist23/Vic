@@ -229,6 +229,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip"
     },
     {
+      "title": "Darkman",
+      "system": "nes",
+      "fileName": "DARKMAN.zip",
+      "cover": "https://images.launchbox-app.com//791b0412-fc64-4605-b382-dcd23dafc0f7.png",
+      "disc": "https://images.launchbox-app.com//47dd120f-3101-4b03-ab95-5f23ba97480e.png",
+      "manual": "https://archive.org/download/NESManuals/Darkman%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//8f9c9fe8-9c54-4b3e-b143-c0e45cec44e2.png",
+      "gameplay": "https://www.youtube.com/watch?v=-25k6-iNnFA",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/doubledragonnes.m3u",
+      "url": "https://archive.org/download/famicomnes-games/DARKMAN.zip"
+    },
+    {   
       "title": "Double Dragon II - The Revenge",
       "system": "nes",
       "fileName": "Double Dragon II - The Revenge (USA).zip",
