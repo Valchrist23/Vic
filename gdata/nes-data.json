@@ -813,7 +813,7 @@
       "manual": "https://archive.org/download/NESManuals/Wolverine%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//efedaa9c-01c4-4b4e-8c39-57d75599e36c.png",
       "gameplay": "https://www.youtube.com/watch?v=_xKbpHEEboM",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/wolverinenes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Wolverine%28U%29.zip"
     },
      {       
