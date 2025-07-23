@@ -10425,7 +10425,7 @@
     "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20The%20Sands%20of%20Time%20%28USA%29.pdf",
     "logo": "https://images.launchbox-app.com/deb14a70-1b3e-47b1-a1a9-02939773097f.png",
     "gameplay": "https://www.youtube.com/watch?v=DS9VyArmIJ8",
-    "soundtrack": null,
+    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/princeofpersiasandsoftime.m3u",
     "genres": "Action",
     "released": 2003,
     "url": null
