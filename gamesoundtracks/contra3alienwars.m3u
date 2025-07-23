@@ -1,32 +1,46 @@
 #EXTM3U
-#EXTIMG:https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0
-#EXTINF:-1,01%20Red%20Falcon%27s%20Revenge.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 01 Red Falcon's Revenge
 https://archive.org/download/contra_III_soundtrack/01%20Red%20Falcon%27s%20Revenge.mp3
-#EXTINF:-1,02%20Ground%20Zero.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 02 Ground Zero
 https://archive.org/download/contra_III_soundtrack/02%20Ground%20Zero.mp3
-#EXTINF:-1,03%20Point%20of%20Entry.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 03 Point of Entry
 https://archive.org/download/contra_III_soundtrack/03%20Point%20of%20Entry.mp3
-#EXTINF:-1,04%20Tearing%20Up%20the%20Turnpike.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 04 Tearing Up the Turnpike
 https://archive.org/download/contra_III_soundtrack/04%20Tearing%20Up%20the%20Turnpike.mp3
-#EXTINF:-1,05%20Neo%20Kobe%20Steel%20Factory.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 05 Neo Kobe Steel Factory
 https://archive.org/download/contra_III_soundtrack/05%20Neo%20Kobe%20Steel%20Factory.mp3
-#EXTINF:-1,06%20Road%20Warriors.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 06 Road Warriors
 https://archive.org/download/contra_III_soundtrack/06%20Road%20Warriors.mp3
-#EXTINF:-1,07%20Nesting%20in%20the%20Sands.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 07 Nesting in the Sands
 https://archive.org/download/contra_III_soundtrack/07%20Nesting%20in%20the%20Sands.mp3
-#EXTINF:-1,08%20Invasion.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 08 Invasion
 https://archive.org/download/contra_III_soundtrack/08%20Invasion.mp3
-#EXTINF:-1,09%20Casualty%20of%20War.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 09 Casualty of War
 https://archive.org/download/contra_III_soundtrack/09%20Casualty%20of%20War.mp3
-#EXTINF:-1,10%20Mission%20Accomplished.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 10 Mission Accomplished
 https://archive.org/download/contra_III_soundtrack/10%20Mission%20Accomplished.mp3
-#EXTINF:-1,11%20No%20Man%27s%20Land.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 11 No Man's Land
 https://archive.org/download/contra_III_soundtrack/11%20No%20Man%27s%20Land.mp3
-#EXTINF:-1,12%20The%20Final%20Gauntlet%20%28Part%201%29.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 12 The Final Gauntlet (Part 1)
 https://archive.org/download/contra_III_soundtrack/12%20The%20Final%20Gauntlet%20%28Part%201%29.mp3
-#EXTINF:-1,13%20The%20Final%20Gauntlet%20%28Part%202%29.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 13 The Final Gauntlet (Part 2)
 https://archive.org/download/contra_III_soundtrack/13%20The%20Final%20Gauntlet%20%28Part%202%29.mp3
-#EXTINF:-1,14%20The%20Final%20Gauntlet%20%28Part%203%29.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 14 The Final Gauntlet (Part 3)
 https://archive.org/download/contra_III_soundtrack/14%20The%20Final%20Gauntlet%20%28Part%203%29.mp3
-#EXTINF:-1,15%20Cease%20Fire.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803409.us.archive.org/29/items/contra_III_soundtrack/folder.jpg?cnt=0" group-title="Music", 15 Cease Fire
 https://archive.org/download/contra_III_soundtrack/15%20Cease%20Fire.mp3
