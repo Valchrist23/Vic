@@ -10431,6 +10431,20 @@
     "url": null
   },
   {
+    "title": "Prince of Persia: Warrior Within",
+    "fileName": "The Prince Of Persia Warrior Within.chd",
+    "system": "ps2",
+    "cover": "https://images.launchbox-app.com/79e2f6f0-2a49-44e9-875e-64dbfdc1cbcb.png",
+    "disc": "https://images.launchbox-app.com/2eced448-133c-432a-a2d4-15a09be53053.png",
+    "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20Warrior%20Within%20%28USA%29.pdf",
+    "logo": "https://images.launchbox-app.com/cac7b0b3-12fa-4700-a69f-13c46635c95c.png",
+    "gameplay": "https://www.youtube.com/watch?v=0ioxqzixQjI",
+    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/princeofpersiawarriorwithin.m3u",
+    "genres": "Action",
+    "released": 2004,
+    "url": null
+  },
+  {
     "title": "Prince of Persia: The Two Thrones",
     "fileName": "The Prince Of Persia The Two Thrones.chd",
     "system": "ps2",
@@ -10439,7 +10453,7 @@
     "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20The%20Two%20Thrones%20%28USA%29.pdf",
     "logo": "https://images.launchbox-app.com/4cf5a70e-db46-4a7a-a02c-63740d210758.png",
     "gameplay": "https://www.youtube.com/watch?v=NaLilZcEME8",
-    "soundtrack": null,
+    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/princeofpersiathetwothrones.m3u",
     "genres": "Action",
     "released": 2005,
     "url": null
@@ -10498,20 +10512,6 @@
     "soundtrack": null,
     "genres": "Action",
     "released": 2005,
-    "url": null
-  },
-  {
-    "title": "Prince of Persia: Warrior Within",
-    "fileName": "The Prince Of Persia Warrior Within.chd",
-    "system": "ps2",
-    "cover": "https://images.launchbox-app.com/79e2f6f0-2a49-44e9-875e-64dbfdc1cbcb.png",
-    "disc": "https://images.launchbox-app.com/2eced448-133c-432a-a2d4-15a09be53053.png",
-    "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Prince%20of%20Persia-%20Warrior%20Within%20%28USA%29.pdf",
-    "logo": "https://images.launchbox-app.com/cac7b0b3-12fa-4700-a69f-13c46635c95c.png",
-    "gameplay": "https://www.youtube.com/watch?v=0ioxqzixQjI",
-    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/princeofpersiawarriorwithin.m3u",
-    "genres": "Action",
-    "released": 2004,
     "url": null
   },
   {
