@@ -1,15 +1,22 @@
+#EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/title-screen.jpg" group-title="Music", 01 Title Screen, The End
 https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/qzbidhwp/01%20Title%20Screen%2C%20The%20End.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/title-screen.jpg" group-title="Music", 02 Level 01 - The First Trial
 https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/vutiwqfm/02%20Level%2001%20-%20The%20First%20Trial.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/title-screen.jpg" group-title="Music", 03 Level 02 - Trial By Air
 https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/padcmeah/03%20Level%2002%20-%20Trial%20By%20Air.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/title-screen.jpg" group-title="Music", 04 Level Bonus
 https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/agsvpshk/04%20Level%20Bonus.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/title-screen.jpg" group-title="Music", 05 Sabretooth's Message
 https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/mbmmqmta/05%20Sabretooth%27s%20Message.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/title-screen.jpg" group-title="Music", 06 Bonus Room
 https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/sykjfdii/06%20Bonus%20Room.mp3
 
+#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/title-screen.jpg" group-title="Music", 08 Game Over
 https://kappa.vgmsite.com/soundtracks/wolverine-original-game-rip/qialqujt/08%20Game%20Over.mp3
