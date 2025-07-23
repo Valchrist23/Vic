@@ -8317,20 +8317,6 @@
     "url": null
   },
   {
-    "title": "Metal Gear Solid 3: Subsistence",
-    "fileName": "Metal Gear Solid 3 Subsistance.chd",
-    "system": "ps2",
-    "cover": "https://images.launchbox-app.com/fc75e3a8-b701-4532-85fa-e39e5e9f0487.png",
-    "disc": "https://images.launchbox-app.com/d83a8a4a-9b26-40cb-93c8-637ea4c819f7.png",
-    "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Metal%20Gear%20Solid%203-%20Subsistence%20%28USA%29.pdf",
-    "logo": "https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png",
-    "gameplay": "https://www.youtube.com/watch?v=N6ZSAPD4SL8",
-    "soundtrack": null,
-    "genres": "Action",
-    "released": 2005,
-    "url": null
-  },
-  {
     "title": "Madden NFL 2005",
     "fileName": "Madden NFL 2005",
     "system": "ps2",
@@ -8353,7 +8339,7 @@
     "manual": null,
     "logo": null,
     "gameplay": null,
-    "soundtrack": null,
+    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsnakeeater.m3u",
     "genres": "Action",
     "released": 2004,
     "url": null
@@ -8485,6 +8471,20 @@
     "url": null
   },
   {
+    "title": "Metal Gear Solid 3: Subsistence",
+    "fileName": "Metal Gear Solid 3 Subsistence.chd",
+    "system": "ps2",
+    "cover": "https://images.launchbox-app.com/fc75e3a8-b701-4532-85fa-e39e5e9f0487.png",
+    "disc": "https://images.launchbox-app.com/d83a8a4a-9b26-40cb-93c8-637ea4c819f7.png",
+    "manual": "https://archive.org/download/kirklands-manual-labor-sony-playstation-2-usa-4k-version/Metal%20Gear%20Solid%203-%20Subsistence%20%28USA%29.pdf",
+    "logo": "https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png",
+    "gameplay": "https://www.youtube.com/watch?v=N6ZSAPD4SL8",
+    "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsnakeeater.m3u",
+    "genres": "Action",
+    "released": 2005,
+    "url": null
+  },
+  {
     "title": "Metal Slug: Anthology",
     "fileName": "Metal Slug_ Anthology",
     "system": "ps2",
@@ -8549,7 +8549,7 @@
     "manual": null,
     "logo": null,
     "gameplay": null,
-    "soundtrack": null,
+    "soundtrack": ""https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/metalgearsnakeeater.m3u"",
     "genres": "Special edition",
     "released": 2005,
     "url": null
