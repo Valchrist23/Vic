@@ -421,6 +421,18 @@
       "url": "https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip"
     },
     {
+      "title": "Holy Diver",
+      "system": "nes",
+      "fileName": "Holy Diver (J).zip",
+      "cover": "https://images.launchbox-app.com//a240187b-c327-4596-acb0-3408782f7efe.png",
+      "disc": "https://images.launchbox-app.com//e470f1a2-a44a-4e25-be1e-5d43cc5e7d17.png",
+      "manual": "https://archive.org/download/NESManuals/Gyruss%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//a5e6ad5c-06eb-45db-b257-4cc96524fcdb.png",
+      "gameplay": "https://www.youtube.com/watch?v=GaAN80WoEhE",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Holy.Diver%28J%29.zip"
+    },
+    {   
       "title": "Hook",
       "system": "nes",
       "fileName": "Hook (USA).nes",
