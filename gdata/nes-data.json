@@ -733,6 +733,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     },
     {
+      "title": "Swamp Thing",
+      "system": "nes",
+      "fileName": "Swamp.Thing(U).zip",
+      "cover": "https://images.launchbox-app.com//6944dcb4-d97a-4869-9e4b-925c045aeb72.png",
+      "disc": "https://images.launchbox-app.com//12dc31a4-8d3f-41bb-8748-41f69d9cfd45.png",
+      "manual": "https://archive.org/download/NESManuals/Swamp%20Thing%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//de106c4f-c2bc-4da3-b7fc-dd1819c72252.png",
+      "gameplay": "https://www.youtube.com/watch?v=Op3xKpIJUzU",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/supermario3.m3u",
+      "url": "https://archive.org/download/famicomnes-games/Swamp.Thing%28U%29.zip"
+    },
+    {   
       "title": "Teenage Mutant Ninja Turtles",
       "system": "nes",
       "fileName": null,
