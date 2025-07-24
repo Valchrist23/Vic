@@ -525,7 +525,7 @@
       "manual": "https://archive.org/download/NESManuals/Ninja%20Gaiden%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//93cceb28-cc6c-427c-8c54-8d84eb5879b1.png",
       "gameplay": null,
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/ninjagaidennes.m3u",
       "url": "https://archive.org/download/famicomnes-games/NinjaGa1.zip"
     },
     {
