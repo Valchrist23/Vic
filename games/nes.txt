@@ -36,6 +36,7 @@ Goonies 2|https://archive.org/download/famicomnes-games/Goonies.2-Furatterii.Sai
 Gradius|https://archive.org/download/famicomnes-games/Gradius%28J%29.zip/Gradius%20%28J%29.nes
 Gradius 2|https://archive.org/download/famicomnes-games/Gradius.2%28J%29.zip
 Gyruss|https://archive.org/download/famicomnes-games/Gyruss.zip
+Holy Diver|https://archive.org/download/famicomnes-games/Holy.Diver%28J%29.zip
 Hook|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Hook%20%28USA%29.zip/Hook%20%28USA%29.nes
 Choujikuu Yousai-Macross(J)|https://archive.org/download/famicomnes-games/Choujikuu.Yousai-Macross(J).zip
 Metal Gear|https://archive.org/download/action-52-usa-rev-a-unl_202306/Metal%20Gear%20%28USA%29.zip/Metal%20Gear%20%28USA%29.nes
