@@ -107,6 +107,18 @@
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Dick%20Tracy%20%28World%29.zip"
+     },
+    {     
+      "title": "TaleSpin",
+      "system": "genesis",
+      "fileName": "TaleSpin (USA, Europe).zip",
+      "cover": "https://images.launchbox-app.com//ce377bbe-1ff4-4a3c-92ac-4eeaf6b0c969.png",
+      "disc": "https://images.launchbox-app.com//55e4fc08-4b8d-4a4d-afdf-cbfd1518a7bb.png",
+      "manual": "https://segaretro.org/images/d/d0/TaleSpin_MD_US_Manual.pdf",
+      "logo": "https://images.launchbox-app.com//74a36859-5e82-42e1-a761-85ae2aae82ea.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/TaleSpin%20%28USA%2C%20Europe%29.zip"
      }
    ] 
   }
