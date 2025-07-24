@@ -840,7 +840,19 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/bartvstheworld.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     }, 
-    {
+    {    
+      "title": "Toxic Crusaders",
+      "system": "nes",
+      "fileName": "TOXCRUS.zip",
+      "cover": "https://images.launchbox-app.com//8a9ac4b1-c4c0-4192-8973-02d5e06e57b8.png",
+      "disc": "https://images.launchbox-app.com//b91ebd51-ae52-47f0-9393-5caa8f000ea1.png",
+      "manual": "https://archive.org/download/NESManuals/Toxic%20Crusaders%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//06aedecd-7153-43a7-a1b2-71a7883aa564.png",
+      "gameplay": "https://www.youtube.com/watch?v=7jXy8Ic4hH8",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/TOXCRUS.zip"
+    }, 
+    {   
       "title": "Werewolf",
       "system": "nes",
       "fileName": "Werewolf(U).zip",
