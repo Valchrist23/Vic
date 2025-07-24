@@ -441,7 +441,7 @@
       "manual": "https://archive.org/download/NESManuals/Hook%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//31a9cadc-0854-47f9-bf05-6578e5828f9e.png",
       "gameplay": "https://www.youtube.com/watch?v=ih3ESrufzZ0",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/hooknes.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Hook%20%28USA%29.zip"
     },
     {
@@ -450,7 +450,7 @@
       "fileName": "Choujikuu Yousai-Macross(J).nes",
       "cover": "https://images.launchbox-app.com//7159d34e-617c-45b3-8f74-1bda5065c2c4.png",
       "disc": "https://images.launchbox-app.com//189e3899-20fc-418c-b700-ee874e93384b.png",
-      "manual": "https://archive.org/download/NESManuals/Hook%20%28USA%29.pdf",
+      "manual": "",
       "logo": "https://images.launchbox-app.com//31a9cadc-0854-47f9-bf05-6578e5828f9e.png",
       "gameplay": "https://www.youtube.com/watch?v=ih3ESrufzZ0",
       "soundtrack": null,
