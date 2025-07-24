@@ -588,7 +588,19 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/nightshadenes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Nightshade(U).zip"
     },
-     {
+    {
+      "title": "Shadow of the Ninja",
+      "system": "nes",
+      "fileName": "Shadow of the Ninja (USA).zip",
+      "cover": "https://images.launchbox-app.com//6d4d00ac-9aa0-4428-971b-aadf834114d5.png",
+      "disc": "https://images.launchbox-app.com//67996820-4b9d-4224-8753-22d5cb22f661.png",
+      "manual": "https://archive.org/download/NESManuals/Shadow%20of%20the%20Ninja%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//4937a63e-e04a-485c-bd5a-dc30919e19ee.png",
+      "gameplay": "https://www.youtube.com/watch?v=KiKA6vIrsHU",
+      "soundtrack": null,
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Shadow%20of%20the%20Ninja%20%28USA%29.zip"
+    },
+     {     
       "title": "Silver Surfer",
       "system": "nes",
       "fileName": "Silver.Surfer(U).zip",
