@@ -241,18 +241,6 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Crystalis%20%28USA%29.zip"
     },
     {
-      "title": "Double Dragon",
-      "system": "nes",
-      "fileName": "Double Dragon (USA).zip",
-      "cover": "https://images.launchbox-app.com//791b0412-fc64-4605-b382-dcd23dafc0f7.png",
-      "disc": "https://images.launchbox-app.com//47dd120f-3101-4b03-ab95-5f23ba97480e.png",
-      "manual": "https://archive.org/download/NESManuals/Battletoads-Double%20Dragon%20%28USA%29.pdf",
-      "logo": "https://images.launchbox-app.com//8f9c9fe8-9c54-4b3e-b143-c0e45cec44e2.png",
-      "gameplay": "https://www.youtube.com/watch?v=QvEXLVg55WM&t=13s",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/doubledragonnes.m3u",
-      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip"
-    },
-    {
       "title": "Darkman",
       "system": "nes",
       "fileName": "DARKMAN.zip",
@@ -264,13 +252,25 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/darkmannes.m3u",
       "url": "https://archive.org/download/famicomnes-games/DARKMAN.zip"
     },
+    {
+      "title": "Double Dragon",
+      "system": "nes",
+      "fileName": "Double Dragon (USA).zip",
+      "cover": "https://images.launchbox-app.com//791b0412-fc64-4605-b382-dcd23dafc0f7.png",
+      "disc": "https://images.launchbox-app.com//47dd120f-3101-4b03-ab95-5f23ba97480e.png",
+      "manual": "https://archive.org/download/NESManuals/Double%20Dragon%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//8f9c9fe8-9c54-4b3e-b143-c0e45cec44e2.png",
+      "gameplay": "https://www.youtube.com/watch?v=QvEXLVg55WM&t=13s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/doubledragonnes.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip"
+    },
     {   
       "title": "Double Dragon II - The Revenge",
       "system": "nes",
       "fileName": "Double Dragon II - The Revenge (USA).zip",
       "cover": "https://images.launchbox-app.com//6b59b847-6fff-4f56-b44a-f7e7ce049686.png",
       "disc": "https://images.launchbox-app.com//281de6d4-bf1d-4bdc-badf-ed0be66c7d98.png",
-      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "manual": "https://archive.org/download/NESManuals/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//c8f91f5e-490f-4d25-92f9-05ce19e4941d.png",
       "gameplay": "https://www.youtube.com/watch?v=fKFCMGoKwBA",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/doubledragon2nes.m3u",
@@ -282,7 +282,7 @@
       "fileName": "Double Dragon III - The Sacred Stones (USA).zip",
       "cover": "https://images.launchbox-app.com//0442ccba-61d6-4d4f-a3b5-8558b171f7ab.png",
       "disc": "https://images.launchbox-app.com//01daf2b7-be5a-44a9-8486-a24590808d59.png",
-      "manual": "https://archive.org/download/NESManuals/Batman%20-%20The%20Video%20Game%20%28USA%29.pdf",
+      "manual": "https://archive.org/download/NESManuals/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//62f2cc87-f7b4-47fe-9ab0-51a8c09df8d2.png",
       "gameplay": "https://www.youtube.com/watch?v=GXEE28cdnVg&t=69s",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/doubledragon3.m3u",
