@@ -72,7 +72,7 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Castlevania%20-%20Bloodlines%20%28USA%29.zip"
      },
-     {
+     {  
       "title": "Comic Zone",
       "system": "genesis",
       "fileName": "Comix Zone (USA).zip",
@@ -95,6 +95,18 @@
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Contra%20-%20Hard%20Corps%20%28USA%2C%20Korea%29.zip"
+     },
+      {     
+      "title": "Dick Tracy",
+      "system": "genesis",
+      "fileName": "Dick Tracy (World).zip",
+      "cover": "https://images.launchbox-app.com//f517fb87-ae21-4d90-8fd0-a009ce75ca65.png",
+      "disc": null,
+      "manual": "https://emubox.net/resources/GAME/377/UK0GLHVw.pdf",
+      "logo": "https://images.launchbox-app.com//5a66d0ed-48ca-440b-9add-e7ff33f9a1a5.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Dick%20Tracy%20%28World%29.zip"
      }
    ] 
   }
