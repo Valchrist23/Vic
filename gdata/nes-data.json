@@ -108,7 +108,20 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Battletoads-Double%20Dragon%20%28USA%29.zip"
     },
-    {
+    {         
+      "title": "Blaster-Master (Wastelands)",
+      "system": "nes",
+      "fileName": "Blaster-Master (Wastelands).zip",
+      "cover": "https://images.launchbox-app.com//7ea377bc-4d1d-44dd-b581-4207f99fa8a7.png",
+      "disc": "https://images.launchbox-app.com//b77a3628-1192-449f-a0e4-298b52dc6f98.png",
+      "manual": "https://archive.org/download/NESManuals/Battletoads-Double%20Dragon%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//cca6d879-65d3-4229-9b16-b9c4054139c3.png",
+      "gameplay": "https://www.youtube.com/watch?v=WNK9p4Zh-Ec&t=29s",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fzero-x.m3u",
+      "url": "https://archive.org/download/demons-of-asteborg-usa/Blaster-Master%20%28Wastelands%29.zip"
+    },
+    
+    {    
       "title": "Bionic Commando",
       "system": "nes",
       "fileName": "BIONIC_C.zip",
