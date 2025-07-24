@@ -374,6 +374,18 @@
       "url": "https://archive.org/download/famicomnes-games/Flying.Warriors%28U%29.zip"
     },
     {
+      "title": "Frankenstein The Monster Returns",
+      "system": "nes",
+      "fileName": "Frankenstein - The Monster Returns (USA).zip",
+      "cover": "https://images.launchbox-app.com//31980568-68fa-45a8-9708-b4dc4118794e.png",
+      "disc": "https://images.launchbox-app.com//8f061da0-94c4-4730-b170-1675109f2310.png",
+      "manual": "https://archive.org/download/NESManuals/Frankenstein%20-%20The%20Monster%20Returns%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//d11d2a0e-28e2-4a13-b962-4189b9ede20d.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/demons-of-asteborg-usa/Frankenstein%20-%20The%20Monster%20Returns%20%28USA%29.zip"
+    },
+    {   
       "title": "Friday the 13th",
       "system": "nes",
       "fileName": "Friday the 13th (USA).nes",
