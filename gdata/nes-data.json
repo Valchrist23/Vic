@@ -85,6 +85,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Batman%20Returns%20%28USA%29.zip"
     },
     {
+      "title": "Battletoads",
+      "system": "nes",
+      "fileName": "Battletoads (USA).zip",
+      "cover": "https://images.launchbox-app.com//4b0771cc-4725-4bbd-ad41-2d77360e2417.png",
+      "disc": "https://images.launchbox-app.com//14d121aa-ffa2-46de-841f-0e2c0a8568e0.png",
+      "manual": "https://archive.org/download/NESManuals/Battletoads%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//329dcd0f-3a4e-47f5-b67b-4f4c1afc28e4.png",
+      "gameplay": "https://www.youtube.com/watch?v=aiaXMktO0jQ",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/batmanreturnsnes.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Battletoads%20%28USA%29.zip"
+    },
+    {         
       "title": "Battletoads-Double Dragon",
       "system": "nes",
       "fileName": "Battletoads-Double Dragon (USA).zip",
