@@ -145,6 +145,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Captain%20America%20and%20the%20Avengers%20%28USA%29.zip"
     },
     {
+      "title": "Captain Planet",
+      "system": "nes",
+      "fileName": "CAPTAINP.zip",
+      "cover": "https://images.launchbox-app.com//5b4a64eb-ffc0-4e8c-9d1b-f08cbc38b731.png",
+      "disc": "https://images.launchbox-app.com//9b7f320f-4541-48c1-9be7-8ca37dd1d615.png",
+      "manual": "https://archive.org/download/NESManuals/Captain%20Planet%20and%20the%20Planeteers%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//50ab7901-3a52-4180-989f-605ad58c66ad.png",
+      "gameplay": "https://www.youtube.com/watch?v=XuM-9-OuTDU",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/CAPTAINP.zip"
+    },
+    { 
       "title": "Captain Skyhawk",
       "system": "nes",
       "fileName": "Captain Skyhawk (USA).zip",
