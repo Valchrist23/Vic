@@ -111,7 +111,7 @@
      {     
       "title": "Master of Darkness",
       "system": "genesis",
-      "fileName": "Master of Darkness (Europe, Brazil) (En).zip ",
+      "fileName": "Master of Darkness (Europe, Brazil) (En).zip",
       "cover": "https://images.launchbox-app.com//5785e7e3-7063-48fb-bce7-aff6a7216ec2.png",
       "disc": "https://images.launchbox-app.com//682d4484-f04c-4bcf-bf72-68ba348d70de.png",
       "manual": null,
@@ -131,6 +131,18 @@
       "gameplay": null,
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/TaleSpin%20%28USA%2C%20Europe%29.zip"
+     },
+    {     
+      "title": "Toxic Crusader",
+      "system": "genesis",
+      "fileName": "Toxic Crusaders (USA).zip",
+      "cover": "https://images.launchbox-app.com//7623df57-d174-4706-9ff1-453bdbbf7f4c.png",
+      "disc": "https://images.launchbox-app.com//c1e99578-c7d2-4f7a-871d-e54a7c3bbe3d.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//bf2414b6-8462-4639-b8d5-5bd22620c5d8.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://https://archive.org/download/sega-genesis-romset-ultra-usa/Toxic%20Crusaders%20%28USA%29.zip"
      }
    ] 
   }
