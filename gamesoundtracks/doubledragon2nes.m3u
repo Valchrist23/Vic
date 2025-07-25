@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Title Screen
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/jomaeuid/01%20Dead%20or%20Alive%20%28Opening%20Theme%29%20-Female%20Vocal%20Version-.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Title Screen
 https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/lemenrfx/01%20Title%20Screen.mp3
 
 #EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Onto the Next Area...
@@ -56,3 +59,36 @@ https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/fumspiob/18%20S
 
 #EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Game Over
 https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/oedsgvfg/19%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Heliport
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/btavbfbs/03%20Silent%20Pursuit%20%28Mission%202%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Chopper
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/hkjjnuja/04%20Night%20Sky%20Tension%20%28Mission%203%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Undersea Base
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/ernvwhqi/05%20Charging%20towards%20the%20Morning%20Glow%20%28Mission%204%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Forest Of Death
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/gnjrszmk/06%20Escape%20to%20the%20Forest%20%28Mission%205%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Mansion Of Terror 
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/mvevgfig/07%20Wicked%20God%20%28Mission%206%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged The Traproom
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/ttzgefqx/08%20Breaking%20the%20Barrier%20%28Mission%207%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Entering The Enemy Base
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/eaenkkph/09%20Entering%20the%20Enemy%20Base%20%28Mission%208%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Roar Of The Twin Dragons
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/ncphxepl/10%20Roar%20of%20the%20Twin%20Dragons%20%28Destined%20Confrontation%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged End The Fight
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/ykjuiwow/11%20Miracle%20of%20the%20Twin%20Dragons%20%28End%20the%20Fighting%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Sweet Memories
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/gvchcdpl/12%20Sweet%20Memories%20%28Ending%20Theme%29.mp3
+
+#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/double-dragon-ii-the-revenge-nes/Double%20Dragon%202%20-%20The%20Revenge%20%28NES%29%20%28gamerip%29%20%281989%29.jpg" group-title="Music", Arranged Dead Or Alive Edit Version
+https://kappa.vgmsite.com/soundtracks/double-dragon-2-arranged/uvhdumbt/13%20Dead%20or%20Alive%20%28Edit%20Version%29.mp3
