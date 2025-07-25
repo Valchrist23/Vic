@@ -660,7 +660,31 @@
       "soundtrack": null,
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/simpsons4pe.7z"
      },
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "system": "fbneo",
+      "fileName": "tmht.7z",
+      "cover": "https://images.launchbox-app.com//32086533-c102-446d-81ee-4916e36abc69.png",
+      "disc": "https://images.launchbox-app.com//5547b1c9-780f-4349-9c3c-0683b353eb51.png",
+      "manual": "https://images.launchbox-app.com//c3da74c7-7c8e-4c9d-85ca-b60b830be0de.jpg",
+      "logo": "https://images.launchbox-app.com//1684c25f-fb33-47f4-9e15-167c57446723.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/tmht.7z"
+     },
      {
+      "title": "Teenage Mutant Ninja Turtles In Time",
+      "system": "fbneo",
+      "fileName": "tmnt24pu.7z",
+      "cover": "https://images.launchbox-app.com//79cac44e-e907-4005-a80f-2f07541215c0.jpg",
+      "disc": "https://images.launchbox-app.com//0c32725d-f9ed-4f7f-b840-accecd9b805b.png",
+      "manual": "https://images.launchbox-app.com//3a64f0d0-6096-466e-b757-23f504b219d4.png",
+      "logo": "https://gamesdb-images.launchbox.gg/r2_86d7a43b-39de-4d79-9561-8e13523a1b19.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/tmnt24pu.7z"
+     },
+     {     
       "title": "X-Men",
       "system": "fbneo",
       "fileName": "xmen6p.7z",
