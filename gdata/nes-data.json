@@ -394,7 +394,7 @@
       "manual": "https://archive.org/download/NESManuals/Friday%20the%2013th%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//0213078b-8ec6-49c5-95ce-8b1b89bb8f87.png",
       "gameplay": "https://www.youtube.com/watch?v=Dhg4Pl1X39U",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/fridaythe13thnes.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Friday%20the%2013th%20%28USA%29.zip/Friday%20the%2013th%20%28USA%29.nes"
     },
     {
