@@ -890,6 +890,18 @@
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     }, 
     {    
+      "title": "Total.Recall",
+      "system": "nes",
+      "fileName": "Total.Recall(U).zip",
+      "cover": "https://images.launchbox-app.com//ebdc9ef1-92ca-4185-846d-26e650325cb4.png",
+      "disc": "https://images.launchbox-app.com//c44af633-2e26-4b41-b763-b32c8b2287e0.png",
+      "manual": "https://archive.org/download/NESManuals/Total%20Recall%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//0a606130-ed1c-48c7-a8b2-61011135ea33.png",
+      "gameplay": "https://www.youtube.com/watch?v=UDHyhE3t0cM",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Total.Recall%28U%29.zip"
+    },
+    {    
       "title": "Toxic Crusaders",
       "system": "nes",
       "fileName": "TOXCRUS.zip",
