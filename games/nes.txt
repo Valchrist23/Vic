@@ -20,7 +20,7 @@ Contra|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Contra
 SUPERC|https://archive.org/download/famicomnes-games/SUPERC.zip
 Crystalis|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Crystalis%20%28USA%29.zip/Crystalis%20%28USA%29.nes
 Darkman|https://archive.org/download/famicomnes-games/DARKMAN.zip
-Double Dragon|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20%28USA%29.zip/Double%20Dragon%20%28USA%29.nes
+Real Double Dragon (U) [v1.0].nes|https://archive.org/download/demons-of-asteborg-usa/Real%20Double%20Dragon%20%28U%29%20%5Bv1.0%5D.nes
 Double Dragon II - The Revenge|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.zip/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.nes
 Double Dragon III - The Sacred Stones|https://archive.org/download/star-wars-the-empire-strikes-back-usa/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.zip/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.nes
 Double Dragon 4|https://archive.org/download/famicomnes-games/Double.Dragon.4%28J%29.zip
