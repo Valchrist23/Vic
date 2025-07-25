@@ -695,6 +695,18 @@
       "gameplay": "https://www.youtube.com/watch?v=8FYU5IJc0y8",
       "soundtrack": null,
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmen6p.7z"
+     },
+    {
+      "title": "X-Men Children Of The Atom",
+      "system": "fbneo",
+      "fileName": "xmcota.7z",
+      "cover": "https://images.launchbox-app.com//9a8271e9-66d0-4ed4-b550-5b54e1f5f9f3.jpg",
+      "disc": "https://images.launchbox-app.com//7e9895ef-2c1e-41d3-8505-6a6c727e41fc.png",
+      "manual": "https://images.launchbox-app.com//d2394db3-3093-4bc4-a52f-d4fdca2b42e6.jpg",
+      "logo": "https://images.launchbox-app.com//2d762422-5346-4216-b3a5-4a2f5f72fc66.png",
+      "gameplay": "https://www.youtube.com/watch?v=Tp_AyKIyV9s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmcota.7z"
      }
 ]
 }
