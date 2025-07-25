@@ -88,8 +88,8 @@ Street Fighter III|https://archive.org/download/cylums-final-burn-neo-rom-collec
 Street Fighter III 2nd Impact|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiii2.zip
 Street Fighter III 3rd Impact|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiii3u.zip
 Strider|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/strider.zip
-Teenage Mutant Ninja Turtles|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/tmht.7z
-Teenage Mutant Ninja Turtles In Time|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/tmnt24pu.7z
+tmht.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/tmht.7z
+tmnt24pu.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/tmnt24pu.7z
 Vampire Saviour|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsavu.zip
 Vampire Saviour 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsav2.zip
 Vampire Hunter 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vhunt2.zip
