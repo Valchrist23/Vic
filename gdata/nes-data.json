@@ -849,8 +849,8 @@
       "disc": "https://images.launchbox-app.com//ec301cb3-ab4e-42b9-96bf-400638994e33.png",
       "manual": "https://archive.org/download/NESManuals/Tiny%20Toon%20Adventures%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//73c425d7-0987-4146-abb8-636ba28cea81.png",
-      "gameplay": "https://www.youtube.com/watch?v=vJ_k3k6oS2A&t=184s",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/teenagemutantninjaturtles3nes.m3u",
+      "gameplay": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/tinytoonadventuresnes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Tiny.Toon.Adventures(U).zip"
     },
     {
@@ -861,8 +861,8 @@
       "disc": "https://images.launchbox-app.com//66d149d4-aa4b-46f3-82fd-fbec3571af2f.png",
       "manual": "https://archive.org/download/NESManuals/Tiny%20Toon%20Adventures%202%20-%20Trouble%20in%20Wackyland%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//1ac1e403-d713-4cb8-9da9-f500ff1a35e6.png",
-      "gameplay": "https://www.youtube.com/watch?v=vJ_k3k6oS2A&t=184s",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/teenagemutantninjaturtles3nes.m3u",
+      "gameplay": null,
+      "soundtrack": null,
       "url": "https://archive.org/download/famicomnes-games/Tiny.Toon.Adventures.2(J).zip"
     },
     {
