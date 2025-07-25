@@ -38,64 +38,64 @@ hook|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/hook.7z
 ikari|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/ikari.7z
 jackal|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jackal.7z
 jedi|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jedi.7z
-Jojo|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jojo.7z
+jojo|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/jojo.7z
 knights|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/knights.7z
 kod|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/kod.7z
 narc|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/narc.7z
-NBA Jam Hangtime|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/nbahangt.zip
-Ninja Batman|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/nbbatman.zip
-Macross|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/macross.zip
-Macross 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/macross2.zip
-Macross Plus|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/macrossp.zip
-Magic Sword|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/msword.zip
-Marvel Super Heroes|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mshu.zip
+nbahangt|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/nbahangt.zip
+nbbatman|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/nbbatman.zip
+macross|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/macross.zip
+macross2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/macross2.zip
+macrossp|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/macrossp.zip
+msword|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/msword.zip
+mshu|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mshu.zip
 mshvsf|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/mshvsf.7z      
 mvsc|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/mvsc.7z
-Megaman|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/megaman.zip
-Megaman 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/megaman2.zip
-Mercs|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mercs.zip
-Mortal Kombat|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mk.zip
-Mortal Kombat 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mk2.zip
-Mortal Kombat 3|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mk3.zip
-Moon Walker|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mwalk.zip
-Robocop|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/robocop.zip
-Robocop 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/robocop2u.zip
-Rygar|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/rygar.zip
-RType|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/rtype.zip
+megaman|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/megaman.zip
+megaman2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/megaman2.zip
+mercs|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mercs.zip
+mk|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mk.zip
+mk2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mk2.zip
+mk3|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mk3.zip
+mwalk|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/mwalk.zip
+robocop|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/robocop.zip
+robocop2u|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/robocop2u.zip
+rygar|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/rygar.zip
+rtype|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/rtype.zip
 samsho|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho.7z
 samsho2|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho2.7z
 samsho3|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho3.7z
 samsho4|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho4.7z
 samsho5|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/samsho5.7z
-SCobra|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/scobra.zip
-SContra|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/scontra.zip
+scobra|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/scobra.zip
+scontra|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/scontra.zip
 simpsons4pe|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/simpsons4pe.7z
 Shinobi|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/shinobi.zip
 Shadow Dancer|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/shdancer.zip
-Smash TV|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/smashtv.zip
-Star Wars|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/starwars.zip
+smashtv.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/smashtv.zip
+starwars|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/starwars.zip
 Star Wars Return Of The Jedi|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/jedi.zip
-Street Fighter|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sf.zip
-Street Fighter 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sf2.zip
-Street Fighter 2 Champion Edition|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sf2ce.zip
-Super Street Fighter 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/ssf2.zip
+sf.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sf.zip
+sf2.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sf2.zip
+sf2ce.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sf2ce.zip
+ssf2.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/ssf2.zip
 ssf2t|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/ssf2t.zip
-Super Gem Fighters|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sgemf.zip
-Street Fighter Alpha|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfau.zip
-Street Fighter Alpha 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfa2u.zip
+sgemf.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sgemf.zip
+sfau.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfau.zip
+sfa2u.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfa2u.zip
 sfa3.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/sfa3.7z
-Street Fighter III|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiiiu.zip
-Street Fighter III 2nd Impact|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiii2.zip
-Street Fighter III 3rd Impact|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiii3u.zip
-Strider|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/strider.zip
+sfiiiu.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiiiu.zip
+sfiii2.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiii2.zip
+sfiii3u.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/sfiii3u.zip
+strider.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/strider.zip
 tmht.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/tmht.7z
 tmnt24pu.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/tmnt24pu.7z
-Vampire Saviour|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsavu.zip
-Vampire Saviour 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsav2.zip
-Vampire Hunter 2|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vhunt2.zip
+vsavu.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsavu.zip
+vsav2.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vsav2.zip
+vhunt2.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/vhunt2.zip
 World Heroes|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/wh1.7z
 World Heroes 2J|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/wh2j.7z
 xmen6p.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmen6p.7z
-X-Men Children Of The Atom|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmcota.7z
-X-Men VS Street Fighter|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/xmvsfu.zip
+xmcota.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmcota.7z
+xmvsfu.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/xmvsfu.zip
 
