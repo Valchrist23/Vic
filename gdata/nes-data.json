@@ -638,6 +638,18 @@
       "url": "https://archive.org/download/famicomnes-games/Nightshade(U).zip"
     },
     {
+      "title": "Rocketeer",
+      "system": "nes",
+      "fileName": "ROCKETER.zip",
+      "cover": "https://images.launchbox-app.com//44c2daec-1bb5-43c0-81f7-bad350ae1878.png",
+      "disc": "https://images.launchbox-app.com//6712923c-89ee-48ee-b522-f083d60dfbb0.png",
+      "manual": "https://archive.org/download/NESManuals/Rocketeer%2C%20The%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//bc515557-13e2-42be-92ab-8b2223b2c38d.png",
+      "gameplay": "https://www.youtube.com/watch?v=sl8DNLA-3dI",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/nightshadenes.m3u",
+      "url": "https://archive.org/download/famicomnes-games/ROCKETER.zip"
+    },
+    {  
       "title": "Shadow of the Ninja",
       "system": "nes",
       "fileName": "Shadow of the Ninja (USA).zip",
