@@ -766,7 +766,7 @@
       "manual": "https://archive.org/download/NESManuals/Super%20Mario%20Bros.%202%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//50e5e865-5d6f-41d7-82ab-a58dfca7fe33.png",
       "gameplay": "https://www.youtube.com/watch?v=Op3xKpIJUzU",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/supermario2nes.m3u",
       "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Super%20Mario%20Bro.%202%20%28USA%29.zip"
     },
     {
