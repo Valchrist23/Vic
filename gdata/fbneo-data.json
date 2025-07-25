@@ -516,6 +516,30 @@
       "soundtrack": null,
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/knights.7z" 
      },
+     {
+      "title": "Robocop",
+      "system": "fbneo",
+      "fileName": "robocop",
+      "cover": "https://images.launchbox-app.com//11e0934b-73d6-4683-99ea-0726c723c024.jpg",
+      "disc": "https://images.launchbox-app.com//c6f0301b-3fcc-4136-979f-c94503e56d1e.png",
+      "manual": "https://images.launchbox-app.com//b7b53d86-e6af-43da-9aee-95a51795f4e0.jpg",
+      "logo": "https://images.launchbox-app.com//be74cb61-f524-4d27-823a-dcb5224c6acc.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/robocop.zip" 
+     },
+     {
+      "title": "Robocop 2",
+      "system": "fbneo",
+      "fileName": "robocop2u.zip",
+      "cover": "https://images.launchbox-app.com//15f79316-3584-4939-a56d-fee68f563a59.jpg",
+      "disc": "https://images.launchbox-app.com//93dcc633-60b9-4f0a-9fc9-51c259dd7a2a.png",
+      "manual": "https://images.launchbox-app.com//5d37e640-a2bc-4cd5-a6db-e96b760fa0d8.jpg",
+      "logo": "https://images.launchbox-app.com//ebc1406d-039c-4a5e-b94a-d35af605adc3.png",
+      "gameplay": "https://www.youtube.com/watch?v=ifP3Afn4HGA&t=7s",
+      "soundtrack": null,
+      "url": "https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/robocop2u.zip" 
+     },
      { 
       "title": "Return of the Jedi",
       "system": "fbneo",
