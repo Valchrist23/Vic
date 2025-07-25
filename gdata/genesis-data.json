@@ -108,7 +108,19 @@
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Dick%20Tracy%20%28World%29.zip"
      },
-    {     
+     {     
+      "title": "Master of Darkness",
+      "system": "genesis",
+      "fileName": "Master of Darkness (Europe, Brazil) (En).zip ",
+      "cover": "https://images.launchbox-app.com//5785e7e3-7063-48fb-bce7-aff6a7216ec2.png",
+      "disc": "https://images.launchbox-app.com//682d4484-f04c-4bcf-bf72-68ba348d70de.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//00697fa6-c28f-4257-bc90-2dc2853e5317.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/demons-of-asteborg-usa/Master%20of%20Darkness%20%28Europe%2C%20Brazil%29%20%28En%29.zip"
+     },
+    {    
       "title": "TaleSpin",
       "system": "genesis",
       "fileName": "TaleSpin (USA, Europe).zip",
