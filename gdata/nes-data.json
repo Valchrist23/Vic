@@ -889,17 +889,17 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/theadventuresofbayoubilly.m3u",
       "url": null
     },
-    {
+    {  
       "title": "The Simpsons Bart VS The Space Mutants",
       "system": "nes",
-      "fileName": null,
+      "fileName": "The.Simpsons.zip",
       "cover": "https://images.launchbox-app.com//ee7e6efd-d09c-45a7-bc8d-bd49011739ab.png",
       "disc": "https://images.launchbox-app.com//f913477a-f045-47e0-b7fb-f2af7f012407.png",
       "manual": "https://archive.org/download/NESManuals/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20Space%20Mutants%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//1e158663-772b-4345-8c54-b19a2e5cbe78.png",
       "gameplay": null,
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/thesimpsonsbartvsthespacemutantsnes.m3u",
-      "url": null
+      "url": "https://archive.org/download/famicomnes-games/The.Simpsons.zip"
     },
     {    
       "title": "The Simpsons Bart VS The World",
