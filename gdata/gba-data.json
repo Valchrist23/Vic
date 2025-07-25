@@ -24,6 +24,18 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniarondoofbloodpcengine.m3u",
       "url": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Castlevania%20-%20Aria%20of%20Sorrow.zip"
      }, 
+     {
+      "title": "Castlevania - Harmony of Dissonance",
+      "system": "gba",
+      "fileName": "Castlevania - Harmony of Dissonance (USA).gba",
+      "cover": "https://images.launchbox-app.com//e9fbf7b8-cfa6-4330-8484-fe6519494095.png",
+      "disc": "https://images.launchbox-app.com//45a300ed-c18d-4b33-9696-6e6184318203.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//d1ca0ac6-a4ba-48cb-b3d5-eab0f878b89c.png",
+      "gameplay": "https://www.youtube.com/watch?v=Fp_w7h9vew4",
+      "soundtrack": null,
+      "url": "https://archive.org/download/demons-of-asteborg-usa/Castlevania%20-%20Harmony%20of%20Dissonance%20%28USA%29.gba"
+     }, 
     {
       "title": "Double Dragon Advance",
       "system": "gba",
