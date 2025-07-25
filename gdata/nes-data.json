@@ -646,7 +646,7 @@
       "manual": "https://archive.org/download/NESManuals/Rocketeer%2C%20The%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//bc515557-13e2-42be-92ab-8b2223b2c38d.png",
       "gameplay": "https://www.youtube.com/watch?v=sl8DNLA-3dI",
-      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/nightshadenes.m3u",
+      "soundtrack": null,
       "url": "https://archive.org/download/famicomnes-games/ROCKETER.zip"
     },
     {  
