@@ -96,7 +96,20 @@
       "soundtrack": null,
       "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Contra%20-%20Hard%20Corps%20%28USA%2C%20Korea%29.zip"
      },
-      {     
+     {     
+      "title": "Demons Of Asteborg",
+      "system": "genesis",
+      "fileName": "Demons of Asteborg (USA).md",
+      "cover": "https://images.launchbox-app.com//52c1d5b2-6a35-48da-97d6-ffcf3f29e0a3.png",
+      "disc": "https://images.launchbox-app.com//15e22075-5d54-48b1-a784-e27be3eb057b.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//e79fce00-16c5-4252-8e2e-22d7e917c35a.png",
+      "gameplay": "https://www.youtube.com/watch?v=U20FapAQttA",
+      "soundtrack": null,
+      "url": "https://archive.org/download/demons-of-asteborg-usa/Demons%20of%20Asteborg%20%28USA%29.md"
+     },
+    
+    {     
       "title": "Dick Tracy",
       "system": "genesis",
       "fileName": "Dick Tracy (World).zip",
@@ -120,7 +133,19 @@
       "soundtrack": null,
       "url": "https://archive.org/download/demons-of-asteborg-usa/Master%20of%20Darkness%20%28Europe%2C%20Brazil%29%20%28En%29.zip"
      },
-    {    
+     {     
+      "title": "Swamp Thing",
+      "system": "genesis",
+      "fileName": "Swamp Thing (USA) (Proto).zip",
+      "cover": "https://images.launchbox-app.com//13795346-5f34-469e-9668-4538a83b9e19.png",
+      "disc": "https://images.launchbox-app.com//19cc76c0-795d-4973-93b0-85bcf4fc8aec.png",
+      "manual": null,
+      "logo": "https://images.launchbox-app.com//9f21423d-a4a6-47f9-8c66-becc2be889f3.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/sega-genesis-romset-ultra-usa/Swamp%20Thing%20%28USA%29%20%28Proto%29.zip"
+     },
+     {    
       "title": "TaleSpin",
       "system": "genesis",
       "fileName": "TaleSpin (USA, Europe).zip",
