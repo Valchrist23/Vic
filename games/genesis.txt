@@ -57,6 +57,7 @@ Teenage Mutant Ninja Turtles Hyper Stone Heist|https://archive.org/download/sega
 TaleSpin|https://archive.org/download/sega-genesis-romset-ultra-usa/TaleSpin%20%28USA%2C%20Europe%29.zip
 Teenage Mutant Ninja Turtles Tournament Fighters|https://archive.org/download/sega-genesis-romset-ultra-usa/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.zip
 The Terminator|https://archive.org/download/sega-genesis-romset-ultra-usa/Terminator%2C%20The%20%28USA%29.zip
+The Revenge of Shinobi|https://archive.org/download/demons-of-asteborg-usa/The%20Revenge%20of%20Shinobi%20%5BRestoration%5D.md
 Toxic Crusaders|https://archive.org/download/sega-genesis-romset-ultra-usa/Toxic%20Crusaders%20%28USA%29.zip
 X-Men|https://archive.org/download/sega-genesis-romset-ultra-usa/X-Men%20%28USA%29.zip
 X-Men Clone Wars|https://archive.org/download/sega-genesis-romset-ultra-usa/X-Men%202%20-%20Clone%20Wars%20%28USA%2C%20Europe%29.zip
