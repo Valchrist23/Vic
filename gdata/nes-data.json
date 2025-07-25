@@ -946,7 +946,7 @@
       "manual": "https://archive.org/download/NESManuals/Werewolf%20-%20The%20Last%20Warrior%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//e7b74e4c-473c-42a9-abda-1ddbcafeb043.png",
       "gameplay": "https://www.youtube.com/watch?v=IN-JAdsAQWM",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/werewolfnes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Werewolf%28U%29.zip"
     },
     {
