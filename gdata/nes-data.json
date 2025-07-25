@@ -381,8 +381,8 @@
       "disc": "https://images.launchbox-app.com//8f061da0-94c4-4730-b170-1675109f2310.png",
       "manual": "https://archive.org/download/NESManuals/Frankenstein%20-%20The%20Monster%20Returns%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//d11d2a0e-28e2-4a13-b962-4189b9ede20d.png",
-      "gameplay": null,
-      "soundtrack": null,
+      "gameplay": "https://www.youtube.com/watch?v=Uee62-AjzTU",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/frankensteinthemonsterreturnsnes.m3u",
       "url": "https://archive.org/download/demons-of-asteborg-usa/Frankenstein%20-%20The%20Monster%20Returns%20%28USA%29.zip"
     },
     {   
