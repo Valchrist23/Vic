@@ -865,6 +865,18 @@
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/teenagemutantninjaturtles3nes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Tiny.Toon.Adventures.2(J).zip"
     },
+    {
+      "title": "TMNT - Return to New York1.81",
+      "system": "nes",
+      "fileName": "TMNT - Return to New York1.81.zip",
+      "cover": "https://images.launchbox-app.com//cbc58403-efbc-4689-91fb-3337fb51e6fc.jpg",
+      "disc": "https://images.launchbox-app.com//780287f1-3854-4246-828b-4c39d870a8e8.png",
+      "manual": "https://archive.org/download/NESManuals/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//e1c72003-2202-4057-9170-c911581adac0.png",
+      "gameplay": "https://www.youtube.com/watch?v=tp_nYYudta4",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/teenagemutantninjaturtlesnes.m3u",
+      "url": "https://archive.org/download/famicomnes-games/Tiny.Toon.Adventures.2(J).zip"
+    },
     {   
       "title": "The Adventures Of Bayou Billy",
       "system": "nes",
