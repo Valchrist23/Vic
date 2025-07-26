@@ -8026,9 +8026,9 @@
     "url": null
   },
   {
-    "title": "Metal Gear 2: Solid Snake",
+    "title": "Metal Gear 2 Solid Snake",
     "system": "msx",
-    "fileName": null,
+    "fileName": "Metal Gear 2 - Solid Snake (1990) (Konami).zip",
     "cover": null,
     "disc": null,
     "manual": null,
@@ -8038,22 +8038,22 @@
     "genres": "Action",
     "released": 1990,
     "rating": 7.8,
-    "url": null
+    "url": "https://archive.org/download/MSX2RomCollectionByGhostware/Metal%20Gear%202%20-%20Solid%20Snake%20%281990%29%20%28Konami%29.zip"
   },
-  {
+  {     
     "title": "Metal Gear",
     "system": "msx",
-    "fileName": "Metal Gear (USA).rom",
+    "fileName": "Metal Gear 1 (1987) (Konami).zip",
     "cover": "https://images.launchbox-app.com//56cc0a7e-4289-4abf-8ba8-2e81e639d11a.png",
     "disc": "https://images.launchbox-app.com//d291a12e-c156-4fb9-bb22-f03ceced4d29.png",
-    "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
+    "manual": "https://archive.org/download/MetalGearManual/Metal_Gear-Manual.pdf",
     "logo": "https://images.launchbox-app.com//9e5282b4-d13c-4298-9e96-ba5b8990b6c5.png",
     "gameplay": null,
     "soundtrack": null,
     "genres": "Action",
     "released": 1987,
     "rating": 7.2,
-    "url": null
+    "url": "https://archive.org/download/MSX2RomCollectionByGhostware/Metal%20Gear%201%20%281987%29%20%28Konami%29.zip"
   },
   {
     "title": "M.U.L.E.",
@@ -12888,7 +12888,7 @@
   {
     "title": "Vampire Killer",
     "system": "msx",
-    "fileName": "Vampire Killer (USA).rom",
+    "fileName": "Akumajyo Drakyula - Vampire Killer (1986) (Konami).zip",
     "cover": "https://images.launchbox-app.com/b888c76b-de16-4c39-93aa-e33de72ea597.png",
     "disc": "https://images.launchbox-app.com//63ab3676-ef94-410b-9867-8becbb335fde.jpg",
     "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
@@ -12898,7 +12898,7 @@
     "genres": "Action",
     "released": 1986,
     "rating": "7.6",
-    "url": null
+    "url": "https://archive.org/download/MSX2RomCollectionByGhostware/Akumajyo%20Drakyula%20-%20Vampire%20Killer%20%281986%29%20%28Konami%29.zip"
   },
   {
     "title": "Vacuumania",
