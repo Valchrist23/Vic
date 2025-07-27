@@ -1362,7 +1362,7 @@
       "fileName": "Castlevania: The Dracula X Chronicles",
       "cover": "https://images.launchbox-app.com//35cb2c9b-c371-4a37-8abc-865cf2f5fb6c.png",
       "disc": "https://images.launchbox-app.com//898fa056-cef5-4a55-8747-c927eb11784a.png",
-      "manual": "https://archive.org/download/akumajou-dracula-rondo-of-blood-manual/Akumajou%20Dracula%20-%20Rondo%20of%20Blood.pdf",
+      "manual": "https://archive.org/download/SonyPSPManuals/Castlevania%20-%20The%20Dracula%20X%20Chronicles%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//7b0b7d63-d6e8-4c57-9fc7-ca49bc12d49d.png",
       "gameplay": null,
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/castlevaniadraculaxchronicles.m3u",
@@ -1532,6 +1532,18 @@
       "disc": null,
       "manual": null,
       "logo": null,
+      "gameplay": null,
+      "soundtrack": null,
+      "url": null
+    },
+    {
+      "title": "The 3rd Birthday",
+      "system": "psp",
+      "fileName": "The 3rd Birthday.chd",
+      "cover": "https://images.launchbox-app.com//72d56fed-287d-4322-ae11-2b5517127918.png",
+      "disc": "https://images.launchbox-app.com//71b23f0c-0770-4600-9f6a-662c38d87c94.png",
+      "manual": "https://archive.org/download/SonyPSPManuals/3rd%20Birthday%2C%20The%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//9c4a953f-0999-4dfc-bce6-69b9f765d30f.png",
       "gameplay": null,
       "soundtrack": null,
       "url": null
