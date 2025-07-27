@@ -661,6 +661,18 @@
       "soundtrack": null,
       "url": "https://archive.org/download/famicomnes-games/ROCKETER.zip"
     },
+    {
+      "title": "Robocop",
+      "system": "nes",
+      "fileName": "Robocop(J).zip",
+      "cover": "https://images.launchbox-app.com//dd02bce2-124e-420b-b427-3848e4df196e.png",
+      "disc": "https://images.launchbox-app.com//8d571b35-c499-40b1-a99d-ca261e962fa8.png",
+      "manual": "https://archive.org/download/NESManuals/Rocketeer%2C%20The%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//7c72f77c-6550-4ec2-a6e6-20138a05967d.png",
+      "gameplay": "https://www.youtube.com/watch?v=38xyigaHSmw",
+      "soundtrack": null,
+      "url": "https://archive.org/download/famicomnes-games/Robocop%28J%29.zip"
+    },
     {  
       "title": "Shadow of the Ninja",
       "system": "nes",
