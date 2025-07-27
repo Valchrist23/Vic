@@ -741,7 +741,7 @@
       "manual": "https://images.launchbox-app.com//3b204f9b-6ae6-4a34-aa94-445c58bb5527.jpg",
       "logo": "https://images.launchbox-app.com//f2d6e9f2-4406-499d-a4ac-aa7c62af77f9.png",
       "gameplay": "https://www.youtube.com/watch?v=NVuFkNfqZWc",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/xmenvsstreetfighterarcade.m3u",
       "url": "https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmvsf.7z"
      },
 ]
