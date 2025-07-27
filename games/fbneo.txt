@@ -97,5 +97,4 @@ World Heroes|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/wh1.7z
 World Heroes 2J|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/wh2j.7z
 xmen6p.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmen6p.7z
 xmcota.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmcota.7z
-xmvsfu.zip|https://archive.org/download/cylums-final-burn-neo-rom-collection/Cylum%27s%20FinalBurn%20Neo%20ROM%20Collection%20%2802-18-21%29/xmvsfu.zip
-
+xmvsf.7z|https://archive.org/download/svcpcb.7z/Vintage%20Arcade/xmvsf.7z
