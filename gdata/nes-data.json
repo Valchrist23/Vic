@@ -818,6 +818,18 @@
       "url": "https://archive.org/download/famicomnes-games/Swamp.Thing%28U%29.zip"
     },
     {
+      "title": "Sweet Home",
+      "system": "nes",
+      "fileName": "SSweet.Home(J).zip",
+      "cover": "https://images.launchbox-app.com//02ec230e-ce5c-4e64-b86b-cd1d10e2776a.png",
+      "disc": "https://images.launchbox-app.com//bcefc120-cd54-4019-af76-9759de5dc163.png",
+      "manual": "https://archive.org/download/NESManuals/Swamp%20Thing%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//331bdd6b-b1d7-4254-8044-ccf6a722a396.png",
+      "gameplay": "https://www.youtube.com/watch?v=n5JqOc-8zBU",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/sweethomeost.m3u",
+      "url": "https://archive.org/download/famicomnes-games/Sweet.Home%28J%29.zip"
+    },    
+    {  
       "title": "TaleSpin",
       "system": "nes",
       "fileName": "Tale.Spin.zip",
