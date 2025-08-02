@@ -674,6 +674,18 @@
       "url": "https://archive.org/download/famicomnes-games/Robocop%28J%29.zip"
     },
     {  
+      "title": "Shadowgate",
+      "system": "nes",
+      "fileName": "Shadowgate (USA).zip",
+      "cover": "https://images.launchbox-app.com//8fdbd8a7-68f7-46fb-9b1d-a82c81447063.png",
+      "disc": "https://images.launchbox-app.com//3ee7d9dd-a254-4cda-8b1a-196ef7f76924.png",
+      "manual": "https://archive.org/download/NESManuals/Shadowgate%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//aa876f8c-aae2-4113-948f-ff4b45ae3d02.png",
+      "gameplay": "https://www.youtube.com/watch?v=KiKA6vIrsHU",
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/shadowgatenes.m3u",
+      "url": "https://archive.org/download/star-wars-the-empire-strikes-back-usa/Shadow%20of%20the%20Ninja%20%28USA%29.zip"
+    },
+    {  
       "title": "Shadow of the Ninja",
       "system": "nes",
       "fileName": "Shadow of the Ninja (USA).zip",
