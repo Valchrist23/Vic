@@ -670,7 +670,7 @@
       "manual": "https://archive.org/download/NESManuals/Rocketeer%2C%20The%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//7c72f77c-6550-4ec2-a6e6-20138a05967d.png",
       "gameplay": "https://www.youtube.com/watch?v=38xyigaHSmw",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/robocopnes.m3u",
       "url": "https://archive.org/download/famicomnes-games/Robocop%28J%29.zip"
     },
     {  
