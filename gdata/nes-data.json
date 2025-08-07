@@ -598,7 +598,7 @@
       "manual": "https://archive.org/download/NESManuals/Ninja%20Gaiden%20II%20-%20The%20Dark%20Sword%20of%20Chaos%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//c9076f8f-9cba-4a96-995f-c09d14af1649.png",
       "gameplay": "https://www.youtube.com/watch?v=YhVpGJsN7NQ",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/ninjagaiden2nes.m3u"",
       "url": "https://archive.org/download/famicomnes-games/NINJAGA2.zip"
     },
     {
@@ -610,7 +610,7 @@
       "manual": "https://archive.org/download/NESManuals/Ninja%20Gaiden%20III%20-%20The%20Ancient%20Ship%20of%20Doom%20%28USA%29.pdf",
       "logo": "https://images.launchbox-app.com//43d510f8-6099-4cac-9c1f-dc324c1ba32b.png",
       "gameplay": "https://www.youtube.com/watch?v=YhVpGJsN7NQ",
-      "soundtrack": null,
+      "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/ninjagaiden3nes.m3u"",
       "url": "https://archive.org/download/famicomnes-games/Ninjaga3.zip"
     },
     {
