@@ -190,6 +190,18 @@
       "gameplay": "https://www.youtube.com/watch?v=i9eZ3JAWjfo",
       "soundtrack": "https://raw.githubusercontent.com/Valchrist23/Vic/master/gamesoundtracks/turtlesintime.m3u",
       "url": null
+     },
+     { 
+      "title": "Teenage Mutant Ninja Turtles - Tournament Fighters",
+      "system": "snes",
+      "fileName": "Teenage Mutant Ninja Turtles - Tournament Fighters (U).zip",
+      "cover": "https://images.launchbox-app.com//367e7333-3093-4ead-af6b-29707aa1ff05.png",
+      "disc": "https://images.launchbox-app.com//4eba8f34-6278-4aa6-bec3-f1b9c816efca.png",
+      "manual": "https://archive.org/download/snes-manual-archive/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.pdf",
+      "logo": "https://images.launchbox-app.com//44caef9b-c6c8-4961-ae2a-fd01b751b342.png",
+      "gameplay": null,
+      "soundtrack": null,
+      "url": "https://archive.org/download/snesromsetcompleate/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28U%29.zip"
      }
     ]
 }
