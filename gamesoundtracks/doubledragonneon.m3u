@@ -1,3 +1,10 @@
+#EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://ia803403.us.archive.org/5/items/double_dragon_neon_ost/cover_thumb.jpg?cnt=0" group-title="Music",City Streets
 https://archive.org/download/double_dragon_neon_ost/04-City%20Streets%202%20%28Mango%20Tango%20-%20Neon%20Jungle%29.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803403.us.archive.org/5/items/double_dragon_neon_ost/cover_thumb.jpg?cnt=0" group-title="Music",SpaceDojo
+https://archive.org/download/double_dragon_neon_ost/08-Space%20Dojo%201%20%28Double%20Dragon%201%20-%20Mission%202%29.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803403.us.archive.org/5/items/double_dragon_neon_ost/cover_thumb.jpg?cnt=0" group-title="Music",Firebird
+https://archive.org/download/double_dragon_neon_ost/09-Space%20Dojo%202%20%28Billy%20and%20the%20Breakers%20-%20Firebird%29.mp3
