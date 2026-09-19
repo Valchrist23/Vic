@@ -1,45 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Title BGM
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/ozdztacg/01%20Title%20BGM.mp3
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 Intro" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 01
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/01%20Intro.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Overworld BGM
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/wwfjewoe/02%20Overworld%20BGM.mp3
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 Fairy" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 02
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/02%20Fairy.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Underworld BGM
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/tcecrhim/03%20Underworld%20BGM.mp3
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 Overworld" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 03
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/03%20Overworld.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Item Jingle
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/cjtiyvzs/04%20Item%20Jingle.mp3
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 Dungeon" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 04
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/04%20Dungeon.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Discovery Jingle
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/jvgtityd/05%20Discovery%20Jingle.mp3
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 Victory Fanfare" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 05
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/05%20Victory%20Fanfare.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Secret Jingle
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/lrjijauf/06%20Secret%20Jingle.mp3
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06 Dark Golden Land" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 06
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/06%20Dark%20Golden%20Land.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Catch Treasure Fanfare
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/zdonkxsg/07%20Catch%20Treasure%20Fanfare.mp3
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07 Dark World Dungeon" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 07
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/07%20Dark%20World%20Dungeon.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Flute
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/ckamhukq/08%20Flute.mp3
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08 Tal Tal Heights" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 08
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/08%20Tal%20Tal%20Heights.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Catch Triforce Fanfare
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/avtesmys/09%20Catch%20Triforce%20Fanfare.mp3
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 Sanctuary Dungeon" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 09
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/09%20Sanctuary%20Dungeon.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Dead
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/omodeufx/10%20Dead.mp3
+#EXTINF:-1 tvg-id="Track 10" tvg-name="10 Cave" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 10
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/10%20Cave.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Game Over
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/bhfskkzh/11%20Game%20Over.mp3
+#EXTINF:-1 tvg-id="Track 11" tvg-name="11 Temple of Time" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 11
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/11%20Temple%20of%20Time.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", Death Mountain BGM
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/auljhbqa/12%20Death%20Mountain%20BGM.mp3
+#EXTINF:-1 tvg-id="Track 12" tvg-name="12 Dark Forest" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 12
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/12%20Dark%20Forest.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", When Ganon Appears and Is Defeated Fanfare
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/gjkindfa/13%20When%20Ganon%20Appears%20and%20Is%20Defeated%20Fanfare.mp3
+#EXTINF:-1 tvg-id="Track 13" tvg-name="13 Hyrule Castle" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 13
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/13%20Hyrule%20Castle.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/coverart.jpg" group-title="Music", When Zelda Is Rescued Fanfare
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/sdymlflm/14%20When%20Zelda%20Is%20Rescued%20Fanfare.mp3
-https://vgmsite.com/soundtracks/the-legend-of-zelda-nes/opsxsspw/15%20Ending%20Theme.mp3
+#EXTINF:-1 tvg-id="Track 14" tvg-name="14 Zelda 2 Epilogue" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 14
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/14%20Zelda%202%20Epilogue.mp3
 
+#EXTINF:-1 tvg-id="Track 15" tvg-name="15 Castle" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 15
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/15%20Castle.mp3
+
+#EXTINF:-1 tvg-id="Track 16" tvg-name="16 Rabbit" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 16
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/16%20Rabbit.mp3
+
+#EXTINF:-1 tvg-id="Track 17" tvg-name="17 Church" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 17
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/17%20Church.mp3
+
+#EXTINF:-1 tvg-id="Track 18" tvg-name="18 Link&#x27;s Awakening" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 18
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/18%20Link%27s%20Awakening.mp3
+
+#EXTINF:-1 tvg-id="Track 19" tvg-name="19 Ganon&#x27;s Castle" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 19
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/19%20Ganon%27s%20Castle.mp3
+
+#EXTINF:-1 tvg-id="Track 20" tvg-name="20 Zelda Two" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 20
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/20%20Zelda%20Two.mp3
+
+#EXTINF:-1 tvg-id="Track 21" tvg-name="21 Zelda Medley 1" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 21
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/21%20Zelda%20Medley%201.mp3
+
+#EXTINF:-1 tvg-id="Track 22" tvg-name="22 Medley 2" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 22
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/22%20Medley%202.mp3
+
+#EXTINF:-1 tvg-id="Track 23" tvg-name="23 Final Fanfare" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 23
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/23%20Final%20Fanfare.mp3
+
+#EXTINF:-1 tvg-id="Track 24" tvg-name="24 Outtro" tvg-logo="https://dn721803.ca.archive.org/0/items/bit-brigade-presents-the-legend-of-zelda/images.jpg" group-title="music" type="album",- 24
+https://archive.org/download/bit-brigade-presents-the-legend-of-zelda/24%20Outtro.mp3
