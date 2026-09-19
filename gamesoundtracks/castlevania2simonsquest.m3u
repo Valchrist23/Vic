@@ -1,20 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/liasosycac/01.%20Message%20of%20Darkness%20%28Naming%20BGM%29.mp3
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/mlafkztcyl/02.%20Within%20these%20Castle%20Walls%20%28Castle%20BGM%29.mp3
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/zafizwdjwg/03.%20Bloody%20Tears%20%28Roads%20by%20Day%20BGM%29.mp3
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/arkldombmc/04.%20The%20Silence%20of%20the%20Daylight%20%28Town%20by%20Day%20BGM%29.mp3
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/wyinswyuzm/05.%20Dwelling%20of%20Doom%20%28Mansion%20BGM%29.mp3
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/axsquddusq/06.%20Monster%20Dance%20%28By%20Night%20BGM%29.mp3
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/zpmlcoeyyz/07.%20Last%20Boss%20%28Last%20Boss%20BGM%29.mp3
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/shngljfvlw/08.%20Game%20Over%20%28Game%20Over%29.mp3
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/00%20Front%20small.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/castlevania-ii-simons-quest-soundtracks-2014/rfkcmexbnr/09.%20A%20Requiem%20%28Ending%20_Castlevania_%29.mp3
+#EXTM3U
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 01. Message of Darkness" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2001.%20Message%20of%20Darkness.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 02. The Silence of Daylight" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2002.%20The%20Silence%20of%20Daylight.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 03. Bloody Tears" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2003.%20Bloody%20Tears.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 04. Monster Dance" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2004.%20Monster%20Dance.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 05. Dwelling of Doom" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2005.%20Dwelling%20of%20Doom.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 06. Within These Castle Walls" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2006.%20Within%20These%20Castle%20Walls.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 07. Last Boss" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2007.%20Last%20Boss.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 08. Game Over" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2008.%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest FDS - 09. A Requiem" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20FDS%20-%2009.%20A%20Requiem.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 01. Message of Darkness" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2001.%20Message%20of%20Darkness.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 02. The Silence of Daylight" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2002.%20The%20Silence%20of%20Daylight.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 03. Bloody Tears" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2003.%20Bloody%20Tears.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 04. Monster Dance" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2004.%20Monster%20Dance.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 05. Dwelling of Doom" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2005.%20Dwelling%20of%20Doom.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 06. Within These Castle Walls" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2006.%20Within%20These%20Castle%20Walls.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 07. Last Boss" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2007.%20Last%20Boss.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 08. Game Over" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2008.%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Castlevania II Simon&#x27;s Quest NES - 09. A Requiem" tvg-logo="https://dn721905.ca.archive.org/0/items/castlevania-ii-simon-s-quest-1987-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/castlevania-ii-simon-s-quest-1987-ost/Castlevania%20II%20Simon%27s%20Quest%20NES%20-%2009.%20A%20Requiem.mp3
+
