@@ -1,40 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",Overture
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/ctaaibjl/01%20-%20Overture.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/ufejomvg/02%20-%20Map.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/qqyyxyvm/03.%20Divine%20Bloodlines.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/urceqnqe/04.%20Vampire%20Killer.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/gtldgwrp/05%20-%20Bloody%20Tears.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cnnijtms/06%20-%20Cemetery.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/iamgrhnc/07.%20Op.13.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/yjlpvzgs/08.%20Ghost%20Ship%20Painting.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/etcrqfro/09%20-%20Beginning.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/jxwcxmqp/10.%20The%20Nest.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cxvdjrkh/11.%20Stage%201%20Before%20the%20Boss%20Battle.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/jpxrbarm/12.%20Dance%20in%20Phantasmic%20Hell.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/sqkzjlpu/13.%20Dance%20of%20Illusions.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/flbrkxqm/14%20-%20Rescued.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/gsotifix/15%20-%20Stage%20Clear.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/gbxtckxr/16%20-%20Game%20Over.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/unsjribj/17%20-%20Ending.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/slwsxusz/18%20-%20Staff%20Roll.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/cover.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/castlevania-dracula-x-castlevania-vampire-s-kiss-snes/zzsmmdyd/20.%20Player%20Out.mp3
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01-Overture" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 01
+https://archive.org/download/castlevania-dracula_x_ost/01-Overture.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02-Map" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 02
+https://archive.org/download/castlevania-dracula_x_ost/02-Map.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03-Bloodlines" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 03
+https://archive.org/download/castlevania-dracula_x_ost/03-Bloodlines.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04-Vampire Hunter" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 04
+https://archive.org/download/castlevania-dracula_x_ost/04-Vampire%20Hunter.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05-Bloody Tears" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 05
+https://archive.org/download/castlevania-dracula_x_ost/05-Bloody%20Tears.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06-Cemetery" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 06
+https://archive.org/download/castlevania-dracula_x_ost/06-Cemetery.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07-Opus 13" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 07
+https://archive.org/download/castlevania-dracula_x_ost/07-Opus%2013.mp3
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08-Picture of the Ghost Ship" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 08
+https://archive.org/download/castlevania-dracula_x_ost/08-Picture%20of%20the%20Ghost%20Ship.mp3
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09-Beginning" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 09
+https://archive.org/download/castlevania-dracula_x_ost/09-Beginning.mp3
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="10-Den" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 10
+https://archive.org/download/castlevania-dracula_x_ost/10-Den.mp3
+
+#EXTINF:-1 tvg-id="Track 11" tvg-name="11-Cerberus" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 11
+https://archive.org/download/castlevania-dracula_x_ost/11-Cerberus.mp3
+
+#EXTINF:-1 tvg-id="Track 12" tvg-name="12-Boss" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 12
+https://archive.org/download/castlevania-dracula_x_ost/12-Boss.mp3
+
+#EXTINF:-1 tvg-id="Track 13" tvg-name="13-Illusionary Dance" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 13
+https://archive.org/download/castlevania-dracula_x_ost/13-Illusionary%20Dance.mp3
+
+#EXTINF:-1 tvg-id="Track 14" tvg-name="14-Rescued" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 14
+https://archive.org/download/castlevania-dracula_x_ost/14-Rescued.mp3
+
+#EXTINF:-1 tvg-id="Track 15" tvg-name="15-Stage Clear" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 15
+https://archive.org/download/castlevania-dracula_x_ost/15-Stage%20Clear.mp3
+
+#EXTINF:-1 tvg-id="Track 16" tvg-name="16-Game Over" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 16
+https://archive.org/download/castlevania-dracula_x_ost/16-Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="Track 17" tvg-name="17-Ending" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 17
+https://archive.org/download/castlevania-dracula_x_ost/17-Ending.mp3
+
+#EXTINF:-1 tvg-id="Track 18" tvg-name="18-Staff Roll" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 18
+https://archive.org/download/castlevania-dracula_x_ost/18-Staff%20Roll.mp3
+
+#EXTINF:-1 tvg-id="Track 19" tvg-name="19-Chosen Fate" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 19
+https://archive.org/download/castlevania-dracula_x_ost/19-Chosen%20Fate.mp3
+
+#EXTINF:-1 tvg-id="Track 20" tvg-name="20-Death of Richter" tvg-logo="https://dn710108.ca.archive.org/0/items/castlevania-dracula_x_ost/front.jpg" group-title="music" type="album",- 20
+https://archive.org/download/castlevania-dracula_x_ost/20-Death%20of%20Richter.mp3
+
+
