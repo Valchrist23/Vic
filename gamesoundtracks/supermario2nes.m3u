@@ -1,43 +1,176 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/vhozuniywr/01.%20Title%20Screen.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 01. Grass Land" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2001.%20Grass%20Land.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/ajrlqyvloj/02.%20Main%20Menu.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 02. Desert Land (Desert Hill)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2002.%20Desert%20Land%20%28Desert%20Hill%29.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/brbayvkgye/03.%20Overworld.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 03. Water Land (Sea Side)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2003.%20Water%20Land%20%28Sea%20Side%29.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/tjebsebecu/04.%20Underground.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 04. Giant Land (Big Island)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2004.%20Giant%20Land%20%28Big%20Island%29.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/lfnfpzoalj/05.%20Star%20Theme.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 05. Sky Land (The Sky)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2005.%20Sky%20Land%20%28The%20Sky%29.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/msjejosmwc/06.%20Bonus.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 06. Ice Land (Iced Land)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2006.%20Ice%20Land%20%28Iced%20Land%29.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/gzmbmcfepy/07.%20Battle%20Theme%20%28Birdo%2C%20Mouser%2C%20Tryclyde%2C%20Fryguy%2C%20Clawgrip%29.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 07. Pipe Land (Pipe Maze)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2007.%20Pipe%20Land%20%28Pipe%20Maze%29.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/xfqjcexnuq/08.%20Collect%20Item.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 08. Dark Land (Bowser&#x27;s Castle)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2008.%20Dark%20Land%20%28Bowser%27s%20Castle%29.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/bralrivpnd/09.%20Level%20Clear.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 09. Warp Whistle  Warp Zone" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2009.%20Warp%20Whistle%20%20Warp%20Zone.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/zmujqkqqwp/10.%20Player%20Down.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 10. Ground Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2010.%20Ground%20Theme.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/zjfxrlmqkh/11.%20Battle%20Theme%20%28Wart%29.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 11. Athletic Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2011.%20Athletic%20Theme.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/vxbamabgaa/12.%20Wart%20Defeated.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 12. Underwater Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2012.%20Underwater%20Theme.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/yahyfefuaf/13.%20Game%20Over.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 13. Underground Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2013.%20Underground%20Theme.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/Super%20Mario%20Bros.%202%20JP.jpg" group-title="Music",
-https://kappa.vgmsite.com/soundtracks/super-mario-bros.-2-jp-1988-nes/pxqozpukcq/14.%20Ending.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 14. Super Star" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2014.%20Super%20Star.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 15. Course Clear" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2015.%20Course%20Clear.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 16. Nervous Breakdown (Slot Game)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2016.%20Nervous%20Breakdown%20%28Slot%20Game%29.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 17. Enemy Battle" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2017.%20Enemy%20Battle.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 18. Music Box" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2018.%20Music%20Box.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 19. Toad&#x27;s House  P Switch" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2019.%20Toad%27s%20House%20%20P%20Switch.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 20. Fortress Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2020.%20Fortress%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 21. Fortress Boss" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2021.%20Fortress%20Boss.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 22. Boss Clear" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2022.%20Boss%20Clear.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 23. Throne Room" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2023.%20Throne%20Room.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 24. World Clear" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2024.%20World%20Clear.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 25. Airship Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2025.%20Airship%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 26. King Bowser" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2026.%20King%20Bowser.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 27. Player Down" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2027.%20Player%20Down.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 28. Game Over" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2028.%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 3 - 29. Ending Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-3-19880101-ost/Super%20Mario%20Bros.%203%20-%2029.%20Ending%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 01. Title Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2001.%20Title%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 02. Player Select" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2002.%20Player%20Select.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 03. Ground Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2003.%20Ground%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 04. Underground Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2004.%20Underground%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 05. Subspace" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2005.%20Subspace.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 06. Super Star" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2006.%20Super%20Star.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 07. Vs. Birdo" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2007.%20Vs.%20Birdo.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 08. Get Crystal Ball" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2008.%20Get%20Crystal%20Ball.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 09. World Clear" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2009.%20World%20Clear.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 10. Vs. Wart" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2010.%20Vs.%20Wart.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 11. Game Over" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2011.%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 12. Ending Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2012.%20Ending%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 13. Underground Theme (Prototype)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2013.%20Underground%20Theme%20%28Prototype%29.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Super Mario Bros. 2 - 14. Super Star (Prototype)" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Super%20Mario%20Bros.%202%20-%2014.%20Super%20Star%20%28Prototype%29.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 01. Title Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2001.%20Title%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 02. Player Select" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2002.%20Player%20Select.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 03. Ground Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2003.%20Ground%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 04. Underground Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2004.%20Underground%20Theme.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 05. Subspace" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2005.%20Subspace.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 06. Get Item" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2006.%20Get%20Item.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 07. Super Star" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2007.%20Super%20Star.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 08. Vs. Birdo" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2008.%20Vs.%20Birdo.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 09. Get Crystal Ball" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2009.%20Get%20Crystal%20Ball.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 10. World Clear" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2010.%20World%20Clear.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 11. Vs. Wart" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2011.%20Vs.%20Wart.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 12. Game Over" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2012.%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 13. Player Down" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2013.%20Player%20Down.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 14. File Clear" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2014.%20File%20Clear.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Yume Kōjō Doki Doki Panic - 15. Ending Theme" tvg-logo="https://dn720705.ca.archive.org/0/items/super-mario-bros-2-1988-ost/cover.jpg" group-title="music" type="album",- null
+https://archive.org/download/super-mario-bros-2-1988-ost/Yume%20K%C5%8Dj%C5%8D%20Doki%20Doki%20Panic%20-%2015.%20Ending%20Theme.mp3
+
