@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 Title Screen" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 01
+https://archive.org/download/batman-the-video-game/01%20Title%20Screen.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 Prologue   Staff Roll" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 02
+https://archive.org/download/batman-the-video-game/02%20Prologue%20_%20Staff%20Roll.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 Cutscene" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 03
+https://archive.org/download/batman-the-video-game/03%20Cutscene.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 Streets of Desolation (Stages 1 &amp; 5  Gotham City  Cathedral)" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 04
+https://archive.org/download/batman-the-video-game/04%20Streets%20of%20Desolation%20%28Stages%201%20%26%205_%20Gotham%20City%20%20Cathedral%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 Boss Battle" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 05
+https://archive.org/download/batman-the-video-game/05%20Boss%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06 Axis Chemical Factory (Stage 2)" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 06
+https://archive.org/download/batman-the-video-game/06%20Axis%20Chemical%20Factory%20%28Stage%202%29.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07 Underground Conduit (Stage 3)" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 07
+https://archive.org/download/batman-the-video-game/07%20Underground%20Conduit%20%28Stage%203%29.mp3
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08 Laboratory Ruins (Stage 4)" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 08
+https://archive.org/download/batman-the-video-game/08%20Laboratory%20Ruins%20%28Stage%204%29.mp3
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 Life Lost" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 09
+https://archive.org/download/batman-the-video-game/09%20Life%20Lost.mp3
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="10 Game Over" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 10
+https://archive.org/download/batman-the-video-game/10%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="Track 11" tvg-name="11 Ending (Joker&#x27;s Fall)" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 11
+https://archive.org/download/batman-the-video-game/11%20Ending%20%28Joker%27s%20Fall%29.mp3
+
+#EXTINF:-1 tvg-id="Track 12" tvg-name="12 Final Cutscene - Part 1 (Prototype)" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 12
+https://archive.org/download/batman-the-video-game/12%20Final%20Cutscene%20-%20Part%201%20%28Prototype%29.mp3
+
+#EXTINF:-1 tvg-id="Track 13" tvg-name="13 Final Cutscene - Part 2 (Prototype)" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 13
+https://archive.org/download/batman-the-video-game/13%20Final%20Cutscene%20-%20Part%202%20%28Prototype%29.mp3
+
+#EXTINF:-1 tvg-id="Track 14" tvg-name="14 Pause" tvg-logo="https://dn710006.ca.archive.org/0/items/batman-the-video-game/417px-Batman_-_NES_-_USA.jpg" group-title="music" type="album",- 14
+https://archive.org/download/batman-the-video-game/14%20Pause.mp3
+
