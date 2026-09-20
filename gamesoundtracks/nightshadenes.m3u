@@ -1,40 +1,86 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Title Screen, Hideout, & Credits
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/moiboern/01_Title%20Screen%2C%20Hideout%2C%20%26%20Credits.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 01. The Moonlight Duel" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2001.%20The%20Moonlight%20Duel.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Sewer & Streets Theme 1
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/ygsbkdqi/02_Sewer%20%26%20Streets%20Theme%201.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 02. Determination - Father&#x27;s Message" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2002.%20Determination%20-%20Father%27s%20Message.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Streets Theme 2 (Pyramid Club)
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/uyyaondf/03_Streets%20Theme%202%20%28Pyramid%20Club%29.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 03. The Dragon Ninja" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2003.%20The%20Dragon%20Ninja.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Street Theme 3 (Nightclub)
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/swlvwzdi/04_Street%20Theme%203%20%28Nightclub%29.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 04. Mysterious Woman" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2004.%20Mysterious%20Woman.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Streets Theme 4
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/gqososic/05_Streets%20Theme%204.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 05. Bravery - On the Clutches" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2005.%20Bravery%20-%20On%20the%20Clutches.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Secret Area & Underground
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/krxvxwxx/06_Secret%20Area%20%26%20Underground.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 06. Reminiscence" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2006.%20Reminiscence.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Sutekh's Place
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/jynqlyog/07_Sutekh%27s%20Place.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 07. A Sudden Development" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2007.%20A%20Sudden%20Development.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Sutekh's Theme
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/kgyrbezg/08_Sutekh%27s%20Theme.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 08. Like a Howling Gale" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2008.%20Like%20a%20Howling%20Gale.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Fight Theme
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/jjqrlkhu/09_Fight%20Theme.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 09. In Hiding - Pursuing the Nightmare" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2009.%20In%20Hiding%20-%20Pursuing%20the%20Nightmare.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Alternate Fight Theme (Unused)
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/agpbqvjm/10_Alternate%20Fight%20Theme%20%28Unused%29.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 10. Eyecatch" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2010.%20Eyecatch.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Dangerous Situation
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/vsnonvgo/11_Dangerous%20Situation.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 11. The CIA" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2011.%20The%20CIA.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Game Over
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/awgpivrm/12_Game%20Over.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 12. The Sanctuary of Shadows" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2012.%20The%20Sanctuary%20of%20Shadows.mp3
 
-#EXTINF:-1 tvg-logo="https://kappa.vgmsite.com/soundtracks/nightshade-nes/Nightshade.jpg" group-title="Music",Nightshade Logo
-https://kappa.vgmsite.com/soundtracks/nightshade-nes/fdozbrnb/13_Nightshade%20Logo.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 13. The Amazing Ryu" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2013.%20The%20Amazing%20Ryu.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 14. Crisis" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2014.%20Crisis.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 15. Surprise Attack - The Wicked God&#x27;s Secret Maneuvers" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2015.%20Surprise%20Attack%20-%20The%20Wicked%20God%27s%20Secret%20Maneuvers.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 16. Malth the Crimson Terror" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2016.%20Malth%20the%20Crimson%20Terror.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 17. The Truth Concealed" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2017.%20The%20Truth%20Concealed.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 18. Melancholy Destiny" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2018.%20Melancholy%20Destiny.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 19. Requiem" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2019.%20Requiem.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 20. The Truth Concealed (Reprise)" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2020.%20The%20Truth%20Concealed%20%28Reprise%29.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 21. The Menace of Jaquio" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2021.%20The%20Menace%20of%20Jaquio.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 22. Showdown At the Portal of Death (Battlefield)" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2022.%20Showdown%20At%20the%20Portal%20of%20Death%20%28Battlefield%29.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 23. The Demon&#x27;s Incantation" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2023.%20The%20Demon%27s%20Incantation.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 24. In a Pinch - The Ordeal of Battle" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2024.%20In%20a%20Pinch%20-%20The%20Ordeal%20of%20Battle.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 25. At the End of the Battle" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2025.%20At%20the%20End%20of%20the%20Battle.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 26. Irene Overture of Dawn (Prelude)" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2026.%20Irene%20Overture%20of%20Dawn%20%28Prelude%29.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 27. End Credits" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2027.%20End%20Credits.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Ninja Gaiden - 28. Game Over" tvg-logo="https://dn721802.ca.archive.org/0/items/ninja-gaiden-1988-ost/cover-alt.png" group-title="music" type="album",- null
+https://archive.org/download/ninja-gaiden-1988-ost/Ninja%20Gaiden%20-%2028.%20Game%20Over.mp3
+
