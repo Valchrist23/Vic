@@ -1,83 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Prologue
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/drulonfmez/01%20-%20Prologue.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Infiltrate
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/lvdpgndcis/02%20-%20Infiltrate.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Undercover
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/vgjnjkrtyo/03%20-%20Undercover.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Aurora
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/nfaoceqbcl/04%20-%20Aurora.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Stealth
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/yfemfmqlmi/05%20-%20Stealth.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Hope
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/mkavwwlrhj/06%20-%20Hope.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Submarine
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cwlufiurgm/07%20-%20Submarine.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Grind
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/lrvkwcstyc/08%20-%20Grind.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Revolver
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/caqtswbsks/09%20-%20Revolver.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Octavia
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/fmwheoriuo/10%20-%20Octavia.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Hymns
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/pwfozsubnw/11%20-%20Hymns.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Mission
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/bbeshocztd/12%20-%20Mission.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Pulse
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/enmtdpaxlg/13%20-%20Pulse.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Escape
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/thmzflkytt/14%20-%20Escape.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Committed
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/kpxctdflhd/15%20-%20Committed.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Loyalty
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/epxleodkqx/16%20-%20Loyalty.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Lightness
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/fgowldyuud/17%20-%20Lightness.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Hypnotize
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/oqdrktpwzo/18%20-%20Hypnotize.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Approach
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/mluriadcmt/19%20-%20Approach.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Tunnel
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/bmojaiuajj/20%20-%20Tunnel.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Element
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/ktqmxnrdit/21%20-%20Element.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Ostinato
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/wlasfbynuz/22%20-%20Ostinato.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Vertigo
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/djmqzfnatv/23%20-%20Vertigo.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Fugue
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/mitcahzayo/24%20-%20Fugue.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Lyrical
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/ucdeedsnzq/25%20-%20Lyrical.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Uncertainty
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/fmxpanbwuv/26%20-%20Uncertainty.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/cover.png" group-title="Music",Epilogue
-https://vgmsite.com/soundtracks/metal-gear-solid-original-game-score/uczelzsujp/27%20-%20Epilogue.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 01. Main Theme" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2001.%20Main%20Theme.mp3
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Main Theme
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/cbhwsfzs/01.%20Metal%20Gear%20Solid%20Main%20Theme.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",VR Training
-https://kappa.vgmsite.com/soundtracks/metal-gear-solid-original-soundtrack/hlherdfu/19.%20VR%20Training.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Discovery
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/wvtcsvyv/02.%20Discovery.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Cavern
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/czifemec/03.%20Cavern.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Encounter
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/cauiyrrj/04.%20Encounter.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Warheads Storage
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/gvcnoabv/05.%20Warhead%20Storage.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Duel
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/pwhpkwza/06.%20Duel.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Mantis Hymn
-https://kappa.vgmsite.com/soundtracks/metal-gear-solid-original-soundtrack/jldrlzjp/10.%20Mantis%27%20Hymn.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Hind
-https://kappa.vgmsite.com/soundtracks/metal-gear-solid-original-soundtrack/nbarylgs/11.%20Hind%20D.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Blast Furnace
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/xmjzmjjv/07.%20Furnace.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Rex Lair
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/vwefalht/08.%20Rex%27s%20Lair.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",Escape Shadow Moses
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/bkcyeizn/09.%20Escape.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/00%20Front.png" group-title="Music",The Best Is Yet To Come
-https://vgmsite.com/soundtracks/metal-gear-solid-music-cd/iwyysvgm/10.%20End%20Title%20-%20The%20Best%20Is%20Yet%20To%20Come.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 02. Introduction" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2002.%20Introduction.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 03. Discovery" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2003.%20Discovery.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 04. Cavern" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2004.%20Cavern.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 05. Intruder 1" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2005.%20Intruder%201.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 06. Encounter" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2006.%20Encounter.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 07. Intruder 2" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2007.%20Intruder%202.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 08. Warhead Storage" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2008.%20Warhead%20Storage.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 09. Intruder 3" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2009.%20Intruder%203.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 10. Mantis&#x27; Hymn" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2010.%20Mantis%27%20Hymn.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 11. Hind D" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2011.%20Hind%20D.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 12. Duel" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2012.%20Duel.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 13. Enclosure" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2013.%20Enclosure.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 14. Blast Furnace" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2014.%20Blast%20Furnace.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 15. Colosseo" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2015.%20Colosseo.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 16. Rex&#x27;s Lair" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2016.%20Rex%27s%20Lair.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 17. Escape" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2017.%20Escape.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 18. The Best Is Yet to Come" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2018.%20The%20Best%20Is%20Yet%20to%20Come.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 19. VR Training" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2019.%20VR%20Training.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 20. Main Theme (E3 1997 Version)" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2020.%20Main%20Theme%20%28E3%201997%20Version%29.mp3
+
+#EXTINF:-1 tvg-id="null" tvg-name="Metal Gear Solid - 21. Metal Gear Solid Control Mix" tvg-logo="https://dn721802.ca.archive.org/0/items/metal-gear-solid-1998-ost/cover-pal.jpg" group-title="music" type="album",- null
+https://archive.org/download/metal-gear-solid-1998-ost/Metal%20Gear%20Solid%20-%2021.%20Metal%20Gear%20Solid%20Control%20Mix.mp3
+
