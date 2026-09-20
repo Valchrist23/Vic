@@ -1,28 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 01 Title
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/xdntglii/01%20Title.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 01. Title Theme" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Title Theme
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2001.%20Title%20Theme.mp3
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 02 Introduction
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/leqplwyt/02%20Introduction.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 02. Introduction" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Introduction
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2002.%20Introduction.mp3
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 03 Section Start
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/kqvbskag/03%20Section%20Start.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 03. Section Start" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Section Start
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2003.%20Section%20Start.mp3
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 04 Section BGM 1
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/isqeigmw/04%20Section%20BGM%201.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 04. Section 1" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Section 1
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2004.%20Section%201.mp3
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 05 Section BGM 2
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/ggtywxco/05%20Section%20BGM%202.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 05. Section 2" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Section 2
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2005.%20Section%202.mp3
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 06 Section Completed
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/byomfwpz/06%20Section%20Completed.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 06. Section Completed" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Section Completed
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2006.%20Section%20Completed.mp3
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 07 Ending
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/cnytepar/07%20Ending.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 07. Ending Theme" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Ending Theme"
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2007.%20Ending%20Theme.mp3
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 08 Game Over
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/muvxdyoh/08%20Game%20Over.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 08. Game Over" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Game Over
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2008.%20Game%20Over.mp3
 
-#EXTINF:-1 tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/S1.jpg" group-title="Music", 09 Ranking
-https://eta.vgmtreasurechest.com/soundtracks/silver-surfer-ost-1990-nes/hvneenoa/09%20Ranking.mp3
+#EXTINF:-1 tvg-id="null" tvg-name="Silver Surfer - 09. Ranking" tvg-logo="https://dn721807.ca.archive.org/0/items/silver-surfer-1990-ost/cover.jpg" group-title="music" type="album",- Ranking
+https://archive.org/download/silver-surfer-1990-ost/Silver%20Surfer%20-%2009.%20Ranking.mp3
+
