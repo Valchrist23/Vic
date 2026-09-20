@@ -1,34 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/cmyxqmjh/01%20Opening%20~Main%20Theme~.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/eaklxqpv/02%20Demo%20BGM.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/nknhobhf/03%20Stages%201%20%26%206%20~Gotham%20in%20Danger~.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/nvlojjcf/04%20Demo.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/limkpkff/05%20Stages%202-1%20%26%205-1%20~High%20Above%20and%20Deep%20Below~.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/vuyaytaz/06%20Stages%202-2%20%26%205-2%20~Urgent%20Situation~.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/agsohjel/07%20Stage%203%20~Dangerous%20Ways~.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/raonftdr/08%20Stage%204%20~Snowy%20Night~.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/pbwrjiij/09%20Stage%207%20~Decisive%20Fight~.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/gnzxvnlr/10%20VS%20Boss.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/ncxxtosq/11%20Boss%20~Joker%27s%20Minion~.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/wmhkttri/12%20Stage%20Clear.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/ootwlfog/13%20Ending.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/cscwcrng/14%20Game%20Over.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/weqrtubf/15%20Unused%20%5BTrack%206%5D.mp3
-#EXTINF:-1 tvg-logo="https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/U-Front.jpg" group-title="Music",
-https://vgmsite.com/soundtracks/batman-return-of-the-joker-nes/vcvedtwb/16%20Pause.mp3
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 Title Screen" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/batman-return-of-the-joker/01%20Title%20Screen.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 Opening" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/batman-return-of-the-joker/02%20Opening.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 Start" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/batman-return-of-the-joker/03%20Start.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 Stages 1 &amp; 6  Gotham City Cathedral   Ammunition Base" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/batman-return-of-the-joker/04%20Stages%201%20%26%206_%20Gotham%20City%20Cathedral%20_%20Ammunition%20Base.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 Stage 1 Interlude" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/batman-return-of-the-joker/05%20Stage%201%20Interlude.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06 VS Boss" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 06
+https://archive.org/download/batman-return-of-the-joker/06%20VS%20Boss.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07 VS Boss (w SFX)" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 07
+https://archive.org/download/batman-return-of-the-joker/07%20VS%20Boss%20%28w%20SFX%29.mp3
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08 Boss Battle" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 08
+https://archive.org/download/batman-return-of-the-joker/08%20Boss%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 Stage Clear" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 09
+https://archive.org/download/batman-return-of-the-joker/09%20Stage%20Clear.mp3
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="10 Stages 2-1 &amp; 5-1  Assembly Line   Sewer System" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 10
+https://archive.org/download/batman-return-of-the-joker/10%20Stages%202-1%20%26%205-1_%20Assembly%20Line%20_%20Sewer%20System.mp3
+
+#EXTINF:-1 tvg-id="Track 11" tvg-name="11 Stages 2-2 &amp; 5-2  Weapons Plant   Deserted Tunnel" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 11
+https://archive.org/download/batman-return-of-the-joker/11%20Stages%202-2%20%26%205-2_%20Weapons%20Plant%20_%20Deserted%20Tunnel.mp3
+
+#EXTINF:-1 tvg-id="Track 12" tvg-name="12 Stage 3  Snow Mountain" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 12
+https://archive.org/download/batman-return-of-the-joker/12%20Stage%203_%20Snow%20Mountain.mp3
+
+#EXTINF:-1 tvg-id="Track 13" tvg-name="13 Stage 4  Refinery" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 13
+https://archive.org/download/batman-return-of-the-joker/13%20Stage%204_%20Refinery.mp3
+
+#EXTINF:-1 tvg-id="Track 14" tvg-name="14 Stage 7  Island of Ha-Hacienda" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 14
+https://archive.org/download/batman-return-of-the-joker/14%20Stage%207_%20Island%20of%20Ha-Hacienda.mp3
+
+#EXTINF:-1 tvg-id="Track 15" tvg-name="15 Ending   Staff Roll" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 15
+https://archive.org/download/batman-return-of-the-joker/15%20Ending%20_%20Staff%20Roll.mp3
+
+#EXTINF:-1 tvg-id="Track 16" tvg-name="16 Life Lost" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 16
+https://archive.org/download/batman-return-of-the-joker/16%20Life%20Lost.mp3
+
+#EXTINF:-1 tvg-id="Track 17" tvg-name="17 Game Over" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 17
+https://archive.org/download/batman-return-of-the-joker/17%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="Track 18" tvg-name="18 SFX  Continue Countdown" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 18
+https://archive.org/download/batman-return-of-the-joker/18%20SFX_%20Continue%20Countdown.mp3
+
+#EXTINF:-1 tvg-id="Track 19" tvg-name="19 SFX  Continue Countdown Finished" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 19
+https://archive.org/download/batman-return-of-the-joker/19%20SFX_%20Continue%20Countdown%20Finished.mp3
+
+#EXTINF:-1 tvg-id="Track 20" tvg-name="20 Unused Theme" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 20
+https://archive.org/download/batman-return-of-the-joker/20%20Unused%20Theme.mp3
+
+#EXTINF:-1 tvg-id="Track 21" tvg-name="21 Pause" tvg-logo="https://dn721609.ca.archive.org/0/items/batman-return-of-the-joker/4618336-batman-return-of-the-joker-nes-front-cover.jpg" group-title="music" type="album",- 21
+https://archive.org/download/batman-return-of-the-joker/21%20Pause.mp3
+
