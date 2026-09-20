@@ -1,0 +1,77 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 Prologue - Part 1" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 01
+https://archive.org/download/bionic-commando_nes/01%20Prologue%20-%20Part%201.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 Prologue - Part 2" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 02
+https://archive.org/download/bionic-commando_nes/02%20Prologue%20-%20Part%202.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 Prologue - Part 3" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 03
+https://archive.org/download/bionic-commando_nes/03%20Prologue%20-%20Part%203.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 SFX  Start" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 04
+https://archive.org/download/bionic-commando_nes/04%20SFX_%20Start.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 The Mission Begins" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 05
+https://archive.org/download/bionic-commando_nes/05%20The%20Mission%20Begins.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06 OK, We&#x27;ll Move (Map)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 06
+https://archive.org/download/bionic-commando_nes/06%20OK%2C%20We%27ll%20Move%20%28Map%29.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07 Bionic Commando Theme (Areas 1, 3, 4 &amp; 7)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 07
+https://archive.org/download/bionic-commando_nes/07%20Bionic%20Commando%20Theme%20%28Areas%201%2C%203%2C%204%20%26%207%29.mp3
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08 Boss Dialogue" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 08
+https://archive.org/download/bionic-commando_nes/08%20Boss%20Dialogue.mp3
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 Intruder Alert (Boss Combat)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 09
+https://archive.org/download/bionic-commando_nes/09%20Intruder%20Alert%20%28Boss%20Combat%29.mp3
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="10 Area Clear" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 10
+https://archive.org/download/bionic-commando_nes/10%20Area%20Clear.mp3
+
+#EXTINF:-1 tvg-id="Track 11" tvg-name="11 Leap of Faith (Areas 2, 9 &amp; 11)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 11
+https://archive.org/download/bionic-commando_nes/11%20Leap%20of%20Faith%20%28Areas%202%2C%209%20%26%2011%29.mp3
+
+#EXTINF:-1 tvg-id="Track 12" tvg-name="12 Meet the Enemy and Descend (Combat)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 12
+https://archive.org/download/bionic-commando_nes/12%20Meet%20the%20Enemy%20and%20Descend%20%28Combat%29.mp3
+
+#EXTINF:-1 tvg-id="Track 13" tvg-name="13 Heat Wave (Areas 5, 6 &amp; 10)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 13
+https://archive.org/download/bionic-commando_nes/13%20Heat%20Wave%20%28Areas%205%2C%206%20%26%2010%29.mp3
+
+#EXTINF:-1 tvg-id="Track 14" tvg-name="14 Amongst Allies (Neutral Zone Areas 13-19)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 14
+https://archive.org/download/bionic-commando_nes/14%20Amongst%20Allies%20%28Neutral%20Zone%20Areas%2013-19%29.mp3
+
+#EXTINF:-1 tvg-id="Track 15" tvg-name="15 Power Plant (Area 8)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 15
+https://archive.org/download/bionic-commando_nes/15%20Power%20Plant%20%28Area%208%29.mp3
+
+#EXTINF:-1 tvg-id="Track 16" tvg-name="16 Rise of the Albatross (Area 12)" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 16
+https://archive.org/download/bionic-commando_nes/16%20Rise%20of%20the%20Albatross%20%28Area%2012%29.mp3
+
+#EXTINF:-1 tvg-id="Track 17" tvg-name="17 Albatross Battle" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 17
+https://archive.org/download/bionic-commando_nes/17%20Albatross%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 18" tvg-name="18 SFX  Life Lost" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 18
+https://archive.org/download/bionic-commando_nes/18%20SFX_%20Life%20Lost.mp3
+
+#EXTINF:-1 tvg-id="Track 19" tvg-name="19 Game Over" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 19
+https://archive.org/download/bionic-commando_nes/19%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="Track 20" tvg-name="20 Mission Accomplished" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 20
+https://archive.org/download/bionic-commando_nes/20%20Mission%20Accomplished.mp3
+
+#EXTINF:-1 tvg-id="Track 21" tvg-name="21 Super Joe Rescued" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 21
+https://archive.org/download/bionic-commando_nes/21%20Super%20Joe%20Rescued.mp3
+
+#EXTINF:-1 tvg-id="Track 22" tvg-name="22 Epilogue   Staff Roll" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 22
+https://archive.org/download/bionic-commando_nes/22%20Epilogue%20_%20Staff%20Roll.mp3
+
+#EXTINF:-1 tvg-id="Track 23" tvg-name="23 SFX  Select Item" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 23
+https://archive.org/download/bionic-commando_nes/23%20SFX_%20Select%20Item.mp3
+
+#EXTINF:-1 tvg-id="Track 24" tvg-name="24 SFX  Level Up" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 24
+https://archive.org/download/bionic-commando_nes/24%20SFX_%20Level%20Up.mp3
+
+#EXTINF:-1 tvg-id="Track 25" tvg-name="25 SFX  One Up" tvg-logo="https://archive.org/download/bionic-commando_nes/2361171-nes_bioniccommando.jpg" group-title="music" type="album",- 25
+https://archive.org/download/bionic-commando_nes/25%20SFX_%20One%20Up.mp3
+
